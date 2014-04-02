@@ -1,0 +1,54 @@
+<script type="text/javascript" src="%%GLOBAL_AppPath%%/javascript/jquery/plugins/jCarousel/jCarousel.js?%%GLOBAL_JSCacheToken%%"></script>
+%%SNIPPET_ProductImageZoomer%%
+
+<script type="text/javascript">//<![CDATA[
+var ThumbURLs = new Array();
+var ProductImageDescriptions = new Array();
+var CurrentProdThumbImage = %%GLOBAL_CurrentProdThumbImage%%;
+var ShowVariationThumb =false;
+var ProductThumbWidth = %%GLOBAL_ProductThumbWidth%%;
+var ProductThumbHeight =  %%GLOBAL_ProductThumbHeight%%;
+var ProductMaxZoomWidth = %%GLOBAL_ProductMaxZoomWidth%%;
+var ProductMaxZoomHeight =  %%GLOBAL_ProductMaxZoomHeight%%;
+var ProductTinyWidth = %%GLOBAL_ProductMaxTinyWidth%%;
+var ProductTinyHeight =  %%GLOBAL_ProductMaxTinyHeight%%;
+
+%%GLOBAL_ProdImageJavascript%%
+
+var ShowImageZoomer = %%GLOBAL_ShowImageZoomer%%;
+
+var productId = %%GLOBAL_ProductId%%;
+//]]></script>
+%%Discount.FreeShippingEligibility%%
+<div class="Block Moveable Panel PrimaryProductDetails" id="ProductDetails">
+    <div class="BlockContent">
+        %%GLOBAL_ProductDetailFlashMessages%%
+
+        %%GLOBAL_ProductNameOptimizerScriptTag%%
+            <h2 class="heading">%%GLOBAL_ProductName%%</h2>
+        %%GLOBAL_ProductNameOptimizerNoScriptTag%%
+
+        <div class="ProductThumb" style="%%GLOBAL_HideProductThumb%%">
+            %%GLOBAL_LightBoxImageJavascript%%
+            %%SNIPPET_ProductThumbImage%%
+
+            <div class="ImageCarouselBox" style="margin:0 auto; %%GLOBAL_HideImageCarousel%%">
+                <a id="ImageScrollPrev" class="prev" href="#"><img src="%%GLOBAL_IMG_PATH%%/LeftArrow.png" alt="" width="20" height="20" /></a>
+
+                <div class="ProductTinyImageList">
+                    <ul>
+                        %%SNIPPET_ProductTinyImages%%
+                    </ul>
+                </div>
+
+                <a id="ImageScrollNext" class="next" href="#"><img src="%%GLOBAL_IMG_PATH%%/RightArrow.png" alt="" width="20" height="20" /></a>
+            </div>
+            <div style="%%GLOBAL_HideMorePicturesLink%%" class="SeeMorePicturesLink">
+                <a href="#" onclick="%%GLOBAL_TinyImageClickJavascript%% return false;" class="ViewLarger">%%GLOBAL_SeeMorePictures%%</a>
+            </div>
+        </div>
+        
+        <br class="Clear" />
+        <hr />
+    </div>
+</div>

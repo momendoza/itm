@@ -1,0 +1,94 @@
+<script type="text/javascript">
+//<![CDATA[
+    
+    $('#ContactForm').submit(function() {
+
+        // Nombre
+        if($('#contact_names').val() == '' || $('#contact_names').val() == ' ' || !isNaN($('#contact_names').val())) {
+            alert('Ingrese su Nombre');
+            $('#contact_names').focus();
+            return false;
+        }
+
+        // Apellido
+        if($('#contact_lastname').val() == '' || $('#contact_lastname').val() == ' ' || !isNaN($('#contact_lastname').val())) {
+            alert('Ingrese su Apellido');
+            $('#contact_lastname').focus();
+            return false;
+        }
+
+        // Domicilio
+        if($('#contact_address').val() == '' || $('#contact_address').val() == ' ' || $('#contact_address').val().length < 10) {
+            alert('Ingrese su Domicilio');
+            $('#contact_address').focus();
+            return false;
+        }
+
+        // Colonia
+        if($('#contact_colony').val() == '' || $('#contact_colony').val() == ' ' || $('#contact_colony').val().length < 4) {
+            alert('Ingrese su Colonia');
+            $('#contact_colony').focus();
+            return false;
+        }
+
+        // Pa�s y Estado
+        if($('#contact_country').val() == '' || $('#contact_country').val() == ' ' || $('#contact_country').val().length < 2 || !isNaN($('#contact_country').val())) {
+            alert('Ingrese un Pa�s y Estado v�lidos');
+            $('#contact_country').focus();
+            return false;
+        }
+
+        // Ciudad
+        if($('#contact_city').val() == '' || $('#contact_city').val() == ' ' || $('#contact_city').val().length < 2 || !isNaN($('#contact_city').val())) {
+            alert('Ingrese una Ciudad v�lida');
+            $('#contact_city').focus();
+            return false;
+        }
+
+        // C.P.
+        if($('#contact_zip').val() == '' || $('#contact_zip').val() == ' ' || isNaN($('#contact_zip').val())) {
+            alert('Ingrese un C�digo Postal v�lido (s�lo numeros)');
+            $('#contact_zip').focus();
+            return false;
+        }
+
+        // Tel�fono
+        if($('#contact_phone').val() == '' || $('#contact_phone').val() == ' ' || $('#contact_phone').val().length < 7) {
+            alert('Ingrese un Tel�fono v�lido');
+            $('#contact_phone').focus();
+            return false;
+        }
+
+        // Cumplea�os
+        if($('#contact_birthday').val() == '' || $('#contact_birthday').val() == ' ' || $('#contact_birthday').val().length < 4) {
+            alert('Ingrese una fecha de nacimiento v�lida');
+            $('#contact_birthday').focus();
+            return false;
+        }
+
+        var email_address = $('#contact_email').val();
+        if(email_address.indexOf('@') == -1 || email_address.indexOf('.') == -1) {
+            alert('%%LNG_ContactFormEnterEmail%%');
+            $('#contact_email').focus();
+            $('#contact_email').select();
+            return false;
+        }
+
+
+
+        if($('#contact_question').val() == '') {
+            alert('%%LNG_ContactFormEnterQuestion%%');
+            $('#contact_question').focus();
+            return false;
+        }
+
+        if('%%GLOBAL_HideCaptcha%%' == '' && $('#captcha').val() == '') {
+            alert('%%LNG_EnterCaptchaCode%%');
+            $('#captcha').focus();
+            return false;
+        }
+
+        return true;
+    });
+//]]>
+</script>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Productos Populares]]></title>
+	<subtitle type="html"><![CDATA[La lista de productos populares en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?action=popularproducts&amp;categoryid=639&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-03-20T16:07:49Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:47:00Z</published>
+		<updated>2014-01-21T13:47:00Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Mantel-Provenzal-Oro.html" />
+		<id>http://intima.com.mx/products/Mantel-Provenzal-Oro.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Mantel Provenzal Oro]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Mantel-Provenzal-Oro.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Mantel-Provenzal-Oro.html"  ><img src="http://intima.com.mx/product_images/o/568/939_Imagen1__18163_thumb.jpg" alt="Mantel Provenzal Oro" /></a></div>Repelente.<p><strong>Precio: $449.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Repelente.]]></isc:description>
+		<isc:productid><![CDATA[2707]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/o/568/939_Imagen1__18163_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/o/184/939_Imagen1__85557_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$449.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:47:00Z</published>
+		<updated>2014-01-21T13:47:00Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Mantel-Rectangular-Versalles.html" />
+		<id>http://intima.com.mx/products/Mantel-Rectangular-Versalles.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Mantel Rectangular Versalles]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Mantel-Rectangular-Versalles.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Mantel-Rectangular-Versalles.html"  ><img src="http://intima.com.mx/product_images/t/169/943_Imagen1__68811_thumb.jpg" alt="Mantel Rectangular Versalles" /></a></div><p><strong>Precio: $419.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2708]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/t/169/943_Imagen1__68811_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/b/062/943_Imagen1__80171_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$419.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:47:28Z</published>
+		<updated>2014-01-21T13:47:28Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Mantel-Rectangular-Bordado-Realeza.html" />
+		<id>http://intima.com.mx/products/Mantel-Rectangular-Bordado-Realeza.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Mantel Rectangular Bordado Realeza]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Mantel-Rectangular-Bordado-Realeza.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Mantel-Rectangular-Bordado-Realeza.html"  ><img src="http://intima.com.mx/product_images/u/089/940_Imagen1__16415_thumb.jpg" alt="Mantel Rectangular Bordado Realeza" /></a></div>Bordado.<p><strong>Precio: $599.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Bordado.]]></isc:description>
+		<isc:productid><![CDATA[2736]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/u/089/940_Imagen1__16415_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/d/111/940_Imagen1__76998_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$599.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:47:28Z</published>
+		<updated>2014-01-21T13:47:28Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Mantel-Rectangular-Florentino.html" />
+		<id>http://intima.com.mx/products/Mantel-Rectangular-Florentino.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Mantel Rectangular Florentino]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Mantel-Rectangular-Florentino.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Mantel-Rectangular-Florentino.html"  ><img src="http://intima.com.mx/product_images/t/714/941_Imagen1__21824_thumb.jpg" alt="Mantel Rectangular Florentino" /></a></div><p><strong>Precio: $419.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2737]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/t/714/941_Imagen1__21824_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/y/017/941_Imagen1__44617_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$419.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:47:29Z</published>
+		<updated>2014-01-21T13:47:29Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Mantel-Redondo-Toledo.html" />
+		<id>http://intima.com.mx/products/Mantel-Redondo-Toledo.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Mantel Redondo Toledo]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Mantel-Redondo-Toledo.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Mantel-Redondo-Toledo.html"  ><img src="http://intima.com.mx/product_images/p/991/945_Imagen1__85090_thumb.jpg" alt="Mantel Redondo Toledo" /></a></div><p><strong>Precio: $419.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2738]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/p/991/945_Imagen1__85090_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/f/061/945_Imagen1__82656_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$419.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:48:18Z</published>
+		<updated>2014-01-21T13:48:18Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Mantel-Rectangular-Toledo.html" />
+		<id>http://intima.com.mx/products/Mantel-Rectangular-Toledo.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Mantel Rectangular Toledo]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Mantel-Rectangular-Toledo.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Mantel-Rectangular-Toledo.html"  ><img src="http://intima.com.mx/product_images/n/932/942_Imagen1__31747_thumb.jpg" alt="Mantel Rectangular Toledo" /></a></div><p><strong>Precio: $419.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2762]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/n/932/942_Imagen1__31747_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/n/308/942_Imagen1__31746_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$419.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:48:18Z</published>
+		<updated>2014-01-21T13:48:18Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Mantel-Redondo-Florentino.html" />
+		<id>http://intima.com.mx/products/Mantel-Redondo-Florentino.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Mantel Redondo Florentino]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Mantel-Redondo-Florentino.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Mantel-Redondo-Florentino.html"  ><img src="http://intima.com.mx/product_images/c/463/944_Imagen1__14748_thumb.jpg" alt="Mantel Redondo Florentino" /></a></div><p><strong>Precio: $419.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2763]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/c/463/944_Imagen1__14748_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/l/271/944_Imagen1__36466_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$419.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:48:39Z</published>
+		<updated>2014-01-21T13:48:39Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Mantel-Redondo-Versalles.html" />
+		<id>http://intima.com.mx/products/Mantel-Redondo-Versalles.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Mantel Redondo Versalles]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Mantel-Redondo-Versalles.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Mantel-Redondo-Versalles.html"  ><img src="http://intima.com.mx/product_images/m/082/946_Imagen1__81819_thumb.jpg" alt="Mantel Redondo Versalles" /></a></div><p><strong>Precio: $419.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2776]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/m/082/946_Imagen1__81819_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/t/553/946_Imagen1__61983_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$419.00]]></isc:price>
+	</entry>
+</feed>

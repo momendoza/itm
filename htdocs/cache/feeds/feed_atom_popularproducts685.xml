@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Productos Populares]]></title>
+	<subtitle type="html"><![CDATA[La lista de productos populares en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?action=popularproducts&amp;categoryid=685&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-02-19T15:30:50Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:49:15Z</published>
+		<updated>2014-01-21T13:49:15Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Portapa%C3%B1ales-Cars-Carreras.html" />
+		<id>http://intima.com.mx/products/Portapa%C3%B1ales-Cars-Carreras.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Portapañales Cars Carreras]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Portapa%C3%B1ales-Cars-Carreras.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Portapa%C3%B1ales-Cars-Carreras.html"  ><img src="http://intima.com.mx/product_images/n/705/958_Imagen1__87108_thumb.jpg" alt="Portapañales Cars Carreras" /></a></div>Contiene: Portapañales de tela, Base de MDF. Con Bordado<p><strong>Precio: $299.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Contiene: Portapañales de tela, Base de MDF. Con Bordado]]></isc:description>
+		<isc:productid><![CDATA[2786]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/n/705/958_Imagen1__87108_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/v/712/958_Imagen1__67280_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$299.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:49:16Z</published>
+		<updated>2014-01-21T13:49:16Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Portapa%C3%B1ales-Diego.html" />
+		<id>http://intima.com.mx/products/Portapa%C3%B1ales-Diego.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Portapañales Diego]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Portapa%C3%B1ales-Diego.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Portapa%C3%B1ales-Diego.html"  ><img src="http://intima.com.mx/product_images/m/689/960_Imagen1__28307_thumb.jpg" alt="Portapañales Diego" /></a></div>Contiene: Portapañales de tela, Base de MDF. Con Bordado<p><strong>Precio: $299.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Contiene: Portapañales de tela, Base de MDF. Con Bordado]]></isc:description>
+		<isc:productid><![CDATA[2788]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/m/689/960_Imagen1__28307_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/m/416/960_Imagen1__79044_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$299.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:49:39Z</published>
+		<updated>2014-01-21T13:49:39Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Portapa%C3%B1ales-Marie-Arcoiris.html" />
+		<id>http://intima.com.mx/products/Portapa%C3%B1ales-Marie-Arcoiris.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Portapañales Marie Arcoiris]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Portapa%C3%B1ales-Marie-Arcoiris.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Portapa%C3%B1ales-Marie-Arcoiris.html"  ><img src="http://intima.com.mx/product_images/e/693/965_Imagen1__27494_thumb.jpg" alt="Portapañales Marie Arcoiris" /></a></div>Contiene: Portapañales de tela, Base de MDF. Con Bordado<p><strong>Precio: $299.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Contiene: Portapañales de tela, Base de MDF. Con Bordado]]></isc:description>
+		<isc:productid><![CDATA[2811]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/e/693/965_Imagen1__27494_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/l/439/965_Imagen1__40432_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$299.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:50:26Z</published>
+		<updated>2014-01-21T13:50:26Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Portapa%C3%B1ales-Emily.html" />
+		<id>http://intima.com.mx/products/Portapa%C3%B1ales-Emily.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Portapañales Emily]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Portapa%C3%B1ales-Emily.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Portapa%C3%B1ales-Emily.html"  ><img src="http://intima.com.mx/product_images/a/241/961_Imagen1__72348_thumb.jpg" alt="Portapañales Emily" /></a></div>Contiene: Portapañales de tela, Base de MDF. Con Bordado<p><strong>Precio: $299.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Contiene: Portapañales de tela, Base de MDF. Con Bordado]]></isc:description>
+		<isc:productid><![CDATA[2833]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/a/241/961_Imagen1__72348_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/p/283/961_Imagen1__65640_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$299.00]]></isc:price>
+	</entry>
+</feed>

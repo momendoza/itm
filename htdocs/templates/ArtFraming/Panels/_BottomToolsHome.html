@@ -1,0 +1,23 @@
+                %%GLOBAL_NewsletterBoxControlScript%%
+                <div id="BottomToolsHome">
+                    <div id="NewsletterBox">
+                        Quiero recibir ofertas, noticias y m&aacute;s...<br />
+                       <form action="%%GLOBAL_ShopPath%%/subscribe.php" method="post" id="subscribe_form" name="subscribe_form">
+                            <input type="hidden" name="action" value="subscribe" />
+                            <div class="Block">
+                                <label for="nl_first_name">%%LNG_YourFirstName%%:</label>
+                                <input type="text" class="Textbox Field100" id="nl_first_name" name="nl_first_name" />
+                            </div>
+                            <div class="Block">
+                                <label for="nl_email">Su E-mail:</label>
+                                <input type="text" class="Textbox Field100" id="nl_email" name="nl_email" /><br />
+                            </div>
+                            <div class="Block">
+                                %%GLOBAL_NewsletterButtonOptimizerScriptTag%%
+                                    <p><input type="submit" id="btn-suscribirme" alt="%%LNG_AddToWishList%%" /></p>
+                                %%GLOBAL_NewsletterBoxOptimizerNoScriptTag%%
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                %%Panel.NewsletterJavaScript%%

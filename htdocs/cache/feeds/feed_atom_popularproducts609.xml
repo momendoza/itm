@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Productos Populares]]></title>
+	<subtitle type="html"><![CDATA[La lista de productos populares en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?action=popularproducts&amp;categoryid=609&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-02-07T16:45:13Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:34:19Z</published>
+		<updated>2014-01-21T13:34:19Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cortinero-Style.html" />
+		<id>http://intima.com.mx/products/Cortinero-Style.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cortinero Style]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cortinero-Style.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cortinero-Style.html"  ><img src="http://intima.com.mx/product_images/j/917/419_Imagen1__68205_thumb.jpg" alt="Cortinero Style" /></a></div>Sencillo. Extiéndelos a la medida deseada.<p><strong>Precio: $509.00</strong> <img src="http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Sencillo. Extiéndelos a la medida deseada.]]></isc:description>
+		<isc:productid><![CDATA[2214]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/j/917/419_Imagen1__68205_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/z/812/419_Imagen1__47557_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$509.00]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:34:53Z</published>
+		<updated>2014-01-21T13:34:53Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cortinero-%C3%81rtico.html" />
+		<id>http://intima.com.mx/products/Cortinero-%C3%81rtico.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cortinero Ártico]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cortinero-%C3%81rtico.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cortinero-%C3%81rtico.html"  ><img src="http://intima.com.mx/product_images/c/537/411_Imagen1__48398_thumb.jpg" alt="Cortinero Ártico" /></a></div>Sencillo. Extiéndelos a la medida deseada.<p><strong>Precio: $509.00</strong> <img src="http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Sencillo. Extiéndelos a la medida deseada.]]></isc:description>
+		<isc:productid><![CDATA[2236]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/c/537/411_Imagen1__48398_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/n/584/411_Imagen1__55685_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$509.00]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:34:54Z</published>
+		<updated>2014-01-21T13:34:54Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cortinero-de-Ba%C3%B1o-Essential.html" />
+		<id>http://intima.com.mx/products/Cortinero-de-Ba%C3%B1o-Essential.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cortinero de Baño Essential]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cortinero-de-Ba%C3%B1o-Essential.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cortinero-de-Ba%C3%B1o-Essential.html"  ><img src="http://intima.com.mx/product_images/d/063/412_Imagen1__36435_thumb.jpg" alt="Cortinero de Baño Essential" /></a></div>Composición: Hierro cromado.<p><strong>Precio: $179.00</strong> <img src="http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición: Hierro cromado.]]></isc:description>
+		<isc:productid><![CDATA[2237]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/d/063/412_Imagen1__36435_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/j/000/412_Imagen1__31723_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$179.00]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:34:54Z</published>
+		<updated>2014-01-21T13:34:54Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cortinero-Eclipse.html" />
+		<id>http://intima.com.mx/products/Cortinero-Eclipse.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cortinero Eclipse]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cortinero-Eclipse.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cortinero-Eclipse.html"  ><img src="http://intima.com.mx/product_images/x/844/414_Imagen1__24041_thumb.jpg" alt="Cortinero Eclipse" /></a></div>Sencillo. Extiéndelos a la medida deseada.<p><strong>Precio: $509.00</strong> <img src="http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Sencillo. Extiéndelos a la medida deseada.]]></isc:description>
+		<isc:productid><![CDATA[2238]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/x/844/414_Imagen1__24041_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/r/552/414_Imagen1__94537_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$509.00]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:34:54Z</published>
+		<updated>2014-01-21T13:34:54Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cortinero-Espiral.html" />
+		<id>http://intima.com.mx/products/Cortinero-Espiral.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cortinero Espiral]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cortinero-Espiral.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cortinero-Espiral.html"  ><img src="http://intima.com.mx/product_images/z/228/415_Imagen1__87038_thumb.jpg" alt="Cortinero Espiral" /></a></div>Sencillo. Extiéndelos a la medida deseada.<p><strong>Precio: $509.00</strong> <img src="http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Sencillo. Extiéndelos a la medida deseada.]]></isc:description>
+		<isc:productid><![CDATA[2239]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/z/228/415_Imagen1__87038_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/f/302/415_Imagen1__80890_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$509.00]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:34:55Z</published>
+		<updated>2014-01-21T13:34:55Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cortinero-Sencillo-Eucalipto.html" />
+		<id>http://intima.com.mx/products/Cortinero-Sencillo-Eucalipto.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cortinero Sencillo Eucalipto]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cortinero-Sencillo-Eucalipto.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cortinero-Sencillo-Eucalipto.html"  ><img src="http://intima.com.mx/product_images/n/566/418_Imagen1__04747_thumb.jpg" alt="Cortinero Sencillo Eucalipto" /></a></div>Sencillo. Extiéndelos a la medida deseada.<p><strong>Precio: $509.00</strong> <img src="http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Sencillo. Extiéndelos a la medida deseada.]]></isc:description>
+		<isc:productid><![CDATA[2240]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/n/566/418_Imagen1__04747_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/b/391/418_Imagen1__84430_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$509.00]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:35:18Z</published>
+		<updated>2014-01-21T13:35:18Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cortinero-Diamante.html" />
+		<id>http://intima.com.mx/products/Cortinero-Diamante.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cortinero Diamante]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cortinero-Diamante.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cortinero-Diamante.html"  ><img src="http://intima.com.mx/product_images/v/385/413_Imagen1__82902_thumb.jpg" alt="Cortinero Diamante" /></a></div>Sencillo. Extiéndelos a la medida deseada.<p><strong>Precio: $509.00</strong> <img src="http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Sencillo. Extiéndelos a la medida deseada.]]></isc:description>
+		<isc:productid><![CDATA[2256]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/v/385/413_Imagen1__82902_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/c/674/413_Imagen1__99437_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$509.00]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:35:18Z</published>
+		<updated>2014-01-21T13:35:18Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cortinero-Eucalipto.html" />
+		<id>http://intima.com.mx/products/Cortinero-Eucalipto.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cortinero Eucalipto]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cortinero-Eucalipto.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cortinero-Eucalipto.html"  ><img src="http://intima.com.mx/product_images/w/505/416_Imagen1__72533_thumb.jpg" alt="Cortinero Eucalipto" /></a></div>Doble. Extiéndelos a la medida deseada.<p><strong>Precio: $509.00</strong> <img src="http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Doble. Extiéndelos a la medida deseada.]]></isc:description>
+		<isc:productid><![CDATA[2257]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/w/505/416_Imagen1__72533_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/x/882/416_Imagen1__82834_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$509.00]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:36:34Z</published>
+		<updated>2014-01-21T13:36:34Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cortinero-Flor-de-Liz.html" />
+		<id>http://intima.com.mx/products/Cortinero-Flor-de-Liz.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cortinero Flor de Liz]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cortinero-Flor-de-Liz.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cortinero-Flor-de-Liz.html"  ><img src="http://intima.com.mx/product_images/z/904/417_Imagen1__17388_thumb.jpg" alt="Cortinero Flor de Liz" /></a></div>Sencillo. Extiéndelos a la medida deseada.<p><strong>Precio: $509.00</strong> <img src="http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Sencillo. Extiéndelos a la medida deseada.]]></isc:description>
+		<isc:productid><![CDATA[2295]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/z/904/417_Imagen1__17388_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/n/253/417_Imagen1__94187_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$509.00]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+</feed>

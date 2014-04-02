@@ -1,0 +1,81 @@
+
+<head>
+    %%GLOBAL_OptimizerControlScript%%
+    <title>%%Page.WindowTitle%%</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=%%GLOBAL_CharacterSet%%" />
+    <meta name="description" content="%%Page.MetaDescription%%" />
+    <meta name="keywords" content="%%Page.MetaKeywords%%" />
+    %%GLOBAL_AdditionalMetaTags%%
+    %%Page.CanonicalLink%%
+    %%Page.Robots%%
+    <meta http-equiv="Content-Script-Type" content="text/javascript" />
+    <meta http-equiv="Content-Style-Type" content="text/css" />
+    <link rel="shortcut icon" href="%%GLOBAL_Favicon%%" />
+    %%GLOBAL_Stylesheets%%
+
+   <!-- Starts GIM implementations -->
+
+    <!-- Starts jQueryUI inclusion files -->
+<!-- Nissim - Subi este bloque del final de la pagina para aca. Podiamos haer puesto lo de superfish y fancytransitions despues, pero es lo mismo, mientras se respete el order ya que uno depende del 
+otro -->
+    <script type="text/javascript" src="%%GLOBAL_ShopPath%%/javascript/jquery.js?%%GLOBAL_JSCacheToken%%"></script>
+    <script type="text/javascript" src="%%GLOBAL_ShopPath%%/javascript/menudrop.js?%%GLOBAL_JSCacheToken%%"></script>
+    <script type="text/javascript" src="%%GLOBAL_ShopPath%%/javascript/common.js?%%GLOBAL_JSCacheToken%%"></script>
+    <script type="text/javascript" src="%%GLOBAL_ShopPath%%/javascript/iselector.js?%%GLOBAL_JSCacheToken%%"></script>
+
+    <link href="%%GLOBAL_ShopPath%%/templates/ArtFraming/plugins/jquery/css/intima-theme/jquery-ui-1.8.22.custom.css?%%GLOBAL_JSCacheToken%%" type="text/css" rel="stylesheet" />
+
+    <!-- Nissim - Corregi esta libreria para incluir la que ya viene, ya que la que esta en Bargains manda un error de sintaxis -->
+    <script type="text/javascript" src="%%GLOBAL_ShopPath%%/javascript/jquery/plugins/ui.core.js?%%GLOBAL_JSCacheToken%%"></script>
+
+    <!-- Nissim - Incluyo esta libreria ya que dependiendo de la configuracion de la empresa a veces no se incluye -->
+    <script src="/javascript/superfish/js/superfish.js?1" type="text/javascript"></script>
+
+    <!-- Ends jQueryUI inclusion files -->
+<!-- Starts jQueryFancyTransitions inclusion files -->
+    <link href="%%GLOBAL_ShopPath%%/templates/ArtFraming/Styles/jquery.fancytransitions.1.8/css/jqfancytransitions.css?%%GLOBAL_JSCacheToken%%" type="text/css" rel="stylesheet" />
+    
+     <!-- Starts jQuery.superfish inclusion files -->
+   <link href="%%GLOBAL_ShopPath%%/templates/ArtFraming/plugins/superfish/css/superfish.css?%%GLOBAL_JSCacheToken%%" type="text/css" rel="stylesheet" />
+    <script type="text/javascript">
+       // jQuery.Superfish
+       $(document).ready(function(){
+           $("ul.sf-menu").superfish({
+               animation: {opacity:'show',height:'show'},
+               speed: 'fast',
+               delay:       1000,           
+               
+           });
+       });
+    </script>
+
+    <!-- Ends jQuery.superfish inclusion files -->
+   
+    <script type="text/javascript" src="%%GLOBAL_ShopPath%%/templates/ArtFraming/Styles/jquery.fancytransitions.1.8/js/jqFancyTransitions.1.8.min.js?%%GLOBAL_JSCacheToken%%"></script>
+    <!-- Ends jQueryFancyTransitions inclusion files -->
+   
+<!--Empiezan estilo liftor-->
+    
+
+    <!-- Tell the browsers about our RSS feeds -->
+    %%GLOBAL_HeadRSSLinks%%
+
+    <!-- Include visitor tracking code (if any) -->
+    %%GLOBAL_TrackingCode%%
+
+    %%GLOBAL_DesignModeStyleSheet%%
+
+    %%GLOBAL_HeaderImageStyle%%
+
+    <script type="text/javascript">
+    //<![CDATA[
+    config.ShopPath = '%%GLOBAL_ShopPath%%';
+    config.AppPath = '%%GLOBAL_AppPath%%';
+    var ThumbImageWidth = %%GLOBAL_ProductThumbImageWidth%%;
+    var ThumbImageHeight = %%GLOBAL_ProductThumbImageHeight%%;
+    //]]>
+    </script>
+    %%GLOBAL_AdditionalScriptTags%%
+    %%GLOBAL_QuickSearchJS%%
+    %%GLOBAL_RTLStyles%%
+</head>

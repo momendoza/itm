@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Nuevos Productos - Adulto]]></title>
+	<subtitle type="html"><![CDATA[La lista de nuevos productos en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://www.intima.com.mx/rss.php?categoryid=642&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-03-21T15:25:41Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:50:27Z</published>
+		<updated>2014-01-21T13:50:27Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Protector-de-Colch%C3%B3n-B%C3%A1sico.html" />
+		<id>http://intima.com.mx/products/Protector-de-Colch%C3%B3n-B%C3%A1sico.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Protector de Colchón Básico]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Protector-de-Colch%C3%B3n-B%C3%A1sico.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Protector-de-Colch%C3%B3n-B%C3%A1sico.html"  ><img src="http://intima.com.mx/product_images/y/563/969_Imagen1__20061_thumb.jpg" alt="Protector de Colchón Básico" /></a></div>Tela: 50% algodón y 50% poliéster.<p><strong>Precio: $345.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Tela: 50% algodón y 50% poliéster.]]></isc:description>
+		<isc:productid><![CDATA[2837]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/y/563/969_Imagen1__20061_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/d/851/969_Imagen1__39820_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$345.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:49:40Z</published>
+		<updated>2014-01-21T13:49:40Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Protector-de-colch%C3%B3n-Impermeable.html" />
+		<id>http://intima.com.mx/products/Protector-de-colch%C3%B3n-Impermeable.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Protector de colchón Impermeable]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Protector-de-colch%C3%B3n-Impermeable.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Protector-de-colch%C3%B3n-Impermeable.html"  ><img src="http://intima.com.mx/product_images/t/446/971_Imagen1__79409_thumb.jpg" alt="Protector de colchón Impermeable" /></a></div>Vista 1: 100% algodón afelpado absorbente. Vista 2: Tela impermeable.<p><strong>Precio: $375.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Vista 1: 100% algodón afelpado absorbente. Vista 2: Tela impermeable.]]></isc:description>
+		<isc:productid><![CDATA[2813]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/t/446/971_Imagen1__79409_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/r/821/971_Imagen1__19590_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$375.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:49:16Z</published>
+		<updated>2014-01-21T13:49:16Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Protector-de-Colch%C3%B3n-Protecci%C3%B3n-Plus.html" />
+		<id>http://intima.com.mx/products/Protector-de-Colch%C3%B3n-Protecci%C3%B3n-Plus.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Protector de Colchón Protección Plus]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Protector-de-Colch%C3%B3n-Protecci%C3%B3n-Plus.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Protector-de-Colch%C3%B3n-Protecci%C3%B3n-Plus.html"  ><img src="http://intima.com.mx/product_images/e/496/972_Imagen1__07663_thumb.jpg" alt="Protector de Colchón Protección Plus" /></a></div>Tela: 50% algodón y 50% poliéster.<p><strong>Precio: $509.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Tela: 50% algodón y 50% poliéster.]]></isc:description>
+		<isc:productid><![CDATA[2790]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/e/496/972_Imagen1__07663_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/w/982/972_Imagen1__68930_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$509.00]]></isc:price>
+	</entry>
+</feed>

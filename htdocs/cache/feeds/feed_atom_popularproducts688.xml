@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Productos Populares]]></title>
+	<subtitle type="html"><![CDATA[La lista de productos populares en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?action=popularproducts&amp;categoryid=688&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-03-26T13:22:42Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:31:18Z</published>
+		<updated>2014-01-21T13:31:18Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Coj%C3%ADn-Decorativo-Holanda.html" />
+		<id>http://intima.com.mx/products/Coj%C3%ADn-Decorativo-Holanda.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cojín Decorativo Holanda]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Coj%C3%ADn-Decorativo-Holanda.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Coj%C3%ADn-Decorativo-Holanda.html"  ><img src="http://intima.com.mx/product_images/e/262/273_Imagen1__29438_thumb.jpg" alt="Cojín Decorativo Holanda" /></a></div><p><strong>Precio: $209.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2081]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/e/262/273_Imagen1__29438_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/y/841/273_Imagen1__96403_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$209.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:32:14Z</published>
+		<updated>2014-01-21T13:32:14Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Coj%C3%ADn-Decorativo-Amberes.html" />
+		<id>http://intima.com.mx/products/Coj%C3%ADn-Decorativo-Amberes.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cojín Decorativo Amberes]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Coj%C3%ADn-Decorativo-Amberes.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Coj%C3%ADn-Decorativo-Amberes.html"  ><img src="http://intima.com.mx/product_images/b/542/266_Imagen1__87676_thumb.jpg" alt="Cojín Decorativo Amberes" /></a></div><p><strong>Precio: $209.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2096]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/b/542/266_Imagen1__87676_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/m/852/266_Imagen1__10442_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$209.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:32:14Z</published>
+		<updated>2014-01-21T13:32:14Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Coj%C3%ADn-Decorativo-Asturias.html" />
+		<id>http://intima.com.mx/products/Coj%C3%ADn-Decorativo-Asturias.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cojín Decorativo Asturias]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Coj%C3%ADn-Decorativo-Asturias.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Coj%C3%ADn-Decorativo-Asturias.html"  ><img src="http://intima.com.mx/product_images/e/399/267_Imagen1__39214_thumb.jpg" alt="Cojín Decorativo Asturias" /></a></div><p><strong>Precio: $269.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2097]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/e/399/267_Imagen1__39214_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/o/734/267_Imagen1__80225_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$269.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:32:14Z</published>
+		<updated>2014-01-21T13:32:14Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Coj%C3%ADn-Decorativo-B%C3%A9lgica.html" />
+		<id>http://intima.com.mx/products/Coj%C3%ADn-Decorativo-B%C3%A9lgica.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cojín Decorativo Bélgica]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Coj%C3%ADn-Decorativo-B%C3%A9lgica.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Coj%C3%ADn-Decorativo-B%C3%A9lgica.html"  ><img src="http://intima.com.mx/product_images/j/934/268_Imagen1__80955_thumb.jpg" alt="Cojín Decorativo Bélgica" /></a></div><p><strong>Precio: $209.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2098]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/j/934/268_Imagen1__80955_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/z/255/268_Imagen1__52106_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$209.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:32:15Z</published>
+		<updated>2014-01-21T13:32:15Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Coj%C3%ADn-Decorativo-Britania.html" />
+		<id>http://intima.com.mx/products/Coj%C3%ADn-Decorativo-Britania.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cojín Decorativo Britania]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Coj%C3%ADn-Decorativo-Britania.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Coj%C3%ADn-Decorativo-Britania.html"  ><img src="http://intima.com.mx/product_images/w/818/269_Imagen1__75638_thumb.jpg" alt="Cojín Decorativo Britania" /></a></div><p><strong>Precio: $189.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2099]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/w/818/269_Imagen1__75638_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/l/907/269_Imagen1__50230_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$189.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:32:15Z</published>
+		<updated>2014-01-21T13:32:15Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Coj%C3%ADn-Decorativo-Mallorca.html" />
+		<id>http://intima.com.mx/products/Coj%C3%ADn-Decorativo-Mallorca.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cojín Decorativo Mallorca]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Coj%C3%ADn-Decorativo-Mallorca.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Coj%C3%ADn-Decorativo-Mallorca.html"  ><img src="http://intima.com.mx/product_images/q/615/274_Imagen1__56246_thumb.jpg" alt="Cojín Decorativo Mallorca" /></a></div><p><strong>Precio: $209.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2101]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/q/615/274_Imagen1__56246_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/o/465/274_Imagen1__92695_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$209.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:32:17Z</published>
+		<updated>2014-01-21T13:32:17Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Coj%C3%ADn-Decorativo-Salamanca.html" />
+		<id>http://intima.com.mx/products/Coj%C3%ADn-Decorativo-Salamanca.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cojín Decorativo Salamanca]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Coj%C3%ADn-Decorativo-Salamanca.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Coj%C3%ADn-Decorativo-Salamanca.html"  ><img src="http://intima.com.mx/product_images/p/384/280_Imagen1__49910_thumb.jpg" alt="Cojín Decorativo Salamanca" /></a></div><p><strong>Precio: $209.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2104]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/p/384/280_Imagen1__49910_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/u/419/280_Imagen1__61059_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$209.00]]></isc:price>
+	</entry>
+</feed>

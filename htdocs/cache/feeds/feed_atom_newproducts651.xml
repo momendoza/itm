@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Nuevos Productos - Infantil]]></title>
+	<subtitle type="html"><![CDATA[La lista de nuevos productos en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?categoryid=651&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-02-19T06:35:54Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:50:52Z</published>
+		<updated>2014-01-21T13:50:52Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Tapete-Minnie.html" />
+		<id>http://intima.com.mx/products/Tapete-Minnie.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Tapete Minnie]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Tapete-Minnie.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Tapete-Minnie.html"  ><img src="http://intima.com.mx/product_images/o/876/1000_Imagen1__82776_thumb.jpg" alt="Tapete Minnie" /></a></div><p><strong>Precio: $269.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2870]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/o/876/1000_Imagen1__82776_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/o/516/1000_Imagen1__51090_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$269.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:49:46Z</published>
+		<updated>2014-01-21T13:49:46Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Tapete-Toy-Story-Juegos.html" />
+		<id>http://intima.com.mx/products/Tapete-Toy-Story-Juegos.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Tapete Toy Story Juegos]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Tapete-Toy-Story-Juegos.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Tapete-Toy-Story-Juegos.html"  ><img src="http://intima.com.mx/product_images/d/318/1006_Imagen1__52970_thumb.jpg" alt="Tapete Toy Story Juegos" /></a></div><p><strong>Precio: $269.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2823]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/d/318/1006_Imagen1__52970_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/q/654/1006_Imagen1__90578_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$269.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:49:46Z</published>
+		<updated>2014-01-21T13:49:46Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Tapete-Spider%252dMan-Ultimate.html" />
+		<id>http://intima.com.mx/products/Tapete-Spider%252dMan-Ultimate.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Tapete Spider-Man Ultimate]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Tapete-Spider%252dMan-Ultimate.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Tapete-Spider%252dMan-Ultimate.html"  ><img src="http://intima.com.mx/product_images/g/128/1005_Imagen1__93352_thumb.jpg" alt="Tapete Spider-Man Ultimate" /></a></div><p><strong>Precio: $269.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2822]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/g/128/1005_Imagen1__93352_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/r/652/1005_Imagen1__90509_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$269.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:49:46Z</published>
+		<updated>2014-01-21T13:49:46Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Tapete-Rayo-Velocidad.html" />
+		<id>http://intima.com.mx/products/Tapete-Rayo-Velocidad.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Tapete Rayo Velocidad]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Tapete-Rayo-Velocidad.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Tapete-Rayo-Velocidad.html"  ><img src="http://intima.com.mx/product_images/y/754/1003_Imagen1__04376_thumb.jpg" alt="Tapete Rayo Velocidad" /></a></div><p><strong>Precio: $269.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2821]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/y/754/1003_Imagen1__04376_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/p/784/1003_Imagen1__25959_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$269.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:49:46Z</published>
+		<updated>2014-01-21T13:49:46Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Tapete-Princesas-Baile.html" />
+		<id>http://intima.com.mx/products/Tapete-Princesas-Baile.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Tapete Princesas Baile]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Tapete-Princesas-Baile.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Tapete-Princesas-Baile.html"  ><img src="http://intima.com.mx/product_images/d/317/1002_Imagen1__39290_thumb.jpg" alt="Tapete Princesas Baile" /></a></div><p><strong>Precio: $269.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2820]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/d/317/1002_Imagen1__39290_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/d/448/1002_Imagen1__40692_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$269.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:49:45Z</published>
+		<updated>2014-01-21T13:49:45Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Tapete-Mi-Villano-Favorito-2.html" />
+		<id>http://intima.com.mx/products/Tapete-Mi-Villano-Favorito-2.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Tapete Mi Villano Favorito 2]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Tapete-Mi-Villano-Favorito-2.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Tapete-Mi-Villano-Favorito-2.html"  ><img src="http://intima.com.mx/product_images/x/303/998_Imagen1__26641_thumb.jpg" alt="Tapete Mi Villano Favorito 2" /></a></div><p><strong>Precio: $269.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2819]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/x/303/998_Imagen1__26641_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/e/670/998_Imagen1__59428_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$269.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:49:18Z</published>
+		<updated>2014-01-21T13:49:18Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Tapete-Mickey-Colores.html" />
+		<id>http://intima.com.mx/products/Tapete-Mickey-Colores.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Tapete Mickey Colores]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Tapete-Mickey-Colores.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Tapete-Mickey-Colores.html"  ><img src="http://intima.com.mx/product_images/o/043/999_Imagen1__61517_thumb.jpg" alt="Tapete Mickey Colores" /></a></div><p><strong>Precio: $269.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2798]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/o/043/999_Imagen1__61517_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/a/969/999_Imagen1__48706_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$269.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:49:18Z</published>
+		<updated>2014-01-21T13:49:18Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Tapete-Marie.html" />
+		<id>http://intima.com.mx/products/Tapete-Marie.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Tapete Marie]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Tapete-Marie.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Tapete-Marie.html"  ><img src="http://intima.com.mx/product_images/l/195/995_Imagen1__79463_thumb.jpg" alt="Tapete Marie" /></a></div><p><strong>Precio: $269.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2797]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/l/195/995_Imagen1__79463_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/r/620/995_Imagen1__47625_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$269.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:49:18Z</published>
+		<updated>2014-01-21T13:49:18Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Tapete-Kitty-Sorpresa.html" />
+		<id>http://intima.com.mx/products/Tapete-Kitty-Sorpresa.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Tapete Kitty Sorpresa]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Tapete-Kitty-Sorpresa.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Tapete-Kitty-Sorpresa.html"  ><img src="http://intima.com.mx/product_images/t/634/993_Imagen1__16918_thumb.jpg" alt="Tapete Kitty Sorpresa" /></a></div><p><strong>Precio: $269.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2796]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/t/634/993_Imagen1__16918_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/p/921/993_Imagen1__67052_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$269.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:49:17Z</published>
+		<updated>2014-01-21T13:49:17Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Tapete-Dora.html" />
+		<id>http://intima.com.mx/products/Tapete-Dora.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Tapete Dora]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Tapete-Dora.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Tapete-Dora.html"  ><img src="http://intima.com.mx/product_images/x/566/989_Imagen1__44321_thumb.jpg" alt="Tapete Dora" /></a></div><p><strong>Precio: $269.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2794]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/x/566/989_Imagen1__44321_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/u/680/989_Imagen1__90370_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$269.00]]></isc:price>
+	</entry>
+</feed>

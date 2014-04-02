@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Productos Populares]]></title>
+	<subtitle type="html"><![CDATA[La lista de productos populares en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?action=popularproducts&amp;categoryid=680&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-03-05T23:41:40Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:32:25Z</published>
+		<updated>2014-01-21T13:32:25Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Coordinado-de-Cuna-Cars-Carreras.html" />
+		<id>http://intima.com.mx/products/Coordinado-de-Cuna-Cars-Carreras.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Coordinado de Cuna Cars Carreras]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Coordinado-de-Cuna-Cars-Carreras.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Coordinado-de-Cuna-Cars-Carreras.html"  ><img src="http://intima.com.mx/product_images/d/031/318_Imagen1__97316_thumb.jpg" alt="Coordinado de Cuna Cars Carreras" /></a></div><DIV><STRONG>A) Chico:</STRONG> Medidas: 70 cm x 1,30 m. Incluye: Edredón, 
+Cabecera, Protector de barandal (3 lados), Sábana de cajón y Rodapié.</DIV>
+<DIV><STRONG>B) Grande:</STRONG> Medidas: 1,10 m x 1,50 m. Incluye: Edredón, 
+Cabecera, Protector de barandal (3 lados), Sábana de cajón.</DIV><p><strong>Precio: $1,099.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[<DIV><STRONG>A) Chico:</STRONG> Medidas: 70 cm x 1,30 m. Incluye: Edredón, 
+Cabecera, Protector de barandal (3 lados), Sábana de cajón y Rodapié.</DIV>
+<DIV><STRONG>B) Grande:</STRONG> Medidas: 1,10 m x 1,50 m. Incluye: Edredón, 
+Cabecera, Protector de barandal (3 lados), Sábana de cajón.</DIV>]]></isc:description>
+		<isc:productid><![CDATA[2126]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/d/031/318_Imagen1__97316_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/h/072/318_Imagen1__44986_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$1,099.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:32:25Z</published>
+		<updated>2014-01-21T13:32:25Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Coordinado-de-Cuna-Diego.html" />
+		<id>http://intima.com.mx/products/Coordinado-de-Cuna-Diego.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Coordinado de Cuna Diego]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Coordinado-de-Cuna-Diego.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Coordinado-de-Cuna-Diego.html"  ><img src="http://intima.com.mx/product_images/l/604/320_Imagen1__41023_thumb.jpg" alt="Coordinado de Cuna Diego" /></a></div><DIV>A) <STRONG>Chico:</STRONG> Medidas: 70 cm x 1,30 m. Incluye: Edredón, 
+Cabecera, Protector de barandal (3 lados), Sábana de cajón y Rodapié.</DIV>
+<DIV>B) <STRONG>Grande:</STRONG> Medidas: 1,10 m x 1,50 m. Incluye: Edredón, 
+Cabecera, Protector de barandal (3 lados), Sábana de cajón.</DIV><p><strong>Precio: $1,099.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[<DIV>A) <STRONG>Chico:</STRONG> Medidas: 70 cm x 1,30 m. Incluye: Edredón, 
+Cabecera, Protector de barandal (3 lados), Sábana de cajón y Rodapié.</DIV>
+<DIV>B) <STRONG>Grande:</STRONG> Medidas: 1,10 m x 1,50 m. Incluye: Edredón, 
+Cabecera, Protector de barandal (3 lados), Sábana de cajón.</DIV>]]></isc:description>
+		<isc:productid><![CDATA[2127]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/l/604/320_Imagen1__41023_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/p/857/320_Imagen1__75575_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$1,099.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:32:25Z</published>
+		<updated>2014-01-21T13:32:25Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Coordinado-de-Cuna-Emily.html" />
+		<id>http://intima.com.mx/products/Coordinado-de-Cuna-Emily.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Coordinado de Cuna Emily]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Coordinado-de-Cuna-Emily.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Coordinado-de-Cuna-Emily.html"  ><img src="http://intima.com.mx/product_images/r/221/321_Imagen1__31662_thumb.jpg" alt="Coordinado de Cuna Emily" /></a></div><DIV><STRONG>A) Chico:</STRONG> Medidas: 70 cm x 1,30 m. Incluye: Edredón, 
+Cabecera, Protector de barandal (3 lados), Sábana de cajón y Rodapié. </DIV>
+<DIV><STRONG>B) Grande:</STRONG> Medidas: 1,10 m x 1,50 m. Incluye: Edredón, 
+Cabecera, Protector de barandal (3 lados), Sábana de cajón.</DIV><p><strong>Precio: $1,099.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[<DIV><STRONG>A) Chico:</STRONG> Medidas: 70 cm x 1,30 m. Incluye: Edredón, 
+Cabecera, Protector de barandal (3 lados), Sábana de cajón y Rodapié. </DIV>
+<DIV><STRONG>B) Grande:</STRONG> Medidas: 1,10 m x 1,50 m. Incluye: Edredón, 
+Cabecera, Protector de barandal (3 lados), Sábana de cajón.</DIV>]]></isc:description>
+		<isc:productid><![CDATA[2128]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/r/221/321_Imagen1__31662_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/v/785/321_Imagen1__88683_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$1,099.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:33:06Z</published>
+		<updated>2014-01-21T13:33:06Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Coordinado-de-Cuna-Marie-Arcoiris.html" />
+		<id>http://intima.com.mx/products/Coordinado-de-Cuna-Marie-Arcoiris.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Coordinado de Cuna Marie Arcoiris]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Coordinado-de-Cuna-Marie-Arcoiris.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Coordinado-de-Cuna-Marie-Arcoiris.html"  ><img src="http://intima.com.mx/product_images/s/844/325_Imagen1__90772_thumb.jpg" alt="Coordinado de Cuna Marie Arcoiris" /></a></div><DIV><STRONG>A) Chico:</STRONG> Medidas: 70 cm x 1,30 m. Incluye: Edredón, 
+Cabecera, Protector de barandal (3 lados), Sábana de cajón y Rodapié.</DIV>
+<DIV><STRONG>B) Grande:</STRONG> Medidas: 1,10 m x 1,50 m. Incluye: Edredón, 
+Cabecera, Protector de barandal (3 lados), Sábana de cajón.</DIV><p><strong>Precio: $1,149.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[<DIV><STRONG>A) Chico:</STRONG> Medidas: 70 cm x 1,30 m. Incluye: Edredón, 
+Cabecera, Protector de barandal (3 lados), Sábana de cajón y Rodapié.</DIV>
+<DIV><STRONG>B) Grande:</STRONG> Medidas: 1,10 m x 1,50 m. Incluye: Edredón, 
+Cabecera, Protector de barandal (3 lados), Sábana de cajón.</DIV>]]></isc:description>
+		<isc:productid><![CDATA[2164]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/s/844/325_Imagen1__90772_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/v/005/325_Imagen1__01885_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$1,149.00]]></isc:price>
+	</entry>
+</feed>

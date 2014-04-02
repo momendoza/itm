@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Nuevos Productos - Cortinas para Cocina]]></title>
+	<subtitle type="html"><![CDATA[La lista de nuevos productos en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?categoryid=619&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-03-25T16:26:19Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:43:20Z</published>
+		<updated>2014-01-21T13:43:20Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Cortinas-para-Cocina-Manzana.html" />
+		<id>http://intima.com.mx/products/Juego-de-Cortinas-para-Cocina-Manzana.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Cortinas para Cocina Manzana]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Cortinas-para-Cocina-Manzana.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Cortinas-para-Cocina-Manzana.html"  ><img src="http://intima.com.mx/product_images/x/455/664_Imagen1__54164_thumb.jpg" alt="Juego de Cortinas para Cocina Manzana" /></a></div>Incluye: Pánel 1,20 x 1,20 m, Galería 40 cm x 1,20 m.<p><strong>Precio: $209.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Pánel 1,20 x 1,20 m, Galería 40 cm x 1,20 m.]]></isc:description>
+		<isc:productid><![CDATA[2563]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/x/455/664_Imagen1__54164_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/y/820/664_Imagen1__63666_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$209.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:43:19Z</published>
+		<updated>2014-01-21T13:43:19Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Cortinas-para-Cocina-Limonada.html" />
+		<id>http://intima.com.mx/products/Juego-de-Cortinas-para-Cocina-Limonada.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Cortinas para Cocina Limonada]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Cortinas-para-Cocina-Limonada.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Cortinas-para-Cocina-Limonada.html"  ><img src="http://intima.com.mx/product_images/d/503/663_Imagen1__83874_thumb.jpg" alt="Juego de Cortinas para Cocina Limonada" /></a></div>Incluye: Pánel 1,20 x 1,20 m, Galería 40 cm x 1,20 m.<p><strong>Precio: $209.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Pánel 1,20 x 1,20 m, Galería 40 cm x 1,20 m.]]></isc:description>
+		<isc:productid><![CDATA[2562]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/d/503/663_Imagen1__83874_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/i/176/663_Imagen1__20428_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$209.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:42:39Z</published>
+		<updated>2014-01-21T13:42:39Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Cortinas-para-Cocina-Polka.html" />
+		<id>http://intima.com.mx/products/Juego-de-Cortinas-para-Cocina-Polka.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Cortinas para Cocina Polka]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Cortinas-para-Cocina-Polka.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Cortinas-para-Cocina-Polka.html"  ><img src="http://intima.com.mx/product_images/u/256/667_Imagen1__13463_thumb.jpg" alt="Juego de Cortinas para Cocina Polka" /></a></div>Incluye: Pánel 1,20 x 1,20 m, Galería 40 cm x 1,20 m.<p><strong>Precio: $209.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Pánel 1,20 x 1,20 m, Galería 40 cm x 1,20 m.]]></isc:description>
+		<isc:productid><![CDATA[2538]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/u/256/667_Imagen1__13463_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/y/667/667_Imagen1__35619_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$209.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:42:13Z</published>
+		<updated>2014-01-21T13:42:13Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Cortinas-para-Cocina-Flora.html" />
+		<id>http://intima.com.mx/products/Juego-de-Cortinas-para-Cocina-Flora.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Cortinas para Cocina Flora]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Cortinas-para-Cocina-Flora.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Cortinas-para-Cocina-Flora.html"  ><img src="http://intima.com.mx/product_images/s/964/662_Imagen1__50717_thumb.jpg" alt="Juego de Cortinas para Cocina Flora" /></a></div>Incluye: Pánel 1,20 x 1,20 m, Galería 40 cm x 1,20 m.<p><strong>Precio: $209.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Pánel 1,20 x 1,20 m, Galería 40 cm x 1,20 m.]]></isc:description>
+		<isc:productid><![CDATA[2515]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/s/964/662_Imagen1__50717_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/s/833/662_Imagen1__27106_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$209.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:42:13Z</published>
+		<updated>2014-01-21T13:42:13Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Cortinas-para-Cocina-Daisy.html" />
+		<id>http://intima.com.mx/products/Juego-de-Cortinas-para-Cocina-Daisy.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Cortinas para Cocina Daisy]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Cortinas-para-Cocina-Daisy.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Cortinas-para-Cocina-Daisy.html"  ><img src="http://intima.com.mx/product_images/k/124/661_Imagen1__41003_thumb.jpg" alt="Juego de Cortinas para Cocina Daisy" /></a></div>Incluye: Pánel 1,20 x 1,20 m, Galería 40 cm x 1,20 m.<p><strong>Precio: $209.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Pánel 1,20 x 1,20 m, Galería 40 cm x 1,20 m.]]></isc:description>
+		<isc:productid><![CDATA[2514]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/k/124/661_Imagen1__41003_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/r/951/661_Imagen1__82460_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$209.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:41:35Z</published>
+		<updated>2014-01-21T13:41:35Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Cortinas-para-Cocina-Bot%C3%A1nico.html" />
+		<id>http://intima.com.mx/products/Juego-de-Cortinas-para-Cocina-Bot%C3%A1nico.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Cortinas para Cocina Botánico]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Cortinas-para-Cocina-Bot%C3%A1nico.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Cortinas-para-Cocina-Bot%C3%A1nico.html"  ><img src="http://intima.com.mx/product_images/j/630/660_Imagen1__01707_thumb.jpg" alt="Juego de Cortinas para Cocina Botánico" /></a></div>Incluye: Pánel 1,20 x 1,20 m, Galería 40 cm x 1,20 m.<p><strong>Precio: $209.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Pánel 1,20 x 1,20 m, Galería 40 cm x 1,20 m.]]></isc:description>
+		<isc:productid><![CDATA[2492]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/j/630/660_Imagen1__01707_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/b/961/660_Imagen1__30522_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$209.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:41:03Z</published>
+		<updated>2014-01-21T13:41:03Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Cortinas-para-Cocina-Naranjas.html" />
+		<id>http://intima.com.mx/products/Juego-de-Cortinas-para-Cocina-Naranjas.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Cortinas para Cocina Naranjas]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Cortinas-para-Cocina-Naranjas.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Cortinas-para-Cocina-Naranjas.html"  ><img src="http://intima.com.mx/product_images/w/174/666_Imagen1__20610_thumb.jpg" alt="Juego de Cortinas para Cocina Naranjas" /></a></div>Incluye: Pánel 1,20 x 1,20 m, Galería 40 cm x 1,20 m.<p><strong>Precio: $209.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Pánel 1,20 x 1,20 m, Galería 40 cm x 1,20 m.]]></isc:description>
+		<isc:productid><![CDATA[2480]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/w/174/666_Imagen1__20610_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/a/807/666_Imagen1__10775_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$209.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:41:03Z</published>
+		<updated>2014-01-21T13:41:03Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Cortinas-para-Cocina-Mediterr%C3%A1neo.html" />
+		<id>http://intima.com.mx/products/Juego-de-Cortinas-para-Cocina-Mediterr%C3%A1neo.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Cortinas para Cocina Mediterráneo]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Cortinas-para-Cocina-Mediterr%C3%A1neo.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Cortinas-para-Cocina-Mediterr%C3%A1neo.html"  ><img src="http://intima.com.mx/product_images/m/495/665_Imagen1__34531_thumb.jpg" alt="Juego de Cortinas para Cocina Mediterráneo" /></a></div>Incluye: Pánel 1,20 x 1,20 m, Galería 40 cm x 1,20 m.<p><strong>Precio: $209.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Pánel 1,20 x 1,20 m, Galería 40 cm x 1,20 m.]]></isc:description>
+		<isc:productid><![CDATA[2479]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/m/495/665_Imagen1__34531_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/v/540/665_Imagen1__99030_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$209.00]]></isc:price>
+	</entry>
+</feed>

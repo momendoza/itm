@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Nuevos Productos - Accesorios]]></title>
+	<subtitle type="html"><![CDATA[La lista de nuevos productos en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?categoryid=567&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-02-21T20:51:29Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:50:52Z</published>
+		<updated>2014-01-21T13:50:52Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Tapete-Minnie.html" />
+		<id>http://intima.com.mx/products/Tapete-Minnie.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Tapete Minnie]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Tapete-Minnie.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Tapete-Minnie.html"  ><img src="http://intima.com.mx/product_images/o/876/1000_Imagen1__82776_thumb.jpg" alt="Tapete Minnie" /></a></div><p><strong>Precio: $269.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2870]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/o/876/1000_Imagen1__82776_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/o/516/1000_Imagen1__51090_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$269.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:50:51Z</published>
+		<updated>2014-01-21T13:50:51Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Tapete-Antiderrapante-Amazonas.html" />
+		<id>http://intima.com.mx/products/Tapete-Antiderrapante-Amazonas.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Tapete Antiderrapante Amazonas]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Tapete-Antiderrapante-Amazonas.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Tapete-Antiderrapante-Amazonas.html"  ><img src="http://intima.com.mx/product_images/x/141/977_Imagen1__19425_thumb.jpg" alt="Tapete Antiderrapante Amazonas" /></a></div>Composición: PVC.<p><strong>Precio: $119.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición: PVC.]]></isc:description>
+		<isc:productid><![CDATA[2869]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/x/141/977_Imagen1__19425_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/b/529/977_Imagen1__70379_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$119.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:50:51Z</published>
+		<updated>2014-01-21T13:50:51Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Portapa%C3%B1ales-Andy.html" />
+		<id>http://intima.com.mx/products/Portapa%C3%B1ales-Andy.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Portapañales Andy]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Portapa%C3%B1ales-Andy.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Portapa%C3%B1ales-Andy.html"  ><img src="http://intima.com.mx/product_images/n/338/956_Imagen1__33502_thumb.jpg" alt="Portapañales Andy" /></a></div>Contiene: Portapañales de tela, Base de MDF. Con Bordado<p><strong>Precio: $299.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Contiene: Portapañales de tela, Base de MDF. Con Bordado]]></isc:description>
+		<isc:productid><![CDATA[2868]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/n/338/956_Imagen1__33502_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/w/289/956_Imagen1__40584_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$299.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:50:30Z</published>
+		<updated>2014-01-21T13:50:30Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Tapete-Shaggy.html" />
+		<id>http://intima.com.mx/products/Tapete-Shaggy.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Tapete Shaggy]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Tapete-Shaggy.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Tapete-Shaggy.html"  ><img src="http://intima.com.mx/product_images/b/530/1004_Imagen1__93868_thumb.jpg" alt="Tapete Shaggy" /></a></div>Tela: 100% microfibra.<p><strong>Precio: $599.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Tela: 100% microfibra.]]></isc:description>
+		<isc:productid><![CDATA[2849]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/b/530/1004_Imagen1__93868_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/o/190/1004_Imagen1__60677_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$599.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:50:30Z</published>
+		<updated>2014-01-21T13:50:30Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Tapete-Polar.html" />
+		<id>http://intima.com.mx/products/Tapete-Polar.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Tapete Polar]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Tapete-Polar.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Tapete-Polar.html"  ><img src="http://intima.com.mx/product_images/p/328/1001_Imagen1__20913_thumb.jpg" alt="Tapete Polar" /></a></div>Tela: 100% microfibra.<p><strong>Precio: $599.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Tela: 100% microfibra.]]></isc:description>
+		<isc:productid><![CDATA[2848]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/p/328/1001_Imagen1__20913_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/u/702/1001_Imagen1__57044_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$599.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:50:30Z</published>
+		<updated>2014-01-21T13:50:30Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Tapete-Memory-Foam-Deluxe.html" />
+		<id>http://intima.com.mx/products/Tapete-Memory-Foam-Deluxe.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Tapete Memory Foam Deluxe]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Tapete-Memory-Foam-Deluxe.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Tapete-Memory-Foam-Deluxe.html"  ><img src="http://intima.com.mx/product_images/p/686/997_Imagen1__25114_thumb.jpg" alt="Tapete Memory Foam Deluxe" /></a></div>Composición: 100% poliéster.<p><strong>Precio: $189.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición: 100% poliéster.]]></isc:description>
+		<isc:productid><![CDATA[2847]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/p/686/997_Imagen1__25114_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/s/857/997_Imagen1__20634_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$189.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:50:29Z</published>
+		<updated>2014-01-21T13:50:29Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Tapete-Lily.html" />
+		<id>http://intima.com.mx/products/Tapete-Lily.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Tapete Lily]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Tapete-Lily.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Tapete-Lily.html"  ><img src="http://intima.com.mx/product_images/i/422/994_Imagen1__98213_thumb.jpg" alt="Tapete Lily" /></a></div>Composición:100% algodón.<p><strong>Precio: $449.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición:100% algodón.]]></isc:description>
+		<isc:productid><![CDATA[2846]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/i/422/994_Imagen1__98213_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/c/283/994_Imagen1__26085_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$449.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:50:29Z</published>
+		<updated>2014-01-21T13:50:29Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Tapete-de-Salida-de-Ducha-Xenia.html" />
+		<id>http://intima.com.mx/products/Tapete-de-Salida-de-Ducha-Xenia.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Tapete de Salida de Ducha Xenia]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Tapete-de-Salida-de-Ducha-Xenia.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Tapete-de-Salida-de-Ducha-Xenia.html"  ><img src="http://intima.com.mx/product_images/i/661/988_Imagen1__76409_thumb.jpg" alt="Tapete de Salida de Ducha Xenia" /></a></div>Composición: 100% poliéster.<p><strong>Precio: $239.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición: 100% poliéster.]]></isc:description>
+		<isc:productid><![CDATA[2845]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/i/661/988_Imagen1__76409_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/g/442/988_Imagen1__47872_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$239.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:50:29Z</published>
+		<updated>2014-01-21T13:50:29Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Tapete-de-Salida-de-Ducha-Manhattan.html" />
+		<id>http://intima.com.mx/products/Tapete-de-Salida-de-Ducha-Manhattan.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Tapete de Salida de Ducha Manhattan]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Tapete-de-Salida-de-Ducha-Manhattan.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Tapete-de-Salida-de-Ducha-Manhattan.html"  ><img src="http://intima.com.mx/product_images/p/343/986_Imagen1__87368_thumb.jpg" alt="Tapete de Salida de Ducha Manhattan" /></a></div>Composición: 100% poliéster.<p><strong>Precio: $239.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición: 100% poliéster.]]></isc:description>
+		<isc:productid><![CDATA[2844]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/p/343/986_Imagen1__87368_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/b/984/986_Imagen1__54233_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$239.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:50:29Z</published>
+		<updated>2014-01-21T13:50:29Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Tapete-de-Salida-de-Ducha-Florencia.html" />
+		<id>http://intima.com.mx/products/Tapete-de-Salida-de-Ducha-Florencia.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Tapete de Salida de Ducha Florencia]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Tapete-de-Salida-de-Ducha-Florencia.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Tapete-de-Salida-de-Ducha-Florencia.html"  ><img src="http://intima.com.mx/product_images/b/912/984_Imagen1__98883_thumb.jpg" alt="Tapete de Salida de Ducha Florencia" /></a></div>Composición: 100% poliéster.<p><strong>Precio: $239.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición: 100% poliéster.]]></isc:description>
+		<isc:productid><![CDATA[2843]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/b/912/984_Imagen1__98883_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/x/011/984_Imagen1__36091_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$239.00]]></isc:price>
+	</entry>
+</feed>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Productos Populares]]></title>
+	<subtitle type="html"><![CDATA[La lista de productos populares en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?action=popularproducts&amp;categoryid=649&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-03-17T00:54:48Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:48:41Z</published>
+		<updated>2014-01-21T13:48:41Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Tapete-Espiral.html" />
+		<id>http://intima.com.mx/products/Tapete-Espiral.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Tapete Espiral]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Tapete-Espiral.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Tapete-Espiral.html"  ><img src="http://intima.com.mx/product_images/x/799/990_Imagen1__75232_thumb.jpg" alt="Tapete Espiral" /></a></div>Composición:100% algodón.<p><strong>Precio: $449.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición:100% algodón.]]></isc:description>
+		<isc:productid><![CDATA[2780]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/x/799/990_Imagen1__75232_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/x/275/990_Imagen1__26148_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$449.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:49:17Z</published>
+		<updated>2014-01-21T13:49:17Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Tapete-Circus.html" />
+		<id>http://intima.com.mx/products/Tapete-Circus.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Tapete Circus]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Tapete-Circus.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Tapete-Circus.html"  ><img src="http://intima.com.mx/product_images/y/500/981_Imagen1__66331_thumb.jpg" alt="Tapete Circus" /></a></div>Composición:100% algodón.<p><strong>Precio: $449.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición:100% algodón.]]></isc:description>
+		<isc:productid><![CDATA[2792]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/y/500/981_Imagen1__66331_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/w/829/981_Imagen1__03087_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$449.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:49:42Z</published>
+		<updated>2014-01-21T13:49:42Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Tapete-Grey.html" />
+		<id>http://intima.com.mx/products/Tapete-Grey.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Tapete Grey]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Tapete-Grey.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Tapete-Grey.html"  ><img src="http://intima.com.mx/product_images/w/851/991_Imagen1__68211_thumb.jpg" alt="Tapete Grey" /></a></div>Composición:100% algodón.<p><strong>Precio: $449.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición:100% algodón.]]></isc:description>
+		<isc:productid><![CDATA[2817]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/w/851/991_Imagen1__68211_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/t/608/991_Imagen1__13961_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$449.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:49:43Z</published>
+		<updated>2014-01-21T13:49:43Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Tapete-Marino.html" />
+		<id>http://intima.com.mx/products/Tapete-Marino.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Tapete Marino]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Tapete-Marino.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Tapete-Marino.html"  ><img src="http://intima.com.mx/product_images/a/389/996_Imagen1__25130_thumb.jpg" alt="Tapete Marino" /></a></div>Composición:100% algodón.<p><strong>Precio: $449.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición:100% algodón.]]></isc:description>
+		<isc:productid><![CDATA[2818]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/a/389/996_Imagen1__25130_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/x/102/996_Imagen1__76335_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$449.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:50:29Z</published>
+		<updated>2014-01-21T13:50:29Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Tapete-Lily.html" />
+		<id>http://intima.com.mx/products/Tapete-Lily.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Tapete Lily]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Tapete-Lily.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Tapete-Lily.html"  ><img src="http://intima.com.mx/product_images/z/678/994_Imagen1__86816_thumb.jpg" alt="Tapete Lily" /></a></div>Composición:100% algodón.<p><strong>Precio: $449.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición:100% algodón.]]></isc:description>
+		<isc:productid><![CDATA[2846]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/z/678/994_Imagen1__86816_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/q/259/994_Imagen1__78690_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$449.00]]></isc:price>
+	</entry>
+</feed>

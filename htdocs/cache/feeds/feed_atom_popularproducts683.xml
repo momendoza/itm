@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Productos Populares]]></title>
+	<subtitle type="html"><![CDATA[La lista de productos populares en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?action=popularproducts&amp;categoryid=683&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-03-19T16:57:55Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:42:20Z</published>
+		<updated>2014-01-21T13:42:20Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Edred%C3%B3n-Amsterdam.html" />
+		<id>http://intima.com.mx/products/Juego-de-Edred%C3%B3n-Amsterdam.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Edredón Amsterdam]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Edred%C3%B3n-Amsterdam.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Edred%C3%B3n-Amsterdam.html"  ><img src="http://intima.com.mx/product_images/s/905/724_Imagen1__19208_thumb.jpg" alt="Juego de Edredón Amsterdam" /></a></div>Incluye: Edredón dos vistas, Fundas decorativas (I 1, M 2 y K 3), Rodapié, Cojín decorativo (I 2, M 3 y K 3).<p><strong>Precio: $1,605.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Edredón dos vistas, Fundas decorativas (I 1, M 2 y K 3), Rodapié, Cojín decorativo (I 2, M 3 y K 3).]]></isc:description>
+		<isc:productid><![CDATA[2530]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/s/905/724_Imagen1__19208_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/t/928/724_Imagen1__21034_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$1,605.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:42:46Z</published>
+		<updated>2014-01-21T13:42:46Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Edred%C3%B3n-Cibeles.html" />
+		<id>http://intima.com.mx/products/Juego-de-Edred%C3%B3n-Cibeles.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Edredón Cibeles]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Edred%C3%B3n-Cibeles.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Edred%C3%B3n-Cibeles.html"  ><img src="http://intima.com.mx/product_images/b/460/733_Imagen1__11750_thumb.jpg" alt="Juego de Edredón Cibeles" /></a></div>Incluye: Edredón dos vistas, Fundas decorativas (I 1, M 2 y K 3), Rodapié, Cojín decorativo (I 2, M 3 y K 3).<p><strong>Precio: $1,605.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Edredón dos vistas, Fundas decorativas (I 1, M 2 y K 3), Rodapié, Cojín decorativo (I 2, M 3 y K 3).]]></isc:description>
+		<isc:productid><![CDATA[2555]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/b/460/733_Imagen1__11750_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/x/852/733_Imagen1__58645_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$1,605.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:44:47Z</published>
+		<updated>2014-01-21T13:44:47Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Edred%C3%B3n-Marino.html" />
+		<id>http://intima.com.mx/products/Juego-de-Edred%C3%B3n-Marino.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Edredón Marino]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Edred%C3%B3n-Marino.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Edred%C3%B3n-Marino.html"  ><img src="http://intima.com.mx/product_images/q/698/756_Imagen1__20746_thumb.jpg" alt="Juego de Edredón Marino" /></a></div>Incluye: Edredón dos vistas, Fundas decorativas (I 1 y M 2), Cojín decorativo.<p><strong>Precio: $1,389.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Edredón dos vistas, Fundas decorativas (I 1 y M 2), Cojín decorativo.]]></isc:description>
+		<isc:productid><![CDATA[2614]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/q/698/756_Imagen1__20746_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/t/491/756_Imagen1__62581_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$1,389.00]]></isc:price>
+	</entry>
+</feed>

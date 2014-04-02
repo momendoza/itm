@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Productos Populares]]></title>
+	<subtitle type="html"><![CDATA[La lista de productos populares en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?action=popularproducts&amp;categoryid=629&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-03-23T01:52:24Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:43:23Z</published>
+		<updated>2014-01-21T13:43:23Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Fundas-Decorativas-Bakari.html" />
+		<id>http://intima.com.mx/products/Juego-de-Fundas-Decorativas-Bakari.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Fundas Decorativas Bakari]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Fundas-Decorativas-Bakari.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Fundas-Decorativas-Bakari.html"  ><img src="http://intima.com.mx/product_images/x/694/774_Imagen1__61685_thumb.jpg" alt="Juego de Fundas Decorativas Bakari" /></a></div><p><strong>Precio: $525.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2582]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/x/694/774_Imagen1__61685_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/x/248/774_Imagen1__14319_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$525.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:43:41Z</published>
+		<updated>2014-01-21T13:43:41Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Fundas-Decorativas-Sparta.html" />
+		<id>http://intima.com.mx/products/Juego-de-Fundas-Decorativas-Sparta.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Fundas Decorativas Sparta]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Fundas-Decorativas-Sparta.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Fundas-Decorativas-Sparta.html"  ><img src="http://intima.com.mx/product_images/j/269/777_Imagen1__91096_thumb.jpg" alt="Juego de Fundas Decorativas Sparta" /></a></div><p><strong>Precio: $525.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2587]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/j/269/777_Imagen1__91096_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/o/087/777_Imagen1__05631_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$525.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:44:48Z</published>
+		<updated>2014-01-21T13:44:48Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Fundas-Decorativas-Lord.html" />
+		<id>http://intima.com.mx/products/Juego-de-Fundas-Decorativas-Lord.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Fundas Decorativas Lord]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Fundas-Decorativas-Lord.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Fundas-Decorativas-Lord.html"  ><img src="http://intima.com.mx/product_images/z/273/776_Imagen1__06657_thumb.jpg" alt="Juego de Fundas Decorativas Lord" /></a></div><p><strong>Precio: $525.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2617]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/z/273/776_Imagen1__06657_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/o/278/776_Imagen1__31821_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$525.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:46:14Z</published>
+		<updated>2014-01-21T13:46:14Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Fundas-Decorativas-Liberty.html" />
+		<id>http://intima.com.mx/products/Juego-de-Fundas-Decorativas-Liberty.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Fundas Decorativas Liberty]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Fundas-Decorativas-Liberty.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Fundas-Decorativas-Liberty.html"  ><img src="http://intima.com.mx/product_images/o/040/775_Imagen1__56742_thumb.jpg" alt="Juego de Fundas Decorativas Liberty" /></a></div><p><strong>Precio: $525.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2666]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/o/040/775_Imagen1__56742_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/k/286/775_Imagen1__44115_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$525.00]]></isc:price>
+	</entry>
+</feed>

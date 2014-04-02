@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Productos Populares]]></title>
+	<subtitle type="html"><![CDATA[La lista de productos populares en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?action=popularproducts&amp;categoryid=604&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-02-19T16:51:54Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:34:22Z</published>
+		<updated>2014-01-21T13:34:22Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cuadro-Decorativo-Marruecos.html" />
+		<id>http://intima.com.mx/products/Cuadro-Decorativo-Marruecos.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cuadro Decorativo Marruecos]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cuadro-Decorativo-Marruecos.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cuadro-Decorativo-Marruecos.html"  ><img src="http://intima.com.mx/product_images/w/685/449_Imagen1__89289_thumb.jpg" alt="Cuadro Decorativo Marruecos" /></a></div>Lienzo estampado con base de madera.<p><strong>Precio: $449.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Lienzo estampado con base de madera.]]></isc:description>
+		<isc:productid><![CDATA[2221]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/w/685/449_Imagen1__89289_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/a/110/449_Imagen1__34915_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$449.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:36:12Z</published>
+		<updated>2014-01-21T13:36:12Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cuadro-Decorativo-Praga.html" />
+		<id>http://intima.com.mx/products/Cuadro-Decorativo-Praga.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cuadro Decorativo Praga]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cuadro-Decorativo-Praga.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cuadro-Decorativo-Praga.html"  ><img src="http://intima.com.mx/product_images/e/314/458_Imagen1__70532_thumb.jpg" alt="Cuadro Decorativo Praga" /></a></div>Lienzo estampado con base de madera.<p><strong>Precio: $449.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Lienzo estampado con base de madera.]]></isc:description>
+		<isc:productid><![CDATA[2272]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/e/314/458_Imagen1__70532_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/y/331/458_Imagen1__76840_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$449.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:41:04Z</published>
+		<updated>2014-01-21T13:41:04Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Cuadros-Cartagena.html" />
+		<id>http://intima.com.mx/products/Juego-de-Cuadros-Cartagena.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Cuadros Cartagena]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Cuadros-Cartagena.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Cuadros-Cartagena.html"  ><img src="http://intima.com.mx/product_images/f/769/671_Imagen1__28472_thumb.jpg" alt="Juego de Cuadros Cartagena" /></a></div>Lienzo estampado con base de madera.<p><strong>Precio: $409.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Lienzo estampado con base de madera.]]></isc:description>
+		<isc:productid><![CDATA[2481]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/f/769/671_Imagen1__28472_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/s/506/671_Imagen1__65152_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$409.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:41:35Z</published>
+		<updated>2014-01-21T13:41:35Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Cuadros-Alsacia.html" />
+		<id>http://intima.com.mx/products/Juego-de-Cuadros-Alsacia.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Cuadros Alsacia]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Cuadros-Alsacia.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Cuadros-Alsacia.html"  ><img src="http://intima.com.mx/product_images/j/461/670_Imagen1__68327_thumb.jpg" alt="Juego de Cuadros Alsacia" /></a></div>Lienzo estampado con base de madera.<p><strong>Precio: $409.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Lienzo estampado con base de madera.]]></isc:description>
+		<isc:productid><![CDATA[2493]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/j/461/670_Imagen1__68327_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/p/751/670_Imagen1__78136_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$409.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:41:36Z</published>
+		<updated>2014-01-21T13:41:36Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Cuadros-Peras.html" />
+		<id>http://intima.com.mx/products/Juego-de-Cuadros-Peras.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Cuadros Peras]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Cuadros-Peras.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Cuadros-Peras.html"  ><img src="http://intima.com.mx/product_images/m/673/678_Imagen1__53773_thumb.jpg" alt="Juego de Cuadros Peras" /></a></div>Lienzo estampado con base de madera.<p><strong>Precio: $409.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Lienzo estampado con base de madera.]]></isc:description>
+		<isc:productid><![CDATA[2494]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/m/673/678_Imagen1__53773_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/g/240/678_Imagen1__32139_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$409.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:41:36Z</published>
+		<updated>2014-01-21T13:41:36Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Cuadros-Sabores.html" />
+		<id>http://intima.com.mx/products/Juego-de-Cuadros-Sabores.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Cuadros Sabores]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Cuadros-Sabores.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Cuadros-Sabores.html"  ><img src="http://intima.com.mx/product_images/y/945/680_Imagen1__23732_thumb.jpg" alt="Juego de Cuadros Sabores" /></a></div>Lienzo estampado con base de madera.<p><strong>Precio: $409.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Lienzo estampado con base de madera.]]></isc:description>
+		<isc:productid><![CDATA[2495]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/y/945/680_Imagen1__23732_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/k/608/680_Imagen1__06909_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$409.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:42:13Z</published>
+		<updated>2014-01-21T13:42:13Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Cuadros-Africa.html" />
+		<id>http://intima.com.mx/products/Juego-de-Cuadros-Africa.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Cuadros Africa]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Cuadros-Africa.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Cuadros-Africa.html"  ><img src="http://intima.com.mx/product_images/h/473/669_Imagen1__26090_thumb.jpg" alt="Juego de Cuadros Africa" /></a></div>Lienzo estampado con base de madera.<p><strong>Precio: $599.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Lienzo estampado con base de madera.]]></isc:description>
+		<isc:productid><![CDATA[2516]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/h/473/669_Imagen1__26090_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/x/204/669_Imagen1__80983_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$599.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:42:14Z</published>
+		<updated>2014-01-21T13:42:14Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Cuadros-Frutas.html" />
+		<id>http://intima.com.mx/products/Juego-de-Cuadros-Frutas.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Cuadros Frutas]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Cuadros-Frutas.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Cuadros-Frutas.html"  ><img src="http://intima.com.mx/product_images/m/895/675_Imagen1__23939_thumb.jpg" alt="Juego de Cuadros Frutas" /></a></div>Lienzo estampado con base de madera.<p><strong>Precio: $499.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Lienzo estampado con base de madera.]]></isc:description>
+		<isc:productid><![CDATA[2518]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/m/895/675_Imagen1__23939_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/g/939/675_Imagen1__86342_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$499.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:42:15Z</published>
+		<updated>2014-01-21T13:42:15Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Cuadros-Nueva-York.html" />
+		<id>http://intima.com.mx/products/Juego-de-Cuadros-Nueva-York.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Cuadros Nueva York]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Cuadros-Nueva-York.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Cuadros-Nueva-York.html"  ><img src="http://intima.com.mx/product_images/e/115/677_Imagen1__63730_thumb.jpg" alt="Juego de Cuadros Nueva York" /></a></div>Lienzo estampado con base de madera.<p><strong>Precio: $599.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Lienzo estampado con base de madera.]]></isc:description>
+		<isc:productid><![CDATA[2519]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/e/115/677_Imagen1__63730_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/t/952/677_Imagen1__17029_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$599.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:42:39Z</published>
+		<updated>2014-01-21T13:42:39Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Cuadros-Abstracto.html" />
+		<id>http://intima.com.mx/products/Juego-de-Cuadros-Abstracto.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Cuadros Abstracto]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Cuadros-Abstracto.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Cuadros-Abstracto.html"  ><img src="http://intima.com.mx/product_images/l/038/668_Imagen1__45686_thumb.jpg" alt="Juego de Cuadros Abstracto" /></a></div>Lienzo estampado con base de madera.<p><strong>Precio: $599.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Lienzo estampado con base de madera.]]></isc:description>
+		<isc:productid><![CDATA[2539]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/l/038/668_Imagen1__45686_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/u/252/668_Imagen1__25961_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$599.00]]></isc:price>
+	</entry>
+</feed>

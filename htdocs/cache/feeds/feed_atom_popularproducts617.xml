@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Productos Populares]]></title>
+	<subtitle type="html"><![CDATA[La lista de productos populares en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?action=popularproducts&amp;categoryid=617&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-03-16T04:33:42Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:38:48Z</published>
+		<updated>2014-01-21T13:38:48Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Colcha-Dora-y-Botas.html" />
+		<id>http://intima.com.mx/products/Juego-de-Colcha-Dora-y-Botas.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Colcha Dora y Botas]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Colcha-Dora-y-Botas.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Colcha-Dora-y-Botas.html"  ><img src="http://intima.com.mx/product_images/h/602/607_Imagen1__42135_thumb.jpg" alt="Juego de Colcha Dora y Botas" /></a></div>Incluye: Colcha, Cojín decorativo (I 1 y M 2).<p><strong>Precio: $1,049.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Colcha, Cojín decorativo (I 1 y M 2).]]></isc:description>
+		<isc:productid><![CDATA[2383]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/h/602/607_Imagen1__42135_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/d/099/607_Imagen1__78652_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$1,049.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:38:49Z</published>
+		<updated>2014-01-21T13:38:49Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Colcha-Manchester-United.html" />
+		<id>http://intima.com.mx/products/Juego-de-Colcha-Manchester-United.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Colcha Manchester United]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Colcha-Manchester-United.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Colcha-Manchester-United.html"  ><img src="http://intima.com.mx/product_images/e/575/623_Imagen1__69046_thumb.jpg" alt="Juego de Colcha Manchester United" /></a></div>Incluye: Colcha, Cojín decorativo (I 1 y M 2).<p><strong>Precio: $779.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Colcha, Cojín decorativo (I 1 y M 2).]]></isc:description>
+		<isc:productid><![CDATA[2384]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/e/575/623_Imagen1__69046_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/c/082/623_Imagen1__62369_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$779.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:38:50Z</published>
+		<updated>2014-01-21T13:38:50Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Colcha-Mi-Villano-Favorito-2.html" />
+		<id>http://intima.com.mx/products/Juego-de-Colcha-Mi-Villano-Favorito-2.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Colcha Mi Villano Favorito 2]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Colcha-Mi-Villano-Favorito-2.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Colcha-Mi-Villano-Favorito-2.html"  ><img src="http://intima.com.mx/product_images/u/557/631_Imagen1__42654_thumb.jpg" alt="Juego de Colcha Mi Villano Favorito 2" /></a></div>Incluye: Colcha, Cojín decorativo (I 1 y M 2).<p><strong>Precio: $779.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Colcha, Cojín decorativo (I 1 y M 2).]]></isc:description>
+		<isc:productid><![CDATA[2386]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/u/557/631_Imagen1__42654_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/a/808/631_Imagen1__77954_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$779.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:39:19Z</published>
+		<updated>2014-01-21T13:39:19Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Colcha-Bob-Esponja-Alegr%C3%ADa.html" />
+		<id>http://intima.com.mx/products/Juego-de-Colcha-Bob-Esponja-Alegr%C3%ADa.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Colcha Bob Esponja Alegría]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Colcha-Bob-Esponja-Alegr%C3%ADa.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Colcha-Bob-Esponja-Alegr%C3%ADa.html"  ><img src="http://intima.com.mx/product_images/n/881/596_Imagen1__05471_thumb.jpg" alt="Juego de Colcha Bob Esponja Alegría" /></a></div>Incluye: Colcha, Cojín decorativo (I 1 y M 2).<p><strong>Precio: $1,049.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Colcha, Cojín decorativo (I 1 y M 2).]]></isc:description>
+		<isc:productid><![CDATA[2400]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/n/881/596_Imagen1__05471_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/x/417/596_Imagen1__48704_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$1,049.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:39:20Z</published>
+		<updated>2014-01-21T13:39:20Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Colcha-Cars-Triunfo.html" />
+		<id>http://intima.com.mx/products/Juego-de-Colcha-Cars-Triunfo.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Colcha Cars Triunfo]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Colcha-Cars-Triunfo.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Colcha-Cars-Triunfo.html"  ><img src="http://intima.com.mx/product_images/e/586/600_Imagen1__91712_thumb.jpg" alt="Juego de Colcha Cars Triunfo" /></a></div>Incluye: Colcha, Cojín decorativo (I 1 y M 2).<p><strong>Precio: $1,049.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Colcha, Cojín decorativo (I 1 y M 2).]]></isc:description>
+		<isc:productid><![CDATA[2401]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/e/586/600_Imagen1__91712_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/i/946/600_Imagen1__61289_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$1,049.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:39:20Z</published>
+		<updated>2014-01-21T13:39:20Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Colcha-Club-Am%C3%A9rica.html" />
+		<id>http://intima.com.mx/products/Juego-de-Colcha-Club-Am%C3%A9rica.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Colcha Club América]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Colcha-Club-Am%C3%A9rica.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Colcha-Club-Am%C3%A9rica.html"  ><img src="http://intima.com.mx/product_images/b/894/602_Imagen1__11981_thumb.jpg" alt="Juego de Colcha Club América" /></a></div>Incluye: Colcha, Cojín decorativo (I 1 y M 2).<p><strong>Precio: $1,049.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Colcha, Cojín decorativo (I 1 y M 2).]]></isc:description>
+		<isc:productid><![CDATA[2402]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/b/894/602_Imagen1__11981_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/s/663/602_Imagen1__61940_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$1,049.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:39:21Z</published>
+		<updated>2014-01-21T13:39:21Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Colcha-Dora-Aventuras.html" />
+		<id>http://intima.com.mx/products/Juego-de-Colcha-Dora-Aventuras.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Colcha Dora Aventuras]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Colcha-Dora-Aventuras.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Colcha-Dora-Aventuras.html"  ><img src="http://intima.com.mx/product_images/h/972/606_Imagen1__19293_thumb.jpg" alt="Juego de Colcha Dora Aventuras" /></a></div>Incluye: Colcha, Cojín decorativo (I 1 y M 2).<p><strong>Precio: $779.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Colcha, Cojín decorativo (I 1 y M 2).]]></isc:description>
+		<isc:productid><![CDATA[2404]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/h/972/606_Imagen1__19293_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/i/405/606_Imagen1__90182_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$779.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:39:22Z</published>
+		<updated>2014-01-21T13:39:22Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Colcha-Hello-Kitty-Pastelito.html" />
+		<id>http://intima.com.mx/products/Juego-de-Colcha-Hello-Kitty-Pastelito.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Colcha Hello Kitty Pastelito]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Colcha-Hello-Kitty-Pastelito.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Colcha-Hello-Kitty-Pastelito.html"  ><img src="http://intima.com.mx/product_images/e/795/615_Imagen1__30256_thumb.jpg" alt="Juego de Colcha Hello Kitty Pastelito" /></a></div>Incluye: Colcha, Cojín decorativo (I 1 y M 2).<p><strong>Precio: $1,049.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Colcha, Cojín decorativo (I 1 y M 2).]]></isc:description>
+		<isc:productid><![CDATA[2406]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/e/795/615_Imagen1__30256_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/r/556/615_Imagen1__88128_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$1,049.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:39:22Z</published>
+		<updated>2014-01-21T13:39:22Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Colcha-Mickey-Sorpresa.html" />
+		<id>http://intima.com.mx/products/Juego-de-Colcha-Mickey-Sorpresa.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Colcha Mickey Sorpresa]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Colcha-Mickey-Sorpresa.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Colcha-Mickey-Sorpresa.html"  ><img src="http://intima.com.mx/product_images/l/952/633_Imagen1__16928_thumb.jpg" alt="Juego de Colcha Mickey Sorpresa" /></a></div>Incluye: Colcha, Cojín decorativo (I 1 y M 2).<p><strong>Precio: $779.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Colcha, Cojín decorativo (I 1 y M 2).]]></isc:description>
+		<isc:productid><![CDATA[2409]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/l/952/633_Imagen1__16928_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/w/086/633_Imagen1__42548_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$779.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:39:23Z</published>
+		<updated>2014-01-21T13:39:23Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Colcha-Princesas-Elegancia.html" />
+		<id>http://intima.com.mx/products/Juego-de-Colcha-Princesas-Elegancia.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Colcha Princesas Elegancia]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Colcha-Princesas-Elegancia.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Colcha-Princesas-Elegancia.html"  ><img src="http://intima.com.mx/product_images/x/174/642_Imagen1__04882_thumb.jpg" alt="Juego de Colcha Princesas Elegancia" /></a></div>Incluye: Colcha, Cojín decorativo (I 1 y M 2).<p><strong>Precio: $779.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Colcha, Cojín decorativo (I 1 y M 2).]]></isc:description>
+		<isc:productid><![CDATA[2410]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/x/174/642_Imagen1__04882_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/f/734/642_Imagen1__24974_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$779.00]]></isc:price>
+	</entry>
+</feed>

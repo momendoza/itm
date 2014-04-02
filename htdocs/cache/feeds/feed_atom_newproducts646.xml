@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Nuevos Productos - Juvenil]]></title>
+	<subtitle type="html"><![CDATA[La lista de nuevos productos en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://www.intima.com.mx/rss.php?categoryid=646&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-03-20T18:14:33Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:50:53Z</published>
+		<updated>2014-01-21T13:50:53Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Toalla-Manos-Colorina.html" />
+		<id>http://intima.com.mx/products/Toalla-Manos-Colorina.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Toalla Manos Colorina]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Toalla-Manos-Colorina.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Toalla-Manos-Colorina.html"  ><img src="http://intima.com.mx/product_images/l/853/1034_Imagen1__76201_thumb.jpg" alt="Toalla Manos Colorina" /></a></div>Composición: 100% algodón.<p><strong>Precio: $89.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición: 100% algodón.]]></isc:description>
+		<isc:productid><![CDATA[2871]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/l/853/1034_Imagen1__76201_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/v/300/1034_Imagen1__07589_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$89.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:50:32Z</published>
+		<updated>2014-01-21T13:50:32Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Toalla-1%7B47%7D2-Ba%C3%B1o-Jack-Nightmare.html" />
+		<id>http://intima.com.mx/products/Toalla-1%7B47%7D2-Ba%C3%B1o-Jack-Nightmare.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Toalla 1/2 Baño Jack Nightmare]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Toalla-1%7B47%7D2-Ba%C3%B1o-Jack-Nightmare.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Toalla-1%7B47%7D2-Ba%C3%B1o-Jack-Nightmare.html"  ><img src="http://intima.com.mx/product_images/r/039/1015_Imagen1__25581_thumb.jpg" alt="Toalla 1/2 Baño Jack Nightmare" /></a></div><p><strong>Precio: $389.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2854]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/r/039/1015_Imagen1__25581_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/i/758/1015_Imagen1__02405_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$389.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:50:32Z</published>
+		<updated>2014-01-21T13:50:32Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Toalla-1%7B47%7D2-Ba%C3%B1o-Confetti.html" />
+		<id>http://intima.com.mx/products/Toalla-1%7B47%7D2-Ba%C3%B1o-Confetti.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Toalla 1/2 Baño Confetti]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Toalla-1%7B47%7D2-Ba%C3%B1o-Confetti.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Toalla-1%7B47%7D2-Ba%C3%B1o-Confetti.html"  ><img src="http://intima.com.mx/product_images/a/302/1011_Imagen1__49407_thumb.jpg" alt="Toalla 1/2 Baño Confetti" /></a></div><p><strong>Precio: $209.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2852]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/a/302/1011_Imagen1__49407_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/u/675/1011_Imagen1__62356_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$209.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:50:31Z</published>
+		<updated>2014-01-21T13:50:31Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Toalla-1%7B47%7D2-Ba%C3%B1o-Colorina.html" />
+		<id>http://intima.com.mx/products/Toalla-1%7B47%7D2-Ba%C3%B1o-Colorina.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Toalla 1/2 Baño Colorina]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Toalla-1%7B47%7D2-Ba%C3%B1o-Colorina.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Toalla-1%7B47%7D2-Ba%C3%B1o-Colorina.html"  ><img src="http://intima.com.mx/product_images/n/464/1009_Imagen1__70713_thumb.jpg" alt="Toalla 1/2 Baño Colorina" /></a></div>Composición: 100% algodón.<p><strong>Precio: $239.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición: 100% algodón.]]></isc:description>
+		<isc:productid><![CDATA[2851]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/n/464/1009_Imagen1__70713_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/e/888/1009_Imagen1__44633_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$239.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:49:19Z</published>
+		<updated>2014-01-21T13:49:19Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Toalla-1%7B47%7D2-Ba%C3%B1o-Mariposas.html" />
+		<id>http://intima.com.mx/products/Toalla-1%7B47%7D2-Ba%C3%B1o-Mariposas.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Toalla 1/2 Baño Mariposas]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Toalla-1%7B47%7D2-Ba%C3%B1o-Mariposas.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Toalla-1%7B47%7D2-Ba%C3%B1o-Mariposas.html"  ><img src="http://intima.com.mx/product_images/j/842/1019_Imagen1__87949_thumb.jpg" alt="Toalla 1/2 Baño Mariposas" /></a></div><p><strong>Precio: $209.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2801]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/j/842/1019_Imagen1__87949_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/t/557/1019_Imagen1__80600_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$209.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:49:19Z</published>
+		<updated>2014-01-21T13:49:19Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Toalla-1%7B47%7D2-Ba%C3%B1o-Kitty-Fresh.html" />
+		<id>http://intima.com.mx/products/Toalla-1%7B47%7D2-Ba%C3%B1o-Kitty-Fresh.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Toalla 1/2 Baño Kitty Fresh]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Toalla-1%7B47%7D2-Ba%C3%B1o-Kitty-Fresh.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Toalla-1%7B47%7D2-Ba%C3%B1o-Kitty-Fresh.html"  ><img src="http://intima.com.mx/product_images/g/211/1016_Imagen1__48768_thumb.jpg" alt="Toalla 1/2 Baño Kitty Fresh" /></a></div><p><strong>Precio: $389.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2800]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/g/211/1016_Imagen1__48768_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/l/441/1016_Imagen1__63224_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$389.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:49:18Z</published>
+		<updated>2014-01-21T13:49:18Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Toalla-1%7B47%7D2-Ba%C3%B1o-Balones.html" />
+		<id>http://intima.com.mx/products/Toalla-1%7B47%7D2-Ba%C3%B1o-Balones.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Toalla 1/2 Baño Balones]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Toalla-1%7B47%7D2-Ba%C3%B1o-Balones.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Toalla-1%7B47%7D2-Ba%C3%B1o-Balones.html"  ><img src="http://intima.com.mx/product_images/d/011/1008_Imagen1__98801_thumb.jpg" alt="Toalla 1/2 Baño Balones" /></a></div>Composición: 100% algodón con cenefa tejida (jacquard).<p><strong>Precio: $209.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición: 100% algodón con cenefa tejida (jacquard).]]></isc:description>
+		<isc:productid><![CDATA[2799]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/d/011/1008_Imagen1__98801_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/g/526/1008_Imagen1__27341_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$209.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:48:42Z</published>
+		<updated>2014-01-21T13:48:42Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Toalla-1%7B47%7D2-Ba%C3%B1o-Colorina-Lisa.html" />
+		<id>http://intima.com.mx/products/Toalla-1%7B47%7D2-Ba%C3%B1o-Colorina-Lisa.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Toalla 1/2 Baño Colorina Lisa]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Toalla-1%7B47%7D2-Ba%C3%B1o-Colorina-Lisa.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Toalla-1%7B47%7D2-Ba%C3%B1o-Colorina-Lisa.html"  ><img src="http://intima.com.mx/product_images/h/813/1010_Imagen1__38683_thumb.jpg" alt="Toalla 1/2 Baño Colorina Lisa" /></a></div>Composición: 100% algodón.<p><strong>Precio: $239.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición: 100% algodón.]]></isc:description>
+		<isc:productid><![CDATA[2781]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/h/813/1010_Imagen1__38683_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/y/632/1010_Imagen1__22847_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$239.00]]></isc:price>
+	</entry>
+</feed>

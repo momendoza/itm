@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Productos Populares]]></title>
+	<subtitle type="html"><![CDATA[La lista de productos populares en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?action=popularproducts&amp;categoryid=673&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-02-15T15:16:25Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:30:44Z</published>
+		<updated>2014-01-21T13:30:44Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cesto-Multiusos-Emily.html" />
+		<id>http://intima.com.mx/products/Cesto-Multiusos-Emily.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cesto Multiusos Emily]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cesto-Multiusos-Emily.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cesto-Multiusos-Emily.html"  ><img src="http://intima.com.mx/product_images/w/995/211_Imagen1__06436_thumb.jpg" alt="Cesto Multiusos Emily" /></a></div>Incluye: Cesto de tela, armazón de madera y bolsa de malla. Con Bordado.<p><strong>Precio: $520.84</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Cesto de tela, armazón de madera y bolsa de malla. Con Bordado.]]></isc:description>
+		<isc:productid><![CDATA[2069]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/w/995/211_Imagen1__06436_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/t/021/211_Imagen1__78791_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$520.84]]></isc:price>
+	</entry>
+</feed>

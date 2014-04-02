@@ -1,0 +1,30 @@
+#outer-container{
+	background:#e8e9ea url(./default/bg_outer_container.gif) repeat-x;
+}
+
+a, a:hover, a:visited, .colortext, .pullquote, input[type="submit"],
+input[type="reset"],
+button,.pagenavi .current, .pagenavi a:hover, .ts-display-pf-text h2, .ts-display-pf-text h2 a, .ts-display-pf-text h2 a:visited, h2.trigger span{color:#ed1c24}
+.sf-menu li.sfHover a{color:#ed1c24}
+
+/* slider */
+#slider_container{
+	background:url(./default/shadow_slider.png) no-repeat left bottom;
+}
+
+
+/* ribbon style*/
+.ribbontag{ background:#ed1c24}
+.ribboncurve{ background:url(./default/ribbon.png) no-repeat right top;}
+
+/* jQuery toggle */
+h2.trigger span {background: url(./default/list_arrow.gif) no-repeat 15px 17px;}
+h2.active span{background: url(./default/list_arrow_down.gif) no-repeat 15px 17px;}
+
+/* sidebar */
+.list1 li{background:url(./default/side_list.gif) no-repeat 0 6px;}
+#sidebar li li{background:url(./default/side_list.gif) no-repeat 0 8px;}
+#sidebar li li:hover{background:url(./default/side_list_hover.gif) no-repeat 0 8px;}
+
+/* footer */
+#main-footer li li{ background:url(./default/square.gif) no-repeat 0 8px}

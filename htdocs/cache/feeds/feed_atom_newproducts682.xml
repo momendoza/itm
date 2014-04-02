@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Nuevos Productos - Juvenil]]></title>
+	<subtitle type="html"><![CDATA[La lista de nuevos productos en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?categoryid=682&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-03-08T03:30:47Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:42:40Z</published>
+		<updated>2014-01-21T13:42:40Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Cuadros-Sonic.html" />
+		<id>http://intima.com.mx/products/Juego-de-Cuadros-Sonic.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Cuadros Sonic]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Cuadros-Sonic.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Cuadros-Sonic.html"  ><img src="http://intima.com.mx/product_images/i/294/681_Imagen1__84050_thumb.jpg" alt="Juego de Cuadros Sonic" /></a></div>Lienzo estampado con base de madera.<p><strong>Precio: $479.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Lienzo estampado con base de madera.]]></isc:description>
+		<isc:productid><![CDATA[2542]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/i/294/681_Imagen1__84050_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/x/728/681_Imagen1__05450_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$479.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:42:39Z</published>
+		<updated>2014-01-21T13:42:39Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Cuadros-Fiesta.html" />
+		<id>http://intima.com.mx/products/Juego-de-Cuadros-Fiesta.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Cuadros Fiesta]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Cuadros-Fiesta.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Cuadros-Fiesta.html"  ><img src="http://intima.com.mx/product_images/o/806/674_Imagen1__09648_thumb.jpg" alt="Juego de Cuadros Fiesta" /></a></div>Lienzo estampado con base de madera.<p><strong>Precio: $409.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Lienzo estampado con base de madera.]]></isc:description>
+		<isc:productid><![CDATA[2540]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/o/806/674_Imagen1__09648_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/f/155/674_Imagen1__42604_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$409.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:42:15Z</published>
+		<updated>2014-01-21T13:42:15Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Cuadros-Rocker.html" />
+		<id>http://intima.com.mx/products/Juego-de-Cuadros-Rocker.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Cuadros Rocker]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Cuadros-Rocker.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Cuadros-Rocker.html"  ><img src="http://intima.com.mx/product_images/p/184/679_Imagen1__33628_thumb.jpg" alt="Juego de Cuadros Rocker" /></a></div>Lienzo estampado con base de madera.<p><strong>Precio: $479.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Lienzo estampado con base de madera.]]></isc:description>
+		<isc:productid><![CDATA[2520]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/p/184/679_Imagen1__33628_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/g/814/679_Imagen1__73280_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$479.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:42:14Z</published>
+		<updated>2014-01-21T13:42:14Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Cuadros-Chic.html" />
+		<id>http://intima.com.mx/products/Juego-de-Cuadros-Chic.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Cuadros Chic]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Cuadros-Chic.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Cuadros-Chic.html"  ><img src="http://intima.com.mx/product_images/w/162/672_Imagen1__66042_thumb.jpg" alt="Juego de Cuadros Chic" /></a></div>Lienzo estampado con base de madera.<p><strong>Precio: $499.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Lienzo estampado con base de madera.]]></isc:description>
+		<isc:productid><![CDATA[2517]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/w/162/672_Imagen1__66042_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/x/703/672_Imagen1__80052_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$499.00]]></isc:price>
+	</entry>
+</feed>

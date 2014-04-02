@@ -1,0 +1,139 @@
+
+<script type="text/javascript" src="%%GLOBAL_ShopPath%%/javascript/formfield.js?%%GLOBAL_JSCacheToken%%"></script>
+<script type="text/javascript"><!--
+    
+        $(document).ready(function(){
+    
+                var formfieldRFC = false;
+                var formfieldRFCid = '';
+                formfieldRFC = FormField.GetFieldByLabel(1, 'RFC');
+                formfieldRFCid = formfieldRFC.attr('id');
+                formfieldRFCid = formfieldRFCid.replace('FormField_', '');
+
+                var formfieldRS = false;
+                var formfieldRSid = '';
+                formfieldRS = FormField.GetFieldByLabel(1, 'Razon Social');
+                formfieldRSid = formfieldRS.attr('id');
+                formfieldRSid = formfieldRSid.replace('FormField_', ''); 
+                $('span:contains("Delegacion:")').html('Delegación/Municipio');
+    
+                $('#FormField_'+formfieldRFCid).attr('disabled','disabled');
+                $('#FormField_'+formfieldRSid ).attr('disabled','disabled');
+                
+    
+    
+       });
+   
+
+    
+    function RequiereFacturaToggle(checked){
+    var formfieldRFC = false;
+    var formfieldRFCid = '';
+    formfieldRFC = FormField.GetFieldByLabel(1, 'RFC');
+    formfieldRFCid = formfieldRFC.attr('id');
+    formfieldRFCid = formfieldRFCid.replace('FormField_', '');
+    
+    
+    var formfieldRS = false;
+    var formfieldRSid = '';
+    formfieldRS = FormField.GetFieldByLabel(1, 'Razon Social');
+    formfieldRSid = formfieldRS.attr('id');
+    formfieldRSid = formfieldRSid.replace('FormField_', '');    
+    
+    if(checked==true){
+    FormField.SetRequired(formfieldRFCid , true);
+    FormField.SetRequired(formfieldRSid , true);
+    
+    $('#FormField_'+formfieldRFCid).removeAttr('disabled');
+    $('#FormField_'+formfieldRSid ).removeAttr('disabled');
+    }
+    else{
+    FormField.SetRequired(formfieldRFCid , false);
+    FormField.SetRequired(formfieldRSid , false);
+    
+    $('#FormField_'+formfieldRFCid).attr('disabled','disabled');
+    $('#FormField_'+formfieldRSid ).attr('disabled','disabled');
+    }
+    }
+    
+    /* Make sure all new account details are filled in 
+     * Recordar poner el privateID 'ConfirmEMail' al campo de Conf. Correo Electronico
+     */
+    function check_create_account_form() {
+
+        var formIdx = [%%GLOBAL_CreateAccountAccountFormFieldID%%, %%GLOBAL_CreateAccountShippingFormFieldID%%];
+        var emailField, passwordField, confirmField, formfields, confirmEMail;
+    
+        for (var i=0; i<formIdx.length; i++) {
+            formfields = FormField.GetValues(formIdx[i]);
+
+            for (var j=0; j<formfields.length; j++) {
+                var rtn = FormField.Validate(formfields[j].field);
+
+                if (!rtn.status) {
+                    alert(rtn.msg);
+                    FormField.Focus(formfields[j].field);
+                    return false;
+                }
+
+                if (formIdx[i] == %%GLOBAL_CreateAccountAccountFormFieldID%%) {
+                    if (formfields[j].privateId == 'EmailAddress') {
+                        emailField = formfields[j];
+                    } else if (formfields[j].privateId == 'Password') {
+                        passwordField = formfields[j];
+                    } else if (formfields[j].privateId == 'ConfirmPassword') {
+                        confirmField = formfields[j];
+                    } else if (formfields[j].privateId == 'ConfirmEMail') {
+                        confirmEMail = formfields[j];
+                    }
+                }
+            }
+        }
+
+        if(emailField.value.indexOf("@") == -1 || emailField.value.indexOf(".") == -1) {
+            alert("%%LNG_AccountEnterValidEmail%%");
+            FormField.Focus(emailField.field);
+            return false;
+        }
+    
+        if(confirmEMail.value.indexOf("@") == -1 || confirmEMail.value.indexOf(".") == -1) {
+            alert("%%LNG_AccountEnterValidEmailConfirm%%");
+            FormField.Focus(confirmEMail.field);
+            return false;
+        }
+        
+        if((emailField.value != "" || confirmEMail.value != "") && (emailField.value != confirmEMail.value)) {
+            alert("%%LNG_AccountEmailDontMatch%%");
+            FormField.Focus(confirmEMail.field);
+            return false;
+        }
+
+        if(passwordField.value == "") {
+            alert("%%LNG_AccountEnterPassword%%");
+            FormField.Focus(passwordField.field);
+            FormField.Focus(passwordField.field);
+            return false;
+        }
+
+        if((passwordField.value != "" || confirmField.value != "") && (passwordField.value != confirmField.value)) {
+            alert("%%LNG_AccountPasswordsDontMatch%%");
+            FormField.Focus(confirmField.field);
+            return false;
+        }
+
+        return true;
+    }
+
+    %%GLOBAL_FormFieldRequiredJS%%
+//-->
+</script>
+
+
+
+
+
+
+
+
+
+

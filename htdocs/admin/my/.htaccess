@@ -1,0 +1,9 @@
+AuthName "Restricted Area"
+
+AuthType Basic
+
+AuthUserFile /var/www/vhosts/tiendas/s32/htdocs/admin/my/.htpasswd
+
+AuthGroupFile /dev/null
+
+require valid-user

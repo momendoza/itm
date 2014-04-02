@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Nuevos Productos - Bebé]]></title>
+	<subtitle type="html"><![CDATA[La lista de nuevos productos en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://www.intima.com.mx/rss.php?categoryid=679&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-02-28T15:36:38Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:30:44Z</published>
+		<updated>2014-01-21T13:30:44Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cesto-Multiusos-Emily.html" />
+		<id>http://intima.com.mx/products/Cesto-Multiusos-Emily.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cesto Multiusos Emily]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cesto-Multiusos-Emily.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cesto-Multiusos-Emily.html"  ><img src="http://intima.com.mx/product_images/w/995/211_Imagen1__06436_thumb.jpg" alt="Cesto Multiusos Emily" /></a></div>Incluye: Cesto de tela, armazón de madera y bolsa de malla. Con Bordado.<p><strong>Precio: $499.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Cesto de tela, armazón de madera y bolsa de malla. Con Bordado.]]></isc:description>
+		<isc:productid><![CDATA[2069]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/w/995/211_Imagen1__06436_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/t/021/211_Imagen1__78791_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$499.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:30:44Z</published>
+		<updated>2014-01-21T13:30:44Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cesto-Multiusos-Cars-Carreras.html" />
+		<id>http://intima.com.mx/products/Cesto-Multiusos-Cars-Carreras.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cesto Multiusos Cars Carreras]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cesto-Multiusos-Cars-Carreras.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cesto-Multiusos-Cars-Carreras.html"  ><img src="http://intima.com.mx/product_images/q/558/208_Imagen1__05127_thumb.jpg" alt="Cesto Multiusos Cars Carreras" /></a></div>Incluye: Cesto de tela, armazón de madera y bolsa de malla. Con Bordado.<p><strong>Precio: $499.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Cesto de tela, armazón de madera y bolsa de malla. Con Bordado.]]></isc:description>
+		<isc:productid><![CDATA[2068]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/q/558/208_Imagen1__05127_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/b/783/208_Imagen1__39815_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$499.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:29:35Z</published>
+		<updated>2014-01-21T13:29:35Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cesto-Multiusos-Marie-Arcoiris.html" />
+		<id>http://intima.com.mx/products/Cesto-Multiusos-Marie-Arcoiris.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cesto Multiusos Marie Arcoiris]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cesto-Multiusos-Marie-Arcoiris.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cesto-Multiusos-Marie-Arcoiris.html"  ><img src="http://intima.com.mx/product_images/s/136/215_Imagen1__22788_thumb.jpg" alt="Cesto Multiusos Marie Arcoiris" /></a></div>Incluye: Cesto de tela, armazón de madera y bolsa de malla. Con Bordado.<p><strong>Precio: $499.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Cesto de tela, armazón de madera y bolsa de malla. Con Bordado.]]></isc:description>
+		<isc:productid><![CDATA[2044]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/s/136/215_Imagen1__22788_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/u/422/215_Imagen1__55649_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$499.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:29:01Z</published>
+		<updated>2014-01-21T13:29:01Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cesto-Multiusos-Diego.html" />
+		<id>http://intima.com.mx/products/Cesto-Multiusos-Diego.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cesto Multiusos Diego]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cesto-Multiusos-Diego.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cesto-Multiusos-Diego.html"  ><img src="http://intima.com.mx/product_images/s/315/210_Imagen1__54507_thumb.jpg" alt="Cesto Multiusos Diego" /></a></div>Incluye: Cesto de tela, armazón de madera y bolsa de malla. Con Bordado.<p><strong>Precio: $499.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Cesto de tela, armazón de madera y bolsa de malla. Con Bordado.]]></isc:description>
+		<isc:productid><![CDATA[2027]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/s/315/210_Imagen1__54507_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/q/075/210_Imagen1__03345_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$499.00]]></isc:price>
+	</entry>
+</feed>

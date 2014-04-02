@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Productos Populares]]></title>
+	<subtitle type="html"><![CDATA[La lista de productos populares en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?action=popularproducts&amp;categoryid=634&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-02-18T21:51:55Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:43:26Z</published>
+		<updated>2014-01-21T13:43:26Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Fiesta.html" />
+		<id>http://intima.com.mx/products/Juego-de-S%C3%A1banas-Fiesta.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Sábanas Fiesta]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Fiesta.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Fiesta.html"  ><img src="http://intima.com.mx/product_images/e/441/839_Imagen1__57843_thumb.jpg" alt="Juego de Sábanas Fiesta" /></a></div>Incluye: Sábana plana, sábana de cajón y funda de almohada (I 1 y M 2).<p><strong>Precio: $645.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Sábana plana, sábana de cajón y funda de almohada (I 1 y M 2).]]></isc:description>
+		<isc:productid><![CDATA[2585]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/e/441/839_Imagen1__57843_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/g/117/839_Imagen1__34753_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$645.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:43:44Z</published>
+		<updated>2014-01-21T13:43:44Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Jack.html" />
+		<id>http://intima.com.mx/products/Juego-de-S%C3%A1banas-Jack.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Sábanas Jack]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Jack.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Jack.html"  ><img src="http://intima.com.mx/product_images/e/104/850_Imagen1__82218_thumb.jpg" alt="Juego de Sábanas Jack" /></a></div>Incluye: Sábana plana, sábana de cajón y funda de almohada (I 1 y M 2).<p><strong>Precio: $645.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Sábana plana, sábana de cajón y funda de almohada (I 1 y M 2).]]></isc:description>
+		<isc:productid><![CDATA[2595]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/e/104/850_Imagen1__82218_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/w/387/850_Imagen1__49381_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$645.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:44:49Z</published>
+		<updated>2014-01-21T13:44:49Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Alegr%C3%ADa-Rosa.html" />
+		<id>http://intima.com.mx/products/Juego-de-S%C3%A1banas-Alegr%C3%ADa-Rosa.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Sábanas Alegría Rosa]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Alegr%C3%ADa-Rosa.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Alegr%C3%ADa-Rosa.html"  ><img src="http://intima.com.mx/product_images/q/957/788_Imagen1__48994_thumb.jpg" alt="Juego de Sábanas Alegría Rosa" /></a></div>Incluye: Sábana plana, sábana de cajón y funda de almohada (I 1 y M 2).<p><strong>Precio: $645.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Sábana plana, sábana de cajón y funda de almohada (I 1 y M 2).]]></isc:description>
+		<isc:productid><![CDATA[2621]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/q/957/788_Imagen1__48994_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/s/522/788_Imagen1__29975_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$645.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:44:51Z</published>
+		<updated>2014-01-21T13:44:51Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Confetti.html" />
+		<id>http://intima.com.mx/products/Juego-de-S%C3%A1banas-Confetti.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Sábanas Confetti]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Confetti.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Confetti.html"  ><img src="http://intima.com.mx/product_images/y/602/824_Imagen1__65253_thumb.jpg" alt="Juego de Sábanas Confetti" /></a></div>Incluye: Sábana plana, sábana de cajón y funda de almohada (I 1 y M 2).<p><strong>Precio: $645.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Sábana plana, sábana de cajón y funda de almohada (I 1 y M 2).]]></isc:description>
+		<isc:productid><![CDATA[2630]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/y/602/824_Imagen1__65253_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/v/754/824_Imagen1__04185_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$645.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:44:52Z</published>
+		<updated>2014-01-21T13:44:52Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Destello.html" />
+		<id>http://intima.com.mx/products/Juego-de-S%C3%A1banas-Destello.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Sábanas Destello]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Destello.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Destello.html"  ><img src="http://intima.com.mx/product_images/p/722/829_Imagen1__11129_thumb.jpg" alt="Juego de Sábanas Destello" /></a></div>Incluye: Sábana plana, sábana de cajón y funda de almohada (I 1 y M 2).<p><strong>Precio: $645.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Sábana plana, sábana de cajón y funda de almohada (I 1 y M 2).]]></isc:description>
+		<isc:productid><![CDATA[2631]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/p/722/829_Imagen1__11129_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/l/449/829_Imagen1__21041_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$645.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:44:56Z</published>
+		<updated>2014-01-21T13:44:56Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Hello-Kitty-Kiss.html" />
+		<id>http://intima.com.mx/products/Juego-de-S%C3%A1banas-Hello-Kitty-Kiss.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Sábanas Hello Kitty Kiss]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Hello-Kitty-Kiss.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Hello-Kitty-Kiss.html"  ><img src="http://intima.com.mx/product_images/d/395/847_Imagen1__80328_thumb.jpg" alt="Juego de Sábanas Hello Kitty Kiss" /></a></div>Incluye: Sábana plana, sábana de cajón y funda de almohada (I 1 y M 2).<p><strong>Precio: $645.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Sábana plana, sábana de cajón y funda de almohada (I 1 y M 2).]]></isc:description>
+		<isc:productid><![CDATA[2637]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/d/395/847_Imagen1__80328_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/m/208/847_Imagen1__31192_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$645.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:45:34Z</published>
+		<updated>2014-01-21T13:45:34Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Balones.html" />
+		<id>http://intima.com.mx/products/Juego-de-S%C3%A1banas-Balones.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Sábanas Balones]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Balones.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Balones.html"  ><img src="http://intima.com.mx/product_images/c/152/802_Imagen1__94290_thumb.jpg" alt="Juego de Sábanas Balones" /></a></div>Incluye: Sábana plana, sábana de cajón y funda de almohada (I 1 y M 2).<p><strong>Precio: $645.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Sábana plana, sábana de cajón y funda de almohada (I 1 y M 2).]]></isc:description>
+		<isc:productid><![CDATA[2652]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/c/152/802_Imagen1__94290_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/y/518/802_Imagen1__71487_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$645.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:46:16Z</published>
+		<updated>2014-01-21T13:46:16Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Chic.html" />
+		<id>http://intima.com.mx/products/Juego-de-S%C3%A1banas-Chic.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Sábanas Chic]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Chic.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Chic.html"  ><img src="http://intima.com.mx/product_images/a/038/818_Imagen1__00624_thumb.jpg" alt="Juego de Sábanas Chic" /></a></div>Incluye: Sábana plana, sábana de cajón y funda de almohada (I 1 y M 2).<p><strong>Precio: $645.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Sábana plana, sábana de cajón y funda de almohada (I 1 y M 2).]]></isc:description>
+		<isc:productid><![CDATA[2672]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/a/038/818_Imagen1__00624_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/s/619/818_Imagen1__89406_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$645.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:46:19Z</published>
+		<updated>2014-01-21T13:46:19Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Rom%C3%A1ntica.html" />
+		<id>http://intima.com.mx/products/Juego-de-S%C3%A1banas-Rom%C3%A1ntica.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Sábanas Romántica]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Rom%C3%A1ntica.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Rom%C3%A1ntica.html"  ><img src="http://intima.com.mx/product_images/i/707/899_Imagen1__28303_thumb.jpg" alt="Juego de Sábanas Romántica" /></a></div>Incluye: Sábana plana, sábana de cajón y funda de almohada (I 1 y M 2).<p><strong>Precio: $645.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Sábana plana, sábana de cajón y funda de almohada (I 1 y M 2).]]></isc:description>
+		<isc:productid><![CDATA[2680]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/i/707/899_Imagen1__28303_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/u/445/899_Imagen1__68677_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$645.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:47:17Z</published>
+		<updated>2014-01-21T13:47:17Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Mickey-Night.html" />
+		<id>http://intima.com.mx/products/Juego-de-S%C3%A1banas-Mickey-Night.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Sábanas Mickey Night]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Mickey-Night.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Mickey-Night.html"  ><img src="http://intima.com.mx/product_images/h/080/875_Imagen1__85095_thumb.jpg" alt="Juego de Sábanas Mickey Night" /></a></div>Incluye: Sábana plana, sábana de cajón y funda de almohada (I 1 y M 2).<p><strong>Precio: $645.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Sábana plana, sábana de cajón y funda de almohada (I 1 y M 2).]]></isc:description>
+		<isc:productid><![CDATA[2714]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/h/080/875_Imagen1__85095_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/w/778/875_Imagen1__00773_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$645.00]]></isc:price>
+	</entry>
+</feed>

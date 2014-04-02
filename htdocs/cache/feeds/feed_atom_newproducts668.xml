@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Nuevos Productos - Sábanas]]></title>
+	<subtitle type="html"><![CDATA[La lista de nuevos productos en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?categoryid=668&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-03-24T21:36:29Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:45:33Z</published>
+		<updated>2014-01-21T13:45:33Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Amsterdam.html" />
+		<id>http://intima.com.mx/products/Juego-de-S%C3%A1banas-Amsterdam.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Sábanas Amsterdam]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Amsterdam.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Amsterdam.html"  ><img src="http://intima.com.mx/product_images/g/160/793_Imagen1__83188_thumb.jpg" alt="Juego de Sábanas Amsterdam" /></a></div>Incluye: Sábana plana, sábana de cajón y funda de almohada (I 1,M 2 y K 2 King).<p><strong>Precio: $565.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Sábana plana, sábana de cajón y funda de almohada (I 1,M 2 y K 2 King).]]></isc:description>
+		<isc:productid><![CDATA[2649]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/g/160/793_Imagen1__83188_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/p/609/793_Imagen1__76483_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$565.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:43:44Z</published>
+		<updated>2014-01-21T13:43:44Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Cibeles.html" />
+		<id>http://intima.com.mx/products/Juego-de-S%C3%A1banas-Cibeles.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Sábanas Cibeles]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Cibeles.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Cibeles.html"  ><img src="http://intima.com.mx/product_images/g/662/820_Imagen1__83688_thumb.jpg" alt="Juego de Sábanas Cibeles" /></a></div>Incluye: Sábana plana, sábana de cajón y funda de almohada (I 1,M 2 y K 2 King).<p><strong>Precio: $565.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Sábana plana, sábana de cajón y funda de almohada (I 1,M 2 y K 2 King).]]></isc:description>
+		<isc:productid><![CDATA[2592]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/g/662/820_Imagen1__83688_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/y/285/820_Imagen1__43133_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$565.00]]></isc:price>
+	</entry>
+</feed>

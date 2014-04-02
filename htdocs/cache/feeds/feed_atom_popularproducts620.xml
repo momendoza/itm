@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Productos Populares]]></title>
+	<subtitle type="html"><![CDATA[La lista de productos populares en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?action=popularproducts&amp;categoryid=620&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-03-12T20:23:51Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:38:47Z</published>
+		<updated>2014-01-21T13:38:47Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Ba%C3%B1o-Candy.html" />
+		<id>http://intima.com.mx/products/Juego-de-Ba%C3%B1o-Candy.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Baño Candy]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Ba%C3%B1o-Candy.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Ba%C3%B1o-Candy.html"  ><img src="http://intima.com.mx/product_images/l/303/554_Imagen1__07419_thumb.jpg" alt="Juego de Baño Candy" /></a></div>Incluye: Tapa de depósito, Tapa de WC, Tapete de WC. Composición: Microfibra.<p><strong>Precio: $569.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Tapa de depósito, Tapa de WC, Tapete de WC. Composición: Microfibra.]]></isc:description>
+		<isc:productid><![CDATA[2381]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/l/303/554_Imagen1__07419_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/z/826/554_Imagen1__47363_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$569.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:39:16Z</published>
+		<updated>2014-01-21T13:39:16Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Ba%C3%B1o-Chic.html" />
+		<id>http://intima.com.mx/products/Juego-de-Ba%C3%B1o-Chic.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Baño Chic]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Ba%C3%B1o-Chic.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Ba%C3%B1o-Chic.html"  ><img src="http://intima.com.mx/product_images/l/816/555_Imagen1__67262_thumb.jpg" alt="Juego de Baño Chic" /></a></div>Incluye: Tapa de depósito, Tapa de WC, Tapete de WC. Composición: Microfibra.<p><strong>Precio: $569.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Tapa de depósito, Tapa de WC, Tapete de WC. Composición: Microfibra.]]></isc:description>
+		<isc:productid><![CDATA[2389]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/l/816/555_Imagen1__67262_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/m/268/555_Imagen1__88663_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$569.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:39:16Z</published>
+		<updated>2014-01-21T13:39:16Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Ba%C3%B1o-Festival.html" />
+		<id>http://intima.com.mx/products/Juego-de-Ba%C3%B1o-Festival.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Baño Festival]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Ba%C3%B1o-Festival.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Ba%C3%B1o-Festival.html"  ><img src="http://intima.com.mx/product_images/e/537/559_Imagen1__75230_thumb.jpg" alt="Juego de Baño Festival" /></a></div>Incluye: Tapa de depósito, Tapa de WC, Tapete de WC. Composición: Microfibra.<p><strong>Precio: $569.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Tapa de depósito, Tapa de WC, Tapete de WC. Composición: Microfibra.]]></isc:description>
+		<isc:productid><![CDATA[2390]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/e/537/559_Imagen1__75230_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/u/175/559_Imagen1__01014_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$569.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:39:17Z</published>
+		<updated>2014-01-21T13:39:17Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Ba%C3%B1o-Sport.html" />
+		<id>http://intima.com.mx/products/Juego-de-Ba%C3%B1o-Sport.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Baño Sport]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Ba%C3%B1o-Sport.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Ba%C3%B1o-Sport.html"  ><img src="http://intima.com.mx/product_images/m/897/568_Imagen1__03660_thumb.jpg" alt="Juego de Baño Sport" /></a></div>Incluye: Tapa de depósito, Tapa de WC, Tapete de WC. Composición: Microfibra.<p><strong>Precio: $569.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Tapa de depósito, Tapa de WC, Tapete de WC. Composición: Microfibra.]]></isc:description>
+		<isc:productid><![CDATA[2391]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/m/897/568_Imagen1__03660_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/c/364/568_Imagen1__46493_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$569.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:40:14Z</published>
+		<updated>2014-01-21T13:40:14Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Ba%C3%B1o-Orange.html" />
+		<id>http://intima.com.mx/products/Juego-de-Ba%C3%B1o-Orange.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Baño Orange]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Ba%C3%B1o-Orange.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Ba%C3%B1o-Orange.html"  ><img src="http://intima.com.mx/product_images/c/119/565_Imagen1__19551_thumb.jpg" alt="Juego de Baño Orange" /></a></div>Incluye: Tapa de depósito, Tapa de WC, Tapete de WC. Composición: Microfibra.<p><strong>Precio: $569.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Tapa de depósito, Tapa de WC, Tapete de WC. Composición: Microfibra.]]></isc:description>
+		<isc:productid><![CDATA[2423]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/c/119/565_Imagen1__19551_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/q/739/565_Imagen1__80928_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$569.00]]></isc:price>
+	</entry>
+</feed>

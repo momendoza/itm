@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Nuevos Productos - Bebé]]></title>
+	<subtitle type="html"><![CDATA[La lista de nuevos productos en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://www.intima.com.mx/rss.php?categoryid=616&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-02-23T14:34:20Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:49:20Z</published>
+		<updated>2014-01-21T13:49:20Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Toalla-Amigos-Salida-de-Ba%C3%B1o.html" />
+		<id>http://intima.com.mx/products/Toalla-Amigos-Salida-de-Ba%C3%B1o.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Toalla Amigos Salida de Baño]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Toalla-Amigos-Salida-de-Ba%C3%B1o.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Toalla-Amigos-Salida-de-Ba%C3%B1o.html"  ><img src="http://intima.com.mx/product_images/s/145/1022_Imagen1__71133_thumb.jpg" alt="Toalla Amigos Salida de Baño" /></a></div>Toalla jacquard con cenefa tejida<p><strong>Precio: $225.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Toalla jacquard con cenefa tejida]]></isc:description>
+		<isc:productid><![CDATA[2804]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/s/145/1022_Imagen1__71133_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/h/303/1022_Imagen1__87960_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$225.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:40:58Z</published>
+		<updated>2014-01-21T13:40:58Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Ba%C3%B1o-Faby.html" />
+		<id>http://intima.com.mx/products/Juego-de-Ba%C3%B1o-Faby.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Baño Faby]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Ba%C3%B1o-Faby.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Ba%C3%B1o-Faby.html"  ><img src="http://intima.com.mx/product_images/x/934/558_Imagen1__14335_thumb.jpg" alt="Juego de Baño Faby" /></a></div>Incluye: Toalla con capucha, medidas: 75 x 75 cm, Guante, medidas: 13 x 20 cm, Toalla multiusos, medidas: 30 x 30 cm.<p><strong>Precio: $449.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Toalla con capucha, medidas: 75 x 75 cm, Guante, medidas: 13 x 20 cm, Toalla multiusos, medidas: 30 x 30 cm.]]></isc:description>
+		<isc:productid><![CDATA[2464]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/x/934/558_Imagen1__14335_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/x/723/558_Imagen1__10285_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$449.00]]></isc:price>
+	</entry>
+</feed>

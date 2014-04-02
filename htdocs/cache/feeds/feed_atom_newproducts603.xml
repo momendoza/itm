@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Nuevos Productos - Cubre Salas]]></title>
+	<subtitle type="html"><![CDATA[La lista de nuevos productos en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?categoryid=603&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-03-17T04:32:20Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:38:43Z</published>
+		<updated>2014-01-21T13:38:43Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cubre-Sala-Resist.html" />
+		<id>http://intima.com.mx/products/Cubre-Sala-Resist.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cubre Sala Resist]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cubre-Sala-Resist.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cubre-Sala-Resist.html"  ><img src="http://intima.com.mx/product_images/w/104/477_Imagen1__88441_thumb.jpg" alt="Cubre Sala Resist" /></a></div>Incluye: 1 cubierta 2,45 x 2,68 m, 1 faldón ajustable.<p><strong>Precio: $405.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: 1 cubierta 2,45 x 2,68 m, 1 faldón ajustable.]]></isc:description>
+		<isc:productid><![CDATA[2367]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/w/104/477_Imagen1__88441_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/o/581/477_Imagen1__17001_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$405.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:38:43Z</published>
+		<updated>2014-01-21T13:38:43Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cubierta-para-Sala-Azucena.html" />
+		<id>http://intima.com.mx/products/Cubierta-para-Sala-Azucena.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cubierta para Sala Azucena]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cubierta-para-Sala-Azucena.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cubierta-para-Sala-Azucena.html"  ><img src="http://intima.com.mx/product_images/k/425/474_Imagen1__48866_thumb.jpg" alt="Cubierta para Sala Azucena" /></a></div>Disponible a la venta juego de cubre sala completo (tres tamaños) o por separado.<p><strong>Precio: $405.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Disponible a la venta juego de cubre sala completo (tres tamaños) o por separado.]]></isc:description>
+		<isc:productid><![CDATA[2366]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/k/425/474_Imagen1__48866_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/t/584/474_Imagen1__41614_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$405.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:36:50Z</published>
+		<updated>2014-01-21T13:36:50Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cubierta-para-Sala-Begonia.html" />
+		<id>http://intima.com.mx/products/Cubierta-para-Sala-Begonia.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cubierta para Sala Begonia]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cubierta-para-Sala-Begonia.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cubierta-para-Sala-Begonia.html"  ><img src="http://intima.com.mx/product_images/b/917/475_Imagen1__28395_thumb.jpg" alt="Cubierta para Sala Begonia" /></a></div>Disponible a la venta juego de cubre sala completo (tres tamaños) o por separado.<p><strong>Precio: $405.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Disponible a la venta juego de cubre sala completo (tres tamaños) o por separado.]]></isc:description>
+		<isc:productid><![CDATA[2307]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/b/917/475_Imagen1__28395_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/k/383/475_Imagen1__76001_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$405.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:36:50Z</published>
+		<updated>2014-01-21T13:36:50Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cubierta-para-Sala-Amapola.html" />
+		<id>http://intima.com.mx/products/Cubierta-para-Sala-Amapola.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cubierta para Sala Amapola]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cubierta-para-Sala-Amapola.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cubierta-para-Sala-Amapola.html"  ><img src="http://intima.com.mx/product_images/p/949/473_Imagen1__60411_thumb.jpg" alt="Cubierta para Sala Amapola" /></a></div>Disponible a la venta juego de cubre sala completo (tres tamaños) o por separado.<p><strong>Precio: $405.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Disponible a la venta juego de cubre sala completo (tres tamaños) o por separado.]]></isc:description>
+		<isc:productid><![CDATA[2306]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/p/949/473_Imagen1__60411_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/i/063/473_Imagen1__09654_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$405.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:36:14Z</published>
+		<updated>2014-01-21T13:36:14Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cubierta-para-Sala-Violeta.html" />
+		<id>http://intima.com.mx/products/Cubierta-para-Sala-Violeta.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cubierta para Sala Violeta]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cubierta-para-Sala-Violeta.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cubierta-para-Sala-Violeta.html"  ><img src="http://intima.com.mx/product_images/n/506/476_Imagen1__91348_thumb.jpg" alt="Cubierta para Sala Violeta" /></a></div>Disponible a la venta juego de cubre sala completo (tres tamaños) o por separado.<p><strong>Precio: $405.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Disponible a la venta juego de cubre sala completo (tres tamaños) o por separado.]]></isc:description>
+		<isc:productid><![CDATA[2274]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/n/506/476_Imagen1__91348_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/t/224/476_Imagen1__31973_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$405.00]]></isc:price>
+	</entry>
+</feed>

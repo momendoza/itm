@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Productos Populares]]></title>
+	<subtitle type="html"><![CDATA[La lista de productos populares en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?action=popularproducts&amp;categoryid=593&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-04-01T14:55:37Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:32:23Z</published>
+		<updated>2014-01-21T13:32:23Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Colcha-Liberty.html" />
+		<id>http://intima.com.mx/products/Colcha-Liberty.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Colcha Liberty]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Colcha-Liberty.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Colcha-Liberty.html"  ><img src="http://intima.com.mx/product_images/n/128/306_Imagen1__93215_thumb.jpg" alt="Colcha Liberty" /></a></div><p><strong>Precio: $915.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2117]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/n/128/306_Imagen1__93215_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/d/031/306_Imagen1__29987_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$915.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:32:23Z</published>
+		<updated>2014-01-21T13:32:23Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Colcha-Lord.html" />
+		<id>http://intima.com.mx/products/Colcha-Lord.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Colcha Lord]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Colcha-Lord.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Colcha-Lord.html"  ><img src="http://intima.com.mx/product_images/f/794/307_Imagen1__45464_thumb.jpg" alt="Colcha Lord" /></a></div><p><strong>Precio: $915.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2118]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/f/794/307_Imagen1__45464_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/l/746/307_Imagen1__11647_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$915.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:32:24Z</published>
+		<updated>2014-01-21T13:32:24Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Colcha-Sparta.html" />
+		<id>http://intima.com.mx/products/Colcha-Sparta.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Colcha Sparta]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Colcha-Sparta.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Colcha-Sparta.html"  ><img src="http://intima.com.mx/product_images/c/661/312_Imagen1__85098_thumb.jpg" alt="Colcha Sparta" /></a></div><p><strong>Precio: $915.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2122]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/c/661/312_Imagen1__85098_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/m/972/312_Imagen1__38269_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$915.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:36:15Z</published>
+		<updated>2014-01-21T13:36:15Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Colcha-Paraiso.html" />
+		<id>http://intima.com.mx/products/Juego-de-Colcha-Paraiso.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Colcha Paraiso]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Colcha-Paraiso.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Colcha-Paraiso.html"  ><img src="http://intima.com.mx/product_images/a/037/526_Imagen1__04573_thumb.jpg" alt="Juego de Colcha Paraiso" /></a></div>Incluye: Colcha, Fundas decorativas (I 1, M 2, Q 2 y K 3).<p><strong>Precio: $779.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Colcha, Fundas decorativas (I 1, M 2, Q 2 y K 3).]]></isc:description>
+		<isc:productid><![CDATA[2282]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/a/037/526_Imagen1__04573_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/d/072/526_Imagen1__14397_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$779.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:38:49Z</published>
+		<updated>2014-01-21T13:38:49Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Colcha-Maple.html" />
+		<id>http://intima.com.mx/products/Juego-de-Colcha-Maple.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Colcha Maple]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Colcha-Maple.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Colcha-Maple.html"  ><img src="http://intima.com.mx/product_images/s/356/624_Imagen1__93688_thumb.jpg" alt="Juego de Colcha Maple" /></a></div>Incluye: Colcha, Fundas decorativas (I 1, M 2, Q 2 y K 3).<p><strong>Precio: $599.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Colcha, Fundas decorativas (I 1, M 2, Q 2 y K 3).]]></isc:description>
+		<isc:productid><![CDATA[2385]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/s/356/624_Imagen1__93688_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/n/815/624_Imagen1__30741_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$599.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:38:50Z</published>
+		<updated>2014-01-21T13:38:50Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Colcha-M%C3%B3naco.html" />
+		<id>http://intima.com.mx/products/Juego-de-Colcha-M%C3%B3naco.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Colcha Mónaco]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Colcha-M%C3%B3naco.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Colcha-M%C3%B3naco.html"  ><img src="http://intima.com.mx/product_images/a/773/636_Imagen1__67662_thumb.jpg" alt="Juego de Colcha Mónaco" /></a></div>Incluye: Colcha europea, Cojín decorativo (I 2, M 2, Q 2 y K 2).<p><strong>Precio: $619.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Colcha europea, Cojín decorativo (I 2, M 2, Q 2 y K 2).]]></isc:description>
+		<isc:productid><![CDATA[2387]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/a/773/636_Imagen1__67662_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/b/245/636_Imagen1__33349_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$619.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:39:19Z</published>
+		<updated>2014-01-21T13:39:19Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Colcha-Alcatraz.html" />
+		<id>http://intima.com.mx/products/Juego-de-Colcha-Alcatraz.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Colcha Alcatraz]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Colcha-Alcatraz.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Colcha-Alcatraz.html"  ><img src="http://intima.com.mx/product_images/n/264/589_Imagen1__07412_thumb.jpg" alt="Juego de Colcha Alcatraz" /></a></div>Incluye: Colcha, Cojín decorativo (I 1, M 2 y K 3).<p><strong>Precio: $609.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Colcha, Cojín decorativo (I 1, M 2 y K 3).]]></isc:description>
+		<isc:productid><![CDATA[2397]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/n/264/589_Imagen1__07412_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/n/032/589_Imagen1__25256_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$609.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:39:19Z</published>
+		<updated>2014-01-21T13:39:19Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Colcha-Azalea.html" />
+		<id>http://intima.com.mx/products/Juego-de-Colcha-Azalea.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Colcha Azalea]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Colcha-Azalea.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Colcha-Azalea.html"  ><img src="http://intima.com.mx/product_images/p/264/593_Imagen1__33080_thumb.jpg" alt="Juego de Colcha Azalea" /></a></div>Incluye: Colcha, Fundas decorativas (I 1, M 2, Q 2 y K 3).<p><strong>Precio: $599.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Colcha, Fundas decorativas (I 1, M 2, Q 2 y K 3).]]></isc:description>
+		<isc:productid><![CDATA[2398]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/p/264/593_Imagen1__33080_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/k/088/593_Imagen1__88661_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$599.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:39:19Z</published>
+		<updated>2014-01-21T13:39:19Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Colcha-Blum.html" />
+		<id>http://intima.com.mx/products/Juego-de-Colcha-Blum.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Colcha Blum]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Colcha-Blum.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Colcha-Blum.html"  ><img src="http://intima.com.mx/product_images/z/653/594_Imagen1__46025_thumb.jpg" alt="Juego de Colcha Blum" /></a></div>Incluye: Colcha, Fundas decorativas (I 1, M 2, Q 2 y K 3).<p><strong>Precio: $1,035.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Colcha, Fundas decorativas (I 1, M 2, Q 2 y K 3).]]></isc:description>
+		<isc:productid><![CDATA[2399]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/z/653/594_Imagen1__46025_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/x/968/594_Imagen1__35674_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$1,035.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:39:20Z</published>
+		<updated>2014-01-21T13:39:20Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Colcha-Costa-Brava.html" />
+		<id>http://intima.com.mx/products/Juego-de-Colcha-Costa-Brava.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Colcha Costa Brava]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Colcha-Costa-Brava.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Colcha-Costa-Brava.html"  ><img src="http://intima.com.mx/product_images/c/868/604_Imagen1__04174_thumb.jpg" alt="Juego de Colcha Costa Brava" /></a></div>Incluye: Colcha, Fundas decorativas (I 1, M 2, Q 2 y K 3).<p><strong>Precio: $599.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Colcha, Fundas decorativas (I 1, M 2, Q 2 y K 3).]]></isc:description>
+		<isc:productid><![CDATA[2403]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/c/868/604_Imagen1__04174_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/l/930/604_Imagen1__14116_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$599.00]]></isc:price>
+	</entry>
+</feed>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Nuevos Productos - Infantil]]></title>
+	<subtitle type="html"><![CDATA[La lista de nuevos productos en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://www.intima.com.mx/rss.php?categoryid=566&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-02-28T15:18:43Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:28:59Z</published>
+		<updated>2014-01-21T13:28:59Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Almohada-Toy-Story-Diversi%C3%B3n.html" />
+		<id>http://intima.com.mx/products/Almohada-Toy-Story-Diversi%C3%B3n.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Almohada Toy Story Diversión]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Almohada-Toy-Story-Diversi%C3%B3n.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Almohada-Toy-Story-Diversi%C3%B3n.html"  ><img src="http://intima.com.mx/product_images/r/824/177_Imagen1__91743_thumb.jpg" alt="Almohada Toy Story Diversión" /></a></div><p><strong>Precio: $225.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2022]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/r/824/177_Imagen1__91743_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/i/701/177_Imagen1__37954_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$225.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:28:59Z</published>
+		<updated>2014-01-21T13:28:59Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Almohada-Spider%252dMan-Ultimate.html" />
+		<id>http://intima.com.mx/products/Almohada-Spider%252dMan-Ultimate.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Almohada Spider-Man Ultimate]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Almohada-Spider%252dMan-Ultimate.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Almohada-Spider%252dMan-Ultimate.html"  ><img src="http://intima.com.mx/product_images/q/000/176_Imagen1__07605_thumb.jpg" alt="Almohada Spider-Man Ultimate" /></a></div><p><strong>Precio: $225.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2021]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/q/000/176_Imagen1__07605_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/w/792/176_Imagen1__07427_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$225.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:28:58Z</published>
+		<updated>2014-01-21T13:28:58Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Almohada-Club-Barcelona.html" />
+		<id>http://intima.com.mx/products/Almohada-Club-Barcelona.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Almohada Club Barcelona]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Almohada-Club-Barcelona.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Almohada-Club-Barcelona.html"  ><img src="http://intima.com.mx/product_images/d/419/162_Imagen1__35255_thumb.jpg" alt="Almohada Club Barcelona" /></a></div><p><strong>Precio: $225.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2020]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/d/419/162_Imagen1__35255_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/j/751/162_Imagen1__51655_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$225.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:28:58Z</published>
+		<updated>2014-01-21T13:28:58Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Almohada-%C3%81guilas-Am%C3%A9rica.html" />
+		<id>http://intima.com.mx/products/Almohada-%C3%81guilas-Am%C3%A9rica.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Almohada Águilas América]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Almohada-%C3%81guilas-Am%C3%A9rica.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Almohada-%C3%81guilas-Am%C3%A9rica.html"  ><img src="http://intima.com.mx/product_images/n/924/153_Imagen1__87601_thumb.jpg" alt="Almohada Águilas América" /></a></div><p><strong>Precio: $225.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2019]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/n/924/153_Imagen1__87601_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/p/444/153_Imagen1__24691_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$225.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:28:26Z</published>
+		<updated>2014-01-21T13:28:26Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Almohada-Minnie-Glamour.html" />
+		<id>http://intima.com.mx/products/Almohada-Minnie-Glamour.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Almohada Minnie Glamour]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Almohada-Minnie-Glamour.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Almohada-Minnie-Glamour.html"  ><img src="http://intima.com.mx/product_images/a/616/173_Imagen1__72901_thumb.jpg" alt="Almohada Minnie Glamour" /></a></div><p><strong>Precio: $225.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2005]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/a/616/173_Imagen1__72901_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/s/706/173_Imagen1__37542_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$225.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:28:25Z</published>
+		<updated>2014-01-21T13:28:25Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Almohada-Mickey-Sorpresa.html" />
+		<id>http://intima.com.mx/products/Almohada-Mickey-Sorpresa.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Almohada Mickey Sorpresa]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Almohada-Mickey-Sorpresa.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Almohada-Mickey-Sorpresa.html"  ><img src="http://intima.com.mx/product_images/n/474/171_Imagen1__40841_thumb.jpg" alt="Almohada Mickey Sorpresa" /></a></div><p><strong>Precio: $225.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2004]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/n/474/171_Imagen1__40841_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/k/009/171_Imagen1__06034_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$225.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:28:25Z</published>
+		<updated>2014-01-21T13:28:25Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Almohada-Manchester.html" />
+		<id>http://intima.com.mx/products/Almohada-Manchester.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Almohada Manchester]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Almohada-Manchester.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Almohada-Manchester.html"  ><img src="http://intima.com.mx/product_images/i/285/169_Imagen1__56650_thumb.jpg" alt="Almohada Manchester" /></a></div><p><strong>Precio: $225.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2003]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/i/285/169_Imagen1__56650_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/f/927/169_Imagen1__08200_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$225.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:28:25Z</published>
+		<updated>2014-01-21T13:28:25Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Almohada-Hello-Kitty.html" />
+		<id>http://intima.com.mx/products/Almohada-Hello-Kitty.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Almohada Hello Kitty]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Almohada-Hello-Kitty.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Almohada-Hello-Kitty.html"  ><img src="http://intima.com.mx/product_images/t/566/164_Imagen1__01924_thumb.jpg" alt="Almohada Hello Kitty" /></a></div><p><strong>Precio: $225.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[1999]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/t/566/164_Imagen1__01924_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/s/890/164_Imagen1__74310_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$225.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:28:24Z</published>
+		<updated>2014-01-21T13:28:24Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Almohada-Dora-Diversi%C3%B3n.html" />
+		<id>http://intima.com.mx/products/Almohada-Dora-Diversi%C3%B3n.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Almohada Dora Diversión]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Almohada-Dora-Diversi%C3%B3n.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Almohada-Dora-Diversi%C3%B3n.html"  ><img src="http://intima.com.mx/product_images/x/756/163_Imagen1__67456_thumb.jpg" alt="Almohada Dora Diversión" /></a></div><p><strong>Precio: $225.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[1998]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/x/756/163_Imagen1__67456_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/k/075/163_Imagen1__10241_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$225.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:28:24Z</published>
+		<updated>2014-01-21T13:28:24Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Almohada-Cars-Formula.html" />
+		<id>http://intima.com.mx/products/Almohada-Cars-Formula.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Almohada Cars Formula]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Almohada-Cars-Formula.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Almohada-Cars-Formula.html"  ><img src="http://intima.com.mx/product_images/v/435/161_Imagen1__62582_thumb.jpg" alt="Almohada Cars Formula" /></a></div><p><strong>Precio: $225.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[1997]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/v/435/161_Imagen1__62582_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/j/144/161_Imagen1__94075_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$225.00]]></isc:price>
+	</entry>
+</feed>

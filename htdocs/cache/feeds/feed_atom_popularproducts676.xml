@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Productos Populares]]></title>
+	<subtitle type="html"><![CDATA[La lista de productos populares en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?action=popularproducts&amp;categoryid=676&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-03-17T01:33:59Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:34:14Z</published>
+		<updated>2014-01-21T13:34:14Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Coordinado-de-Edred%C3%B3n-Plants-VS-Zombies.html" />
+		<id>http://intima.com.mx/products/Coordinado-de-Edred%C3%B3n-Plants-VS-Zombies.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Coordinado de Edredón Plants VS Zombies]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Coordinado-de-Edred%C3%B3n-Plants-VS-Zombies.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Coordinado-de-Edred%C3%B3n-Plants-VS-Zombies.html"  ><img src="http://intima.com.mx/product_images/i/860/364_Imagen1__95883_thumb.jpg" alt="Coordinado de Edredón Plants VS Zombies" /></a></div>Incluye: Edredón dos vistas, Cojín decorativo (I 1 y M 2), Rodapié, Sábana plana, sábana de cajón y funda de almohada (I 1 y M 2).<p><strong>Precio: $1,349.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Edredón dos vistas, Cojín decorativo (I 1 y M 2), Rodapié, Sábana plana, sábana de cajón y funda de almohada (I 1 y M 2).]]></isc:description>
+		<isc:productid><![CDATA[2200]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/i/860/364_Imagen1__95883_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/x/478/364_Imagen1__94093_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$1,349.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:38:45Z</published>
+		<updated>2014-01-21T13:38:45Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Edred%C3%B3n-Ligero-Plants-VS-Zombies.html" />
+		<id>http://intima.com.mx/products/Edred%C3%B3n-Ligero-Plants-VS-Zombies.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Edredón Ligero Plants VS Zombies]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Edred%C3%B3n-Ligero-Plants-VS-Zombies.html"><![CDATA[<p><strong>Precio: $649.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2374]]></isc:productid>
+		<isc:price><![CDATA[$649.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:38:50Z</published>
+		<updated>2014-01-21T13:38:50Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Colcha-Plants-VS-Zombies.html" />
+		<id>http://intima.com.mx/products/Juego-de-Colcha-Plants-VS-Zombies.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Colcha Plants VS Zombies]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Colcha-Plants-VS-Zombies.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Colcha-Plants-VS-Zombies.html"  ><img src="http://intima.com.mx/product_images/d/863/640_Imagen1__52543_thumb.jpg" alt="Juego de Colcha Plants VS Zombies" /></a></div>Incluye: Colcha, Cojín decorativo (I 1 y M 2).<p><strong>Precio: $779.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Colcha, Cojín decorativo (I 1 y M 2).]]></isc:description>
+		<isc:productid><![CDATA[2388]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/d/863/640_Imagen1__52543_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/a/054/640_Imagen1__48813_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$779.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:46:57Z</published>
+		<updated>2014-01-21T13:46:57Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Plants-VS-Zombies.html" />
+		<id>http://intima.com.mx/products/Juego-de-S%C3%A1banas-Plants-VS-Zombies.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Sábanas Plants VS Zombies]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Plants-VS-Zombies.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-S%C3%A1banas-Plants-VS-Zombies.html"  ><img src="http://intima.com.mx/product_images/n/404/890_Imagen1__32439_thumb.jpg" alt="Juego de Sábanas Plants VS Zombies" /></a></div>Incluye: Sábana plana, sábana de cajón y funda de almohada (I 1 y M 2).<p><strong>Precio: $499.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Sábana plana, sábana de cajón y funda de almohada (I 1 y M 2).]]></isc:description>
+		<isc:productid><![CDATA[2698]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/n/404/890_Imagen1__32439_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/p/299/890_Imagen1__47805_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$499.00]]></isc:price>
+	</entry>
+</feed>

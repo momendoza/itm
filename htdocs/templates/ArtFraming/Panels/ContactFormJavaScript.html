@@ -1,0 +1,104 @@
+<script type="text/javascript">
+//<![CDATA[
+    $('#ContactForm').submit(function() {
+        var email_address = $('#contact_email').val();
+
+        if(email_address.indexOf('@') == -1 || email_address.indexOf('.') == -1) {
+            alert('%%LNG_ContactFormEnterEmail%%');
+            $('#contact_email').focus();
+            $('#contact_email').select();
+            return false;
+        }
+
+
+        if($('#contact_names').val() == '') {
+            alert('Por favor ingrese el %%LNG_ContactNames%%');
+            $('#contact_names').focus();
+            $('#contact_names').select();
+
+            return false;
+        }
+
+      if($('#contact_lastname').val() == '') {
+            alert('Por favor ingrese el %%LNG_ContactLastName%%');
+            $('#contact_lastname').focus();
+            $('#contact_lastname').select();
+
+            return false;
+        }
+
+        if($('#contact_address').val() == '') {
+            alert('Por favor ingrese su %%LNG_ContactAddress%%');
+            $('#contact_address').focus();
+            $('#contact_address').select();
+
+            return false;
+        }
+
+       if($('#contact_colony').val() == '') {
+            alert('Por favor ingrese su %%LNG_ContactColony%%');
+            $('#contact_colony').focus();
+            $('#contact_colony').select();
+
+            return false;
+        }
+
+
+      if($('#contact_city').val() == '') {
+            alert('Por favor ingrese su %%LNG_ContactCity%%');
+            $('#contact_city').focus();
+            $('#contact_city').select();
+
+            return false;
+        }
+
+      if($('#contact_country').val() == '') {
+            alert('Por favor ingrese su %%LNG_ContactCountry%%');
+            $('#contact_country').focus();
+            $('#contact_country').select();
+
+            return false;
+        }
+
+
+ if($('#contact_phone').val() == '') {
+            alert('Por favor ingrese su %%LNG_ContactPhone%%');
+            $('#contact_phone').focus();
+            $('#contact_phone').select();
+
+            return false;
+        }
+
+ if($('#contact_zip').val() == '') {
+            alert('Por favor ingrese su %%LNG_ContactZip%%');
+            $('#contact_zip').focus();
+            $('#contact_zip').select();
+
+            return false;
+        }
+
+ if($('#contact_birthday').val() == '') {
+            alert('Por favor ingrese su %%LNG_ContactBirthday%%');
+            $('#contact_birthday').focus();
+            $('#contact_birthday').select();
+
+            return false;
+        }
+
+        if($('#contact_question').val() == '') {
+            alert('%%LNG_ContactFormEnterQuestion%%');
+            $('#contact_question').focus();
+            return false;
+        }
+
+        if('%%GLOBAL_HideCaptcha%%' == '' && $('#captcha').val() == '') {
+            alert('%%LNG_EnterCaptchaCode%%');
+            $('#captcha').focus();
+            return false;
+        }
+
+
+        return true;
+    });
+//]]>
+</script>

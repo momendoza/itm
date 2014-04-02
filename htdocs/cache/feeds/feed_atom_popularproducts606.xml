@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Productos Populares]]></title>
+	<subtitle type="html"><![CDATA[La lista de productos populares en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?action=popularproducts&amp;categoryid=606&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-02-07T16:44:54Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:33:44Z</published>
+		<updated>2014-01-21T13:33:44Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cortina-para-Ba%C3%B1o-Sport.html" />
+		<id>http://intima.com.mx/products/Cortina-para-Ba%C3%B1o-Sport.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cortina para Baño Sport]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cortina-para-Ba%C3%B1o-Sport.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cortina-para-Ba%C3%B1o-Sport.html"  ><img src="http://intima.com.mx/product_images/x/366/401_Imagen1__03825_thumb.jpg" alt="Cortina para Baño Sport" /></a></div>Incluye: 1 cortina de tela, 1 cortina de vinil y 12 ganchos de 6 x 4 cm. Composición: 100% poliéster.<p><strong>Precio: $445.00</strong> <img src="http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: 1 cortina de tela, 1 cortina de vinil y 12 ganchos de 6 x 4 cm. Composición: 100% poliéster.]]></isc:description>
+		<isc:productid><![CDATA[2184]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/x/366/401_Imagen1__03825_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/w/735/401_Imagen1__48193_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$445.00]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:34:16Z</published>
+		<updated>2014-01-21T13:34:16Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cortina-para-Ba%C3%B1o-Chic.html" />
+		<id>http://intima.com.mx/products/Cortina-para-Ba%C3%B1o-Chic.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cortina para Baño Chic]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cortina-para-Ba%C3%B1o-Chic.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cortina-para-Ba%C3%B1o-Chic.html"  ><img src="http://intima.com.mx/product_images/j/234/381_Imagen1__25030_thumb.jpg" alt="Cortina para Baño Chic" /></a></div>Incluye: 1 cortina de tela, 1 cortina de vinil y 12 ganchos de 6 x 4 cm. Composición: 100% poliéster.<p><strong>Precio: $445.00</strong> <img src="http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: 1 cortina de tela, 1 cortina de vinil y 12 ganchos de 6 x 4 cm. Composición: 100% poliéster.]]></isc:description>
+		<isc:productid><![CDATA[2205]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/j/234/381_Imagen1__25030_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/j/433/381_Imagen1__52644_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$445.00]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:34:50Z</published>
+		<updated>2014-01-21T13:34:50Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cortina-para-Ba%C3%B1o-Candy.html" />
+		<id>http://intima.com.mx/products/Cortina-para-Ba%C3%B1o-Candy.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cortina para Baño Candy]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cortina-para-Ba%C3%B1o-Candy.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cortina-para-Ba%C3%B1o-Candy.html"  ><img src="http://intima.com.mx/product_images/o/899/379_Imagen1__51986_thumb.jpg" alt="Cortina para Baño Candy" /></a></div>Incluye: 1 cortina de tela, 1 cortina de vinil y 12 ganchos de 6 x 4 cm. Composición: 100% poliéster.<p><strong>Precio: $445.00</strong> <img src="http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: 1 cortina de tela, 1 cortina de vinil y 12 ganchos de 6 x 4 cm. Composición: 100% poliéster.]]></isc:description>
+		<isc:productid><![CDATA[2230]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/o/899/379_Imagen1__51986_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/h/169/379_Imagen1__04223_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$445.00]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:34:53Z</published>
+		<updated>2014-01-21T13:34:53Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cortina-para-Ba%C3%B1o-Orange.html" />
+		<id>http://intima.com.mx/products/Cortina-para-Ba%C3%B1o-Orange.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cortina para Baño Orange]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cortina-para-Ba%C3%B1o-Orange.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cortina-para-Ba%C3%B1o-Orange.html"  ><img src="http://intima.com.mx/product_images/m/929/395_Imagen1__85444_thumb.jpg" alt="Cortina para Baño Orange" /></a></div>Incluye: 1 cortina de tela, 1 cortina de vinil y 12 ganchos de 6 x 4 cm. Composición: 100% poliéster.<p><strong>Precio: $445.00</strong> <img src="http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: 1 cortina de tela, 1 cortina de vinil y 12 ganchos de 6 x 4 cm. Composición: 100% poliéster.]]></isc:description>
+		<isc:productid><![CDATA[2234]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/m/929/395_Imagen1__85444_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/i/860/395_Imagen1__46822_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$445.00]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:36:33Z</published>
+		<updated>2014-01-21T13:36:33Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cortina-para-Ba%C3%B1o-Festival.html" />
+		<id>http://intima.com.mx/products/Cortina-para-Ba%C3%B1o-Festival.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cortina para Baño Festival]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cortina-para-Ba%C3%B1o-Festival.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cortina-para-Ba%C3%B1o-Festival.html"  ><img src="http://intima.com.mx/product_images/y/492/385_Imagen1__37036_thumb.jpg" alt="Cortina para Baño Festival" /></a></div><p><strong>Precio: $445.00</strong> <img src="http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2292]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/y/492/385_Imagen1__37036_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/r/309/385_Imagen1__69457_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$445.00]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+</feed>

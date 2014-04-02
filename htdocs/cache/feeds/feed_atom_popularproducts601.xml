@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Productos Populares]]></title>
+	<subtitle type="html"><![CDATA[La lista de productos populares en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?action=popularproducts&amp;categoryid=601&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-03-05T00:20:13Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:33:47Z</published>
+		<updated>2014-01-21T13:33:47Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cuadro-Decorativo-Bob-Aventuras.html" />
+		<id>http://intima.com.mx/products/Cuadro-Decorativo-Bob-Aventuras.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cuadro Decorativo Bob Aventuras]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cuadro-Decorativo-Bob-Aventuras.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cuadro-Decorativo-Bob-Aventuras.html"  ><img src="http://intima.com.mx/product_images/n/522/425_Imagen1__02365_thumb.jpg" alt="Cuadro Decorativo Bob Aventuras" /></a></div>Lienzo estampado con base de madera.<p><strong>Precio: $279.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Lienzo estampado con base de madera.]]></isc:description>
+		<isc:productid><![CDATA[2189]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/n/522/425_Imagen1__02365_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/p/362/425_Imagen1__68339_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$279.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:33:48Z</published>
+		<updated>2014-01-21T13:33:48Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cuadro-Decorativo-Cars-Speed.html" />
+		<id>http://intima.com.mx/products/Cuadro-Decorativo-Cars-Speed.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cuadro Decorativo Cars Speed]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cuadro-Decorativo-Cars-Speed.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cuadro-Decorativo-Cars-Speed.html"  ><img src="http://intima.com.mx/product_images/q/368/432_Imagen1__12018_thumb.jpg" alt="Cuadro Decorativo Cars Speed" /></a></div>Lienzo estampado con base de madera.<p><strong>Precio: $349.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Lienzo estampado con base de madera.]]></isc:description>
+		<isc:productid><![CDATA[2190]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/q/368/432_Imagen1__12018_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/x/597/432_Imagen1__51510_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$349.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:33:48Z</published>
+		<updated>2014-01-21T13:33:48Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cuadro-Decorativo-Manchester.html" />
+		<id>http://intima.com.mx/products/Cuadro-Decorativo-Manchester.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cuadro Decorativo Manchester]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cuadro-Decorativo-Manchester.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cuadro-Decorativo-Manchester.html"  ><img src="http://intima.com.mx/product_images/c/203/447_Imagen1__03353_thumb.jpg" alt="Cuadro Decorativo Manchester" /></a></div>Lienzo estampado con base de madera.<p><strong>Precio: $349.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Lienzo estampado con base de madera.]]></isc:description>
+		<isc:productid><![CDATA[2193]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/c/203/447_Imagen1__03353_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/c/586/447_Imagen1__48819_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$349.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:34:19Z</published>
+		<updated>2014-01-21T13:34:19Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cuadro-Decorativo-Aliens.html" />
+		<id>http://intima.com.mx/products/Cuadro-Decorativo-Aliens.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cuadro Decorativo Aliens]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cuadro-Decorativo-Aliens.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cuadro-Decorativo-Aliens.html"  ><img src="http://intima.com.mx/product_images/n/010/421_Imagen1__98646_thumb.jpg" alt="Cuadro Decorativo Aliens" /></a></div>Lienzo estampado con base de madera.<p><strong>Precio: $349.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Lienzo estampado con base de madera.]]></isc:description>
+		<isc:productid><![CDATA[2215]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/n/010/421_Imagen1__98646_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/z/285/421_Imagen1__46511_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$349.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:34:20Z</published>
+		<updated>2014-01-21T13:34:20Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cuadro-Decorativo-Bonita-Marie.html" />
+		<id>http://intima.com.mx/products/Cuadro-Decorativo-Bonita-Marie.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cuadro Decorativo Bonita Marie]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cuadro-Decorativo-Bonita-Marie.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cuadro-Decorativo-Bonita-Marie.html"  ><img src="http://intima.com.mx/product_images/j/906/428_Imagen1__30413_thumb.jpg" alt="Cuadro Decorativo Bonita Marie" /></a></div>Lienzo estampado con base de madera.<p><strong>Precio: $349.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Lienzo estampado con base de madera.]]></isc:description>
+		<isc:productid><![CDATA[2216]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/j/906/428_Imagen1__30413_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/w/107/428_Imagen1__66806_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$349.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:34:21Z</published>
+		<updated>2014-01-21T13:34:21Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cuadro-Decorativo-Campanita-Amistad.html" />
+		<id>http://intima.com.mx/products/Cuadro-Decorativo-Campanita-Amistad.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cuadro Decorativo Campanita Amistad]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cuadro-Decorativo-Campanita-Amistad.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cuadro-Decorativo-Campanita-Amistad.html"  ><img src="http://intima.com.mx/product_images/q/509/429_Imagen1__30678_thumb.jpg" alt="Cuadro Decorativo Campanita Amistad" /></a></div>Lienzo estampado con base de madera.<p><strong>Precio: $349.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Lienzo estampado con base de madera.]]></isc:description>
+		<isc:productid><![CDATA[2217]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/q/509/429_Imagen1__30678_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/d/397/429_Imagen1__59282_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$349.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:34:21Z</published>
+		<updated>2014-01-21T13:34:21Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cuadro-Decorativo-Club-Am%C3%A9rica.html" />
+		<id>http://intima.com.mx/products/Cuadro-Decorativo-Club-Am%C3%A9rica.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cuadro Decorativo Club América]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cuadro-Decorativo-Club-Am%C3%A9rica.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cuadro-Decorativo-Club-Am%C3%A9rica.html"  ><img src="http://intima.com.mx/product_images/p/511/433_Imagen1__82395_thumb.jpg" alt="Cuadro Decorativo Club América" /></a></div>Lienzo estampado con base de madera.<p><strong>Precio: $179.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Lienzo estampado con base de madera.]]></isc:description>
+		<isc:productid><![CDATA[2218]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/p/511/433_Imagen1__82395_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/z/537/433_Imagen1__85148_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$179.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:34:22Z</published>
+		<updated>2014-01-21T13:34:22Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cuadro-Decorativo-Dora-Aventuras.html" />
+		<id>http://intima.com.mx/products/Cuadro-Decorativo-Dora-Aventuras.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cuadro Decorativo Dora Aventuras]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cuadro-Decorativo-Dora-Aventuras.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cuadro-Decorativo-Dora-Aventuras.html"  ><img src="http://intima.com.mx/product_images/r/117/437_Imagen1__36975_thumb.jpg" alt="Cuadro Decorativo Dora Aventuras" /></a></div>Lienzo estampado con base de madera.<p><strong>Precio: $349.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Lienzo estampado con base de madera.]]></isc:description>
+		<isc:productid><![CDATA[2219]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/r/117/437_Imagen1__36975_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/m/699/437_Imagen1__86213_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$349.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:34:22Z</published>
+		<updated>2014-01-21T13:34:22Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cuadro-Decorativo-Hello-Kitty-Manzana.html" />
+		<id>http://intima.com.mx/products/Cuadro-Decorativo-Hello-Kitty-Manzana.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cuadro Decorativo Hello Kitty Manzana]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cuadro-Decorativo-Hello-Kitty-Manzana.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cuadro-Decorativo-Hello-Kitty-Manzana.html"  ><img src="http://intima.com.mx/product_images/b/755/445_Imagen1__82511_thumb.jpg" alt="Cuadro Decorativo Hello Kitty Manzana" /></a></div>Lienzo estampado con base de madera.<p><strong>Precio: $349.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Lienzo estampado con base de madera.]]></isc:description>
+		<isc:productid><![CDATA[2220]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/b/755/445_Imagen1__82511_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/f/350/445_Imagen1__68753_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$349.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:34:55Z</published>
+		<updated>2014-01-21T13:34:55Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cuadro-Decorativo-Barcelona.html" />
+		<id>http://intima.com.mx/products/Cuadro-Decorativo-Barcelona.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cuadro Decorativo Barcelona]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cuadro-Decorativo-Barcelona.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cuadro-Decorativo-Barcelona.html"  ><img src="http://intima.com.mx/product_images/t/023/424_Imagen1__49291_thumb.jpg" alt="Cuadro Decorativo Barcelona" /></a></div>Lienzo estampado con base de madera.<p><strong>Precio: $349.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Lienzo estampado con base de madera.]]></isc:description>
+		<isc:productid><![CDATA[2242]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/t/023/424_Imagen1__49291_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/r/138/424_Imagen1__71861_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$349.00]]></isc:price>
+	</entry>
+</feed>

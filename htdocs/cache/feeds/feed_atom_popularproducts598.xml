@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Productos Populares]]></title>
+	<subtitle type="html"><![CDATA[La lista de productos populares en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?action=popularproducts&amp;categoryid=598&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-02-07T16:44:15Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:33:46Z</published>
+		<updated>2014-01-21T13:33:46Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cortinas-Gruesas-Alegro.html" />
+		<id>http://intima.com.mx/products/Cortinas-Gruesas-Alegro.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cortinas Gruesas Alegro]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cortinas-Gruesas-Alegro.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cortinas-Gruesas-Alegro.html"  ><img src="http://intima.com.mx/product_images/v/587/408_Imagen1__82912_thumb.jpg" alt="Cortinas Gruesas Alegro" /></a></div>Incluye: Páneles (2) y cinturones (2). Tela: 100% poliéster.<p><strong>Precio: $799.00</strong> <img src="http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Páneles (2) y cinturones (2). Tela: 100% poliéster.]]></isc:description>
+		<isc:productid><![CDATA[2186]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/v/587/408_Imagen1__82912_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/x/377/408_Imagen1__05205_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$799.00]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:33:46Z</published>
+		<updated>2014-01-21T13:33:46Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cortinas-Trasl%C3%BAcidas-Tergal.html" />
+		<id>http://intima.com.mx/products/Cortinas-Trasl%C3%BAcidas-Tergal.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cortinas Traslúcidas Tergal]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cortinas-Trasl%C3%BAcidas-Tergal.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cortinas-Trasl%C3%BAcidas-Tergal.html"  ><img src="http://intima.com.mx/product_images/p/196/409_Imagen1__25238_thumb.jpg" alt="Cortinas Traslúcidas Tergal" /></a></div>Incluye: Páneles (2) y cinturones (2). Tela: 100% poliéster.<p><strong>Precio: $799.00</strong> <img src="http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Páneles (2) y cinturones (2). Tela: 100% poliéster.]]></isc:description>
+		<isc:productid><![CDATA[2187]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/p/196/409_Imagen1__25238_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/l/225/409_Imagen1__87494_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$799.00]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:33:47Z</published>
+		<updated>2014-01-21T13:33:47Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cortinas-Zafiro.html" />
+		<id>http://intima.com.mx/products/Cortinas-Zafiro.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cortinas Zafiro]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cortinas-Zafiro.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cortinas-Zafiro.html"  ><img src="http://intima.com.mx/product_images/d/381/410_Imagen1__08026_thumb.jpg" alt="Cortinas Zafiro" /></a></div>Incluye: Páneles (2) y cinturones (2). Tela: 100% poliéster.<p><strong>Precio: $389.00</strong> <img src="http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Páneles (2) y cinturones (2). Tela: 100% poliéster.]]></isc:description>
+		<isc:productid><![CDATA[2188]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/d/381/410_Imagen1__08026_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/n/319/410_Imagen1__76264_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$389.00]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:35:18Z</published>
+		<updated>2014-01-21T13:35:18Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cortinas-Britania.html" />
+		<id>http://intima.com.mx/products/Cortinas-Britania.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cortinas Britania]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cortinas-Britania.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cortinas-Britania.html"  ><img src="http://intima.com.mx/product_images/y/544/407_Imagen1__07639_thumb.jpg" alt="Cortinas Britania" /></a></div>Incluye: Páneles (2) y cinturones (2). Tela: 100% poliéster.<p><strong>Precio: $799.00</strong> <img src="http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Páneles (2) y cinturones (2). Tela: 100% poliéster.]]></isc:description>
+		<isc:productid><![CDATA[2255]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/y/544/407_Imagen1__07639_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/d/871/407_Imagen1__64029_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$799.00]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:35:34Z</published>
+		<updated>2014-01-21T13:35:34Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cortinas-Blackout-Colecci%C3%B3n-Hoteler%C3%ADa.html" />
+		<id>http://intima.com.mx/products/Cortinas-Blackout-Colecci%C3%B3n-Hoteler%C3%ADa.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cortinas Blackout Colección Hotelería]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cortinas-Blackout-Colecci%C3%B3n-Hoteler%C3%ADa.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cortinas-Blackout-Colecci%C3%B3n-Hoteler%C3%ADa.html"  ><img src="http://intima.com.mx/product_images/r/143/406_Imagen1__78990_thumb.jpg" alt="Cortinas Blackout Colección Hotelería" /></a></div>Juego de cortinas con ojillos. Incluye: 2 Paneles, 2 Cinturones y 1 Galería. Medidas: 1,50 m X 2,30 m<p><strong>Precio: $1,049.00</strong> <img src="http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Juego de cortinas con ojillos. Incluye: 2 Paneles, 2 Cinturones y 1 Galería. Medidas: 1,50 m X 2,30 m]]></isc:description>
+		<isc:productid><![CDATA[2265]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/r/143/406_Imagen1__78990_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/s/733/406_Imagen1__59965_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$1,049.00]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:36:48Z</published>
+		<updated>2014-01-21T13:36:48Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cortinas-Blackout.html" />
+		<id>http://intima.com.mx/products/Cortinas-Blackout.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cortinas Blackout]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cortinas-Blackout.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cortinas-Blackout.html"  ><img src="http://intima.com.mx/product_images/p/112/405_Imagen1__39519_thumb.jpg" alt="Cortinas Blackout" /></a></div>Incluye: Páneles (2) y cinturones (2).Tela: Blackout 100% poliéster.<p><strong>Precio: $1,049.00</strong> <img src="http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Páneles (2) y cinturones (2).Tela: Blackout 100% poliéster.]]></isc:description>
+		<isc:productid><![CDATA[2299]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/p/112/405_Imagen1__39519_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/o/384/405_Imagen1__40742_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$1,049.00]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+</feed>

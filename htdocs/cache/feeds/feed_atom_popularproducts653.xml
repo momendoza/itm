@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Productos Populares]]></title>
+	<subtitle type="html"><![CDATA[La lista de productos populares en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?action=popularproducts&amp;categoryid=653&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-02-20T02:03:02Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:48:43Z</published>
+		<updated>2014-01-21T13:48:43Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Toalla-Cars-Triunfo.html" />
+		<id>http://intima.com.mx/products/Toalla-Cars-Triunfo.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Toalla Cars Triunfo]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Toalla-Cars-Triunfo.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Toalla-Cars-Triunfo.html"  ><img src="http://intima.com.mx/product_images/i/567/1027_Imagen1__40256_thumb.jpg" alt="Toalla Cars Triunfo" /></a></div>Composición: 100% algodón.<p><strong>Precio: $249.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición: 100% algodón.]]></isc:description>
+		<isc:productid><![CDATA[2784]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/i/567/1027_Imagen1__40256_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/s/915/1027_Imagen1__95611_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$249.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:49:21Z</published>
+		<updated>2014-01-21T13:49:21Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Toalla-Dora-Aventuras.html" />
+		<id>http://intima.com.mx/products/Toalla-Dora-Aventuras.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Toalla Dora Aventuras]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Toalla-Dora-Aventuras.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Toalla-Dora-Aventuras.html"  ><img src="http://intima.com.mx/product_images/t/044/1029_Imagen1__38430_thumb.jpg" alt="Toalla Dora Aventuras" /></a></div>Composición: 100% algodón.<p><strong>Precio: $249.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición: 100% algodón.]]></isc:description>
+		<isc:productid><![CDATA[2805]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/t/044/1029_Imagen1__38430_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/k/743/1029_Imagen1__95079_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$249.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:49:48Z</published>
+		<updated>2014-01-21T13:49:48Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Toalla-Bob-Aventuras.html" />
+		<id>http://intima.com.mx/products/Toalla-Bob-Aventuras.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Toalla Bob Aventuras]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Toalla-Bob-Aventuras.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Toalla-Bob-Aventuras.html"  ><img src="http://intima.com.mx/product_images/p/539/1026_Imagen1__41762_thumb.jpg" alt="Toalla Bob Aventuras" /></a></div>Composición: 100% algodón.<p><strong>Precio: $249.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición: 100% algodón.]]></isc:description>
+		<isc:productid><![CDATA[2827]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/p/539/1026_Imagen1__41762_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/k/021/1026_Imagen1__64373_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$249.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:49:49Z</published>
+		<updated>2014-01-21T13:49:49Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Toalla-Princesas-Elegancia.html" />
+		<id>http://intima.com.mx/products/Toalla-Princesas-Elegancia.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Toalla Princesas Elegancia]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Toalla-Princesas-Elegancia.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Toalla-Princesas-Elegancia.html"  ><img src="http://intima.com.mx/product_images/i/461/1041_Imagen1__54603_thumb.jpg" alt="Toalla Princesas Elegancia" /></a></div>Composición: 100% algodón.<p><strong>Precio: $249.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición: 100% algodón.]]></isc:description>
+		<isc:productid><![CDATA[2830]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/i/461/1041_Imagen1__54603_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/a/486/1041_Imagen1__35685_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$249.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:49:50Z</published>
+		<updated>2014-01-21T13:49:50Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Toalla-Spider%252dman-Ataque.html" />
+		<id>http://intima.com.mx/products/Toalla-Spider%252dman-Ataque.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Toalla Spider-man Ataque]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Toalla-Spider%252dman-Ataque.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Toalla-Spider%252dman-Ataque.html"  ><img src="http://intima.com.mx/product_images/p/209/1046_Imagen1__24141_thumb.jpg" alt="Toalla Spider-man Ataque" /></a></div>Composición: 100% algodón.<p><strong>Precio: $249.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición: 100% algodón.]]></isc:description>
+		<isc:productid><![CDATA[2831]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/p/209/1046_Imagen1__24141_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/l/926/1046_Imagen1__25687_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$249.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:50:34Z</published>
+		<updated>2014-01-21T13:50:34Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Toalla-Hello-Kitty-Amigos.html" />
+		<id>http://intima.com.mx/products/Toalla-Hello-Kitty-Amigos.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Toalla Hello Kitty Amigos]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Toalla-Hello-Kitty-Amigos.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Toalla-Hello-Kitty-Amigos.html"  ><img src="http://intima.com.mx/product_images/p/130/1032_Imagen1__48124_thumb.jpg" alt="Toalla Hello Kitty Amigos" /></a></div>Composición: 100% algodón.<p><strong>Precio: $249.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición: 100% algodón.]]></isc:description>
+		<isc:productid><![CDATA[2859]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/p/130/1032_Imagen1__48124_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/x/149/1032_Imagen1__89881_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$249.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:50:35Z</published>
+		<updated>2014-01-21T13:50:35Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Toalla-Marie-Aventuras.html" />
+		<id>http://intima.com.mx/products/Toalla-Marie-Aventuras.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Toalla Marie Aventuras]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Toalla-Marie-Aventuras.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Toalla-Marie-Aventuras.html"  ><img src="http://intima.com.mx/product_images/q/508/1038_Imagen1__56005_thumb.jpg" alt="Toalla Marie Aventuras" /></a></div>Composición: 100% algodón.<p><strong>Precio: $249.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición: 100% algodón.]]></isc:description>
+		<isc:productid><![CDATA[2862]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/q/508/1038_Imagen1__56005_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/n/649/1038_Imagen1__15897_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$249.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:50:35Z</published>
+		<updated>2014-01-21T13:50:35Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Toalla-Minnie-Amor.html" />
+		<id>http://intima.com.mx/products/Toalla-Minnie-Amor.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Toalla Minnie Amor]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Toalla-Minnie-Amor.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Toalla-Minnie-Amor.html"  ><img src="http://intima.com.mx/product_images/k/157/1040_Imagen1__23684_thumb.jpg" alt="Toalla Minnie Amor" /></a></div>Composición: 100% algodón.<p><strong>Precio: $249.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición: 100% algodón.]]></isc:description>
+		<isc:productid><![CDATA[2863]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/k/157/1040_Imagen1__23684_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/s/143/1040_Imagen1__73577_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$249.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:50:35Z</published>
+		<updated>2014-01-21T13:50:35Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Toalla-Somos-Am%C3%A9rica.html" />
+		<id>http://intima.com.mx/products/Toalla-Somos-Am%C3%A9rica.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Toalla Somos América]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Toalla-Somos-Am%C3%A9rica.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Toalla-Somos-Am%C3%A9rica.html"  ><img src="http://intima.com.mx/product_images/t/497/1045_Imagen1__99801_thumb.jpg" alt="Toalla Somos América" /></a></div>Composición: 100% algodón.<p><strong>Precio: $249.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición: 100% algodón.]]></isc:description>
+		<isc:productid><![CDATA[2865]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/t/497/1045_Imagen1__99801_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/l/583/1045_Imagen1__13569_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$249.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:50:35Z</published>
+		<updated>2014-01-21T13:50:35Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Toalla-Tinkerbell-Encanto.html" />
+		<id>http://intima.com.mx/products/Toalla-Tinkerbell-Encanto.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Toalla Tinkerbell Encanto]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Toalla-Tinkerbell-Encanto.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Toalla-Tinkerbell-Encanto.html"  ><img src="http://intima.com.mx/product_images/y/451/1047_Imagen1__54266_thumb.jpg" alt="Toalla Tinkerbell Encanto" /></a></div>Composición: 100% algodón.<p><strong>Precio: $249.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición: 100% algodón.]]></isc:description>
+		<isc:productid><![CDATA[2866]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/y/451/1047_Imagen1__54266_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/s/056/1047_Imagen1__35892_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$249.00]]></isc:price>
+	</entry>
+</feed>

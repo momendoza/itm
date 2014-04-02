@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Productos Populares]]></title>
+	<subtitle type="html"><![CDATA[La lista de productos populares en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?action=popularproducts&amp;categoryid=580&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-03-23T01:52:07Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:26:20Z</published>
+		<updated>2014-01-21T13:26:20Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Almohada-B%C3%A1sica.html" />
+		<id>http://intima.com.mx/products/Almohada-B%C3%A1sica.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Almohada Básica]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Almohada-B%C3%A1sica.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Almohada-B%C3%A1sica.html"  ><img src="http://intima.com.mx/product_images/f/343/154_Imagen1__72569_thumb.jpg" alt="Almohada Básica" /></a></div>Tela: 50% algodón y 50% poliéster.<p><strong>Precio: $205.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Tela: 50% algodón y 50% poliéster.]]></isc:description>
+		<isc:productid><![CDATA[1975]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/f/343/154_Imagen1__72569_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/b/007/154_Imagen1__92566_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$205.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:26:52Z</published>
+		<updated>2014-01-21T13:26:52Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Almohada-Loft-Soporte-Suave.html" />
+		<id>http://intima.com.mx/products/Almohada-Loft-Soporte-Suave.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Almohada Loft Soporte Suave]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Almohada-Loft-Soporte-Suave.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Almohada-Loft-Soporte-Suave.html"  ><img src="http://intima.com.mx/product_images/n/897/167_Imagen1__39304_thumb.jpg" alt="Almohada Loft Soporte Suave" /></a></div>Tela: 100% algodón/250 hilos. Con lateral y bies.<p><strong>Precio: $255.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Tela: 100% algodón/250 hilos. Con lateral y bies.]]></isc:description>
+		<isc:productid><![CDATA[1983]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/n/897/167_Imagen1__39304_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/e/928/167_Imagen1__91881_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$255.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:26:52Z</published>
+		<updated>2014-01-21T13:26:52Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Almohada-Microtela-Impermeable.html" />
+		<id>http://intima.com.mx/products/Almohada-Microtela-Impermeable.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Almohada Microtela Impermeable]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Almohada-Microtela-Impermeable.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Almohada-Microtela-Impermeable.html"  ><img src="http://intima.com.mx/product_images/f/590/172_Imagen1__18507_thumb.jpg" alt="Almohada Microtela Impermeable" /></a></div>Tela: Microtela. Con detalle de bies en contorno.<p><strong>Precio: $149.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Tela: Microtela. Con detalle de bies en contorno.]]></isc:description>
+		<isc:productid><![CDATA[1985]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/f/590/172_Imagen1__18507_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/l/940/172_Imagen1__87069_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$149.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:28:25Z</published>
+		<updated>2014-01-21T13:28:25Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Almohada-Impermeable.html" />
+		<id>http://intima.com.mx/products/Almohada-Impermeable.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Almohada Impermeable]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Almohada-Impermeable.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Almohada-Impermeable.html"  ><img src="http://intima.com.mx/product_images/n/923/165_Imagen1__11599_thumb.jpg" alt="Almohada Impermeable" /></a></div>Vista 1: 100% algodón afelpado absorbente. Vista 2: Tela impermeable. Con cierre.<p><strong>Precio: $255.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Vista 1: 100% algodón afelpado absorbente. Vista 2: Tela impermeable. Con cierre.]]></isc:description>
+		<isc:productid><![CDATA[2000]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/n/923/165_Imagen1__11599_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/j/520/165_Imagen1__43244_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$255.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:28:25Z</published>
+		<updated>2014-01-21T13:28:25Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Almohada-Loft-Soporte-Firme.html" />
+		<id>http://intima.com.mx/products/Almohada-Loft-Soporte-Firme.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Almohada Loft Soporte Firme]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Almohada-Loft-Soporte-Firme.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Almohada-Loft-Soporte-Firme.html"  ><img src="http://intima.com.mx/product_images/y/673/166_Imagen1__16119_thumb.jpg" alt="Almohada Loft Soporte Firme" /></a></div>Tela: 100% algodón/250 hilos. Con lateral y bies.<p><strong>Precio: $269.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Tela: 100% algodón/250 hilos. Con lateral y bies.]]></isc:description>
+		<isc:productid><![CDATA[2001]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/y/673/166_Imagen1__16119_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/c/779/166_Imagen1__05203_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$269.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:28:25Z</published>
+		<updated>2014-01-21T13:28:25Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Almohada-Lux-con-cierre.html" />
+		<id>http://intima.com.mx/products/Almohada-Lux-con-cierre.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Almohada Lux con cierre]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Almohada-Lux-con-cierre.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Almohada-Lux-con-cierre.html"  ><img src="http://intima.com.mx/product_images/d/730/168_Imagen1__90183_thumb.jpg" alt="Almohada Lux con cierre" /></a></div>Tela: 100% algodón. Con cierre y lateral.<p><strong>Precio: $239.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Tela: 100% algodón. Con cierre y lateral.]]></isc:description>
+		<isc:productid><![CDATA[2002]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/d/730/168_Imagen1__90183_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/e/541/168_Imagen1__83601_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$239.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:28:26Z</published>
+		<updated>2014-01-21T13:28:26Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Almohada-Protecci%C3%B3n-Plus.html" />
+		<id>http://intima.com.mx/products/Almohada-Protecci%C3%B3n-Plus.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Almohada Protección Plus]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Almohada-Protecci%C3%B3n-Plus.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Almohada-Protecci%C3%B3n-Plus.html"  ><img src="http://intima.com.mx/product_images/t/687/174_Imagen1__11393_thumb.jpg" alt="Almohada Protección Plus" /></a></div>Tela: 50% algodón y 50% poliéster. Con cierre y capitonado.<p><strong>Precio: $239.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Tela: 50% algodón y 50% poliéster. Con cierre y capitonado.]]></isc:description>
+		<isc:productid><![CDATA[2006]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/t/687/174_Imagen1__11393_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/l/052/174_Imagen1__11487_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$239.00]]></isc:price>
+	</entry>
+</feed>

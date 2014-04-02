@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<channel>
+		<title><![CDATA[Intima Hogar: Nuevos Productos - Juvenil]]></title>
+		<link>http://intima.com.mx</link>
+		<description><![CDATA[La lista de nuevos productos en Intima Hogar.]]></description>
+		<pubDate>Thu, 20 Feb 2014 17:10:07 +0000</pubDate>
+		<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+		<item>
+			<title><![CDATA[Cobertor Fleece con Borrega Splash]]></title>
+			<link>http://intima.com.mx/products/Cobertor-Fleece-con-Borrega-Splash.html</link>
+			<pubDate>Tue, 21 Jan 2014 13:30:14 +0000</pubDate>
+			<guid isPermaLink="false">http://intima.com.mx/products/Cobertor-Fleece-con-Borrega-Splash.html</guid>
+			<description><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cobertor-Fleece-con-Borrega-Splash.html"  ><img src="http://intima.com.mx/product_images/q/236/247_Imagen1__94645_thumb.jpg" alt="Cobertor Fleece con Borrega Splash" /></a></div>Medida: 1,80 x 2,20 m<p><strong>Precio: $599.00</strong> </p>]]></description>
+			<content:encoded><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cobertor-Fleece-con-Borrega-Splash.html"  ><img src="http://intima.com.mx/product_images/q/236/247_Imagen1__94645_thumb.jpg" alt="Cobertor Fleece con Borrega Splash" /></a></div>Medida: 1,80 x 2,20 m<p><strong>Precio: $599.00</strong> </p>]]></content:encoded>
+			<isc:description><![CDATA[Medida: 1,80 x 2,20 m]]></isc:description>
+			<isc:productid><![CDATA[2058]]></isc:productid>
+			<isc:thumb><![CDATA[http://intima.com.mx/product_images/q/236/247_Imagen1__94645_thumb.jpg]]></isc:thumb>
+			<isc:image><![CDATA[http://intima.com.mx/product_images/b/984/247_Imagen1__97952_zoom.jpg]]></isc:image>
+			<isc:price><![CDATA[$599.00]]></isc:price>
+		</item>
+		<item>
+			<title><![CDATA[Cobertor Fleece con Borrega Diversión]]></title>
+			<link>http://intima.com.mx/products/Cobertor-Fleece-con-Borrega-Diversi%C3%B3n.html</link>
+			<pubDate>Tue, 21 Jan 2014 13:29:04 +0000</pubDate>
+			<guid isPermaLink="false">http://intima.com.mx/products/Cobertor-Fleece-con-Borrega-Diversi%C3%B3n.html</guid>
+			<description><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cobertor-Fleece-con-Borrega-Diversi%C3%B3n.html"  ><img src="http://intima.com.mx/product_images/j/395/238_Imagen1__12462_thumb.jpg" alt="Cobertor Fleece con Borrega Diversión" /></a></div>Medida: 1,80 x 2,20 m<p><strong>Precio: $599.00</strong> </p>]]></description>
+			<content:encoded><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cobertor-Fleece-con-Borrega-Diversi%C3%B3n.html"  ><img src="http://intima.com.mx/product_images/j/395/238_Imagen1__12462_thumb.jpg" alt="Cobertor Fleece con Borrega Diversión" /></a></div>Medida: 1,80 x 2,20 m<p><strong>Precio: $599.00</strong> </p>]]></content:encoded>
+			<isc:description><![CDATA[Medida: 1,80 x 2,20 m]]></isc:description>
+			<isc:productid><![CDATA[2034]]></isc:productid>
+			<isc:thumb><![CDATA[http://intima.com.mx/product_images/j/395/238_Imagen1__12462_thumb.jpg]]></isc:thumb>
+			<isc:image><![CDATA[http://intima.com.mx/product_images/b/600/238_Imagen1__05906_zoom.jpg]]></isc:image>
+			<isc:price><![CDATA[$599.00]]></isc:price>
+		</item>
+	</channel>
+</rss>

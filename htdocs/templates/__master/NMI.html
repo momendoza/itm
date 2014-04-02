@@ -1,0 +1,80 @@
+<script type="text/javascript">
+//<![CDATA[
+function ShowHelp(img, title, desc)
+{
+	img = document.getElementById(img);
+	div = document.createElement('div');
+	div.id = 'help';
+
+	div.style.display = 'inline';
+	div.style.position = 'absolute';
+	div.style.width = '350';
+
+	div.style.backgroundColor = '#FEFCD5';
+	div.style.border = 'solid 1px #E7E3BE';
+	div.style.padding = '10px';
+	div.innerHTML = '<span class=helpTip><strong>' + title + '<\/strong><\/span><br /><img src=images/1x1.gif width=1 height=5><br /><div style="padding-left:10; padding-right:5" class=helpTip>' + desc + '<\/div>';
+
+	//img.parentNode.appendChild(div);
+	var parent = img.parentNode;
+	if(img.nextSibling)
+		parent.insertBefore(div, img.nextSibling);
+	else
+		parent.appendChild(div)
+}
+
+function HideHelp(img)
+{
+	if ($("#help").length) {
+		$("#help").css('display','none');
+	}
+}
+//]]>
+</script>
+
+<p class="ErrorMessage" style="display:%%GLOBAL_HideNMIError%%">
+	%%LNG_NMIProcessingError%%<br />
+	<strong>%%GLOBAL_NMIErrorMessage%%</strong>
+</p>
+<form action="%%GLOBAL_ShopPathSSL%%/checkout.php?action=process_payment" method="post" onsubmit="return check_NMI_payment_form()">
+	<div class="FormContainer HorizontalFormContainer">
+		<dl>
+			<dt><span class="Required">*</span> %%LNG_NMICardHoldersName%%:</dt>
+			<dd><input type="text" name="NMI_name" id="NMI_name" value="%%GLOBAL_NMIName%%" size="30" /></dd>
+
+			<dt><span class="Required">*</span> %%LNG_NMICreditCardNo%%:</dt>
+			<dd>
+				<input type="text" name="NMI_ccno" id="NMI_ccno" value="%%GLOBAL_NMINum%%" size="30" />
+				<br />
+				<small>%%LNG_NMICreditCardNoHelp%%</small>
+			</dd>
+
+			<dt><span class="Required">*</span> %%LNG_NMIExpirationDate%%:</dt>
+			<dd>
+				<select name="NMI_ccexpm" id="NMI_ccexpm">
+					<option value=""></option>
+					%%GLOBAL_NMIMonths%%
+				</select>
+				<select name="NMI_ccexpy" id="NMI_ccexpy">
+					<option value=""></option>
+					%%GLOBAL_NMIYears%%
+				</select>
+			</dd>
+
+			<dt style="display: %%GLOBAL_NMIHideCVV2%%"><span class="Required">*</span> %%LNG_NMICreditCardCCV2%%:</dt>
+			<dd id="CVV2Input" style="display: %%GLOBAL_NMIHideCVV2%%">
+				<input type="text" class="Textbox" name="NMI_cccode" id="cc_cvv2" value="%%GLOBAL_NMICCV2%%" size="4" />
+				&nbsp;<small><a href="#" id="CVV2Help" onmouseover="ShowHelp('d1', 'Codigo Verificador', 'Los ultimos tres digitos que se encuentran en la banda de firma en la parte trasera de su tarjeta Visa/MasterCard.<br/>Para tarjetas American Express, los cuatro dígitos impresos aparte del npumero de tarjeta en la parte frontal de la tarjeta,')" onmouseout="HideHelp('d1')">%%LNG_WhatsThis%%</a></small>				<div id="d1" style="display:none"></div>
+			</dd>
+
+			<dt>&nbsp;&nbsp; %%LNG_NMITotalAmount%%:</dt>
+			<dd>
+				<em class="ProductPrice">%%GLOBAL_OrderAmount%%</em>
+			</dd>
+		</dl>
+		<p class="Submit">
+			<input type="submit" value="%%LNG_NMIPayForOrder%%" />
+		</p>
+	</div>
+</form>
+%%Panel.NMIPaymentJavaScript%%

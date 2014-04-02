@@ -1,0 +1,170 @@
+
+
+/* PORTFOLIO */
+#ts-display-portfolio li{position:relative; }
+#ts-display-portfolio .ribbontag{position:absolute; bottom:28px; right:-8px; color:#fff; padding:5px 15px; z-index:11;}
+#ts-display-portfolio .ribbontag a, #ts-display-portfolio .ribbontag a:visited{color:#fff;}
+#ts-display-portfolio .ribbontag a:hover{color:#fff; text-decoration:none}
+#ts-display-portfolio .ribboncurve{position:absolute; right:0; top:-4px; width:8px; height:4px;}
+
+.ts-display-pf-img{position:relative;}
+.ts-display-clear{clear:both; height:1px !important; line-height:1px !important; float:none!important}
+.ts-display-pf-text h2{ font-size:14px;}
+
+
+
+/*======= Portfolio 1 Column =======*/
+#ts-display-pf-col-1{list-style-type:none; padding:0; margin:0;}
+#ts-display-pf-col-1 li{list-style-type:none; padding:0 0 50px 0; margin:0 0 40px 0 !important; background:url(../images/line.gif) repeat-x left bottom;}
+#ts-display-pf-col-1 h2{margin-bottom:10px;}
+
+#ts-display-pf-col-1 .ts-display-pf-img{
+	width:613px;
+	height:338px;
+	float:left;
+	margin-top:5px;
+	margin-right:27px;
+	background-color:#FFF;
+}
+
+#ts-display-pf-col-1 .ts-display-pf-img a.image{
+	width:613px;
+	height:338px;
+	display:block;
+	position:relative;
+}
+
+#ts-display-pf-col-1 .ts-display-pf-img a .rollover{
+	background:url(../images/hover-opacity.png);
+	background-color:#000;
+	background-repeat:no-repeat;
+	background-position:center;
+	width:613px;
+	height:338px;
+	display:block;
+    position:absolute;
+	z-index:10;
+	display:none;
+	cursor:pointer;
+}
+
+#ts-display-pf-col-1 .ts-display-pf-text{
+	width:300px;
+	float:left;
+}
+
+/*======= Portfolio 2 Column =======*/
+#ts-display-pf-col-2{list-style-type:none; padding:0; margin:0;}
+#ts-display-pf-col-2 li{list-style-type:none; padding:0 0 50px 0; margin:0 36px 50px 0; width:452px;  float:left;  background:url(../images/line.gif) repeat-x left bottom;}
+#ts-display-pf-col-2 li.nomargin{margin-right:0;}
+#ts-display-pf-col-2 h2{margin-bottom:10px;}
+
+#ts-display-pf-col-2 .ts-display-pf-img{
+	width:452px;
+	height:249px;
+}
+
+#ts-display-pf-col-2 .ts-display-pf-img a.image{
+	width:452px;
+	height:249px;
+	display:block;
+	position:relative;
+
+}
+
+#ts-display-pf-col-2 .ts-display-pf-img a .rollover{
+	background:url(../images/hover-opacity.png);
+	background-color:#000;
+	background-repeat:no-repeat;
+	background-position:center;
+	width:452px;
+	height:249px;
+	display:block;
+    position:absolute;
+	z-index:10;
+	display:none;
+	cursor:pointer;
+}
+
+#ts-display-pf-col-2 .ts-display-pf-text{
+	margin-top:10px;
+	padding:0;
+}
+
+/*======= Portfolio 3 Column =======*/
+#ts-display-pf-col-3{list-style-type:none; padding:0; margin:0;}
+#ts-display-pf-col-3 li{list-style-type:none; padding:0 0 50px 0; margin:0 32px 50px 0; width:292px;  float:left;   background:url(../images/line.gif) repeat-x left bottom;}
+#ts-display-pf-col-3 li.nomargin{margin-right:0;}
+#ts-display-pf-col-3 h2{margin-bottom:10px}
+
+#ts-display-pf-col-3 .ts-display-pf-img{
+	width:292px;
+	height:166px;
+}
+
+#ts-display-pf-col-3 .ts-display-pf-img a.image{
+	width:292px;
+	height:166px;
+	display:block;
+	position:relative;
+
+}
+
+#ts-display-pf-col-3 .ts-display-pf-img a .rollover{
+	background:url(../images/hover-opacity-small.png);
+	background-color:#000;
+	background-repeat:no-repeat;
+	background-position:center;
+	width:292px;
+	height:166px;
+	display:block;
+    position:absolute;
+	z-index:10;
+	display:none;
+	cursor:pointer;
+}
+
+#ts-display-pf-col-3 .ts-display-pf-text{
+	margin-top:10px;
+	padding:0
+}
+
+/*======= Portfolio 4 Column =======*/
+#ts-display-pf-col-4{list-style-type:none; padding:0; margin:0;}
+#ts-display-pf-col-4 li{list-style-type:none; padding:0 0 50px 0; margin:0 30px 50px 0; width:212px;  float:left; background:url(../images/line.gif) repeat-x left bottom;}
+#ts-display-pf-col-4 li.nomargin{margin-right:0;}
+#ts-display-pf-col-4 h2{margin-bottom:10px}
+
+#ts-display-pf-col-4 .ts-display-pf-img{
+	width:212px;
+	height:123px;
+}
+
+#ts-display-pf-col-4 .ts-display-pf-img a.image{
+	width:212px;
+	height:123px;
+	display:block;
+	position:relative;
+
+}
+
+#ts-display-pf-col-4 .ts-display-pf-img a .rollover{
+	background:url(../images/hover-opacity-small.png);
+	background-color:#000;
+	background-repeat:no-repeat;
+	background-position:center;
+	width:212px;
+	height:123px;
+	display:block;
+    position:absolute;
+	z-index:10;
+	display:none;
+	cursor:pointer;
+}
+
+#ts-display-pf-col-4 .ts-display-pf-text{
+	margin-top:10px;
+	padding:0
+}
+
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Productos Populares]]></title>
+	<subtitle type="html"><![CDATA[La lista de productos populares en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?action=popularproducts&amp;categoryid=562&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-03-30T05:04:59Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:29:00Z</published>
+		<updated>2014-01-21T13:29:00Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Camino-de-Mesa-Realeza.html" />
+		<id>http://intima.com.mx/products/Camino-de-Mesa-Realeza.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Camino de Mesa Realeza]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Camino-de-Mesa-Realeza.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Camino-de-Mesa-Realeza.html"  ><img src="http://intima.com.mx/product_images/m/965/204_Imagen1__96001_thumb.jpg" alt="Camino de Mesa Realeza" /></a></div>Bordado.<p><strong>Precio: $219.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Bordado.]]></isc:description>
+		<isc:productid><![CDATA[2025]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/m/965/204_Imagen1__96001_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/f/033/204_Imagen1__02003_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$219.00]]></isc:price>
+	</entry>
+</feed>

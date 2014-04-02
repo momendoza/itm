@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Productos Populares]]></title>
+	<subtitle type="html"><![CDATA[La lista de productos populares en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?action=popularproducts&amp;categoryid=621&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-02-20T03:24:04Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:38:47Z</published>
+		<updated>2014-01-21T13:38:47Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Dany.html" />
+		<id>http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Dany.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Cojín y Almohada Dany]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Dany.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Dany.html"  ><img src="http://intima.com.mx/product_images/t/259/574_Imagen1__26077_thumb.jpg" alt="Juego de Cojín y Almohada Dany" /></a></div>Incluye: Cojín, Funda de almohada y Almohada blanca.<p><strong>Precio: $169.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Cojín, Funda de almohada y Almohada blanca.]]></isc:description>
+		<isc:productid><![CDATA[2382]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/t/259/574_Imagen1__26077_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/v/256/574_Imagen1__83841_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$169.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:39:17Z</published>
+		<updated>2014-01-21T13:39:17Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Andy.html" />
+		<id>http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Andy.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Cojín y Almohada Andy]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Andy.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Andy.html"  ><img src="http://intima.com.mx/product_images/p/928/571_Imagen1__03696_thumb.jpg" alt="Juego de Cojín y Almohada Andy" /></a></div>Incluye: Cojín, Funda de almohada y Almohada blanca.<p><strong>Precio: $169.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Cojín, Funda de almohada y Almohada blanca.]]></isc:description>
+		<isc:productid><![CDATA[2392]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/p/928/571_Imagen1__03696_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/x/446/571_Imagen1__87616_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$169.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:39:18Z</published>
+		<updated>2014-01-21T13:39:18Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Emily.html" />
+		<id>http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Emily.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Cojín y Almohada Emily]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Emily.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Emily.html"  ><img src="http://intima.com.mx/product_images/y/490/576_Imagen1__47231_thumb.jpg" alt="Juego de Cojín y Almohada Emily" /></a></div>Incluye: Cojín, Funda de almohada y Almohada blanca.<p><strong>Precio: $169.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Cojín, Funda de almohada y Almohada blanca.]]></isc:description>
+		<isc:productid><![CDATA[2393]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/y/490/576_Imagen1__47231_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/p/411/576_Imagen1__57637_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$169.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:39:18Z</published>
+		<updated>2014-01-21T13:39:18Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Paulina.html" />
+		<id>http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Paulina.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Cojín y Almohada Paulina]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Paulina.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Paulina.html"  ><img src="http://intima.com.mx/product_images/w/324/582_Imagen1__08288_thumb.jpg" alt="Juego de Cojín y Almohada Paulina" /></a></div>Incluye: Cojín, Funda de almohada y Almohada blanca.<p><strong>Precio: $169.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Cojín, Funda de almohada y Almohada blanca.]]></isc:description>
+		<isc:productid><![CDATA[2394]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/w/324/582_Imagen1__08288_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/i/052/582_Imagen1__95207_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$169.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:40:14Z</published>
+		<updated>2014-01-21T13:40:14Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Alex.html" />
+		<id>http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Alex.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Cojín y Almohada Alex]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Alex.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Alex.html"  ><img src="http://intima.com.mx/product_images/c/452/570_Imagen1__40677_thumb.jpg" alt="Juego de Cojín y Almohada Alex" /></a></div>Incluye: Cojín, Funda de almohada y Almohada blanca.<p><strong>Precio: $169.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Cojín, Funda de almohada y Almohada blanca.]]></isc:description>
+		<isc:productid><![CDATA[2426]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/c/452/570_Imagen1__40677_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/g/248/570_Imagen1__63941_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$169.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:40:15Z</published>
+		<updated>2014-01-21T13:40:15Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Baby-Friends.html" />
+		<id>http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Baby-Friends.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Cojín y Almohada Baby Friends]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Baby-Friends.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Baby-Friends.html"  ><img src="http://intima.com.mx/product_images/v/723/572_Imagen1__62671_thumb.jpg" alt="Juego de Cojín y Almohada Baby Friends" /></a></div>Incluye: Cojín, Funda de almohada y Almohada blanca.<p><strong>Precio: $195.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Cojín, Funda de almohada y Almohada blanca.]]></isc:description>
+		<isc:productid><![CDATA[2427]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/v/723/572_Imagen1__62671_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/v/639/572_Imagen1__90663_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$195.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:40:16Z</published>
+		<updated>2014-01-21T13:40:16Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Cars-Carreras.html" />
+		<id>http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Cars-Carreras.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Cojín y Almohada Cars Carreras]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Cars-Carreras.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Cars-Carreras.html"  ><img src="http://intima.com.mx/product_images/j/559/573_Imagen1__17938_thumb.jpg" alt="Juego de Cojín y Almohada Cars Carreras" /></a></div>Incluye: Cojín, Funda de almohada y Almohada blanca.<p><strong>Precio: $169.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Cojín, Funda de almohada y Almohada blanca.]]></isc:description>
+		<isc:productid><![CDATA[2428]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/j/559/573_Imagen1__17938_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/l/687/573_Imagen1__66027_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$169.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:40:16Z</published>
+		<updated>2014-01-21T13:40:16Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Diego.html" />
+		<id>http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Diego.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Cojín y Almohada Diego]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Diego.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Diego.html"  ><img src="http://intima.com.mx/product_images/i/626/575_Imagen1__62904_thumb.jpg" alt="Juego de Cojín y Almohada Diego" /></a></div>Incluye: Cojín, Funda de almohada y Almohada blanca.<p><strong>Precio: $169.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Cojín, Funda de almohada y Almohada blanca.]]></isc:description>
+		<isc:productid><![CDATA[2429]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/i/626/575_Imagen1__62904_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/k/125/575_Imagen1__49781_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$169.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:40:17Z</published>
+		<updated>2014-01-21T13:40:17Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Fantas%C3%ADa.html" />
+		<id>http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Fantas%C3%ADa.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Cojín y Almohada Fantasía]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Fantas%C3%ADa.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Fantas%C3%ADa.html"  ><img src="http://intima.com.mx/product_images/r/838/577_Imagen1__61641_thumb.jpg" alt="Juego de Cojín y Almohada Fantasía" /></a></div>Incluye: Cojín, Funda de almohada y Almohada blanca.<p><strong>Precio: $169.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Cojín, Funda de almohada y Almohada blanca.]]></isc:description>
+		<isc:productid><![CDATA[2430]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/r/838/577_Imagen1__61641_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/e/591/577_Imagen1__59743_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$169.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:40:17Z</published>
+		<updated>2014-01-21T13:40:17Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Hello-Kitty-Caramelo.html" />
+		<id>http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Hello-Kitty-Caramelo.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Cojín y Almohada Hello Kitty Caramelo]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Hello-Kitty-Caramelo.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Coj%C3%ADn-y-Almohada-Hello-Kitty-Caramelo.html"  ><img src="http://intima.com.mx/product_images/t/934/578_Imagen1__58142_thumb.jpg" alt="Juego de Cojín y Almohada Hello Kitty Caramelo" /></a></div>Incluye: Cojín, Funda de almohada y Almohada blanca.<p><strong>Precio: $195.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Cojín, Funda de almohada y Almohada blanca.]]></isc:description>
+		<isc:productid><![CDATA[2431]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/t/934/578_Imagen1__58142_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/m/085/578_Imagen1__99438_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$195.00]]></isc:price>
+	</entry>
+</feed>

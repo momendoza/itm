@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Nuevos Productos - Cortinas]]></title>
+	<subtitle type="html"><![CDATA[La lista de nuevos productos en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://www.intima.com.mx/rss.php?categoryid=662&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-02-22T07:03:40Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:35:34Z</published>
+		<updated>2014-01-21T13:35:34Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cortinas-Blackout-Colecci%C3%B3n-Hoteler%C3%ADa.html" />
+		<id>http://intima.com.mx/products/Cortinas-Blackout-Colecci%C3%B3n-Hoteler%C3%ADa.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cortinas Blackout Colección Hotelería]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cortinas-Blackout-Colecci%C3%B3n-Hoteler%C3%ADa.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cortinas-Blackout-Colecci%C3%B3n-Hoteler%C3%ADa.html"  ><img src="http://intima.com.mx/product_images/r/143/406_Imagen1__78990_thumb.jpg" alt="Cortinas Blackout Colección Hotelería" /></a></div>Juego de cortinas con ojillos. Incluye: 2 Paneles, 2 Cinturones y 1 Galería. Medidas: 1,50 m X 2,30 m<p><strong>Precio: $1,049.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Juego de cortinas con ojillos. Incluye: 2 Paneles, 2 Cinturones y 1 Galería. Medidas: 1,50 m X 2,30 m]]></isc:description>
+		<isc:productid><![CDATA[2265]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/r/143/406_Imagen1__78990_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/s/733/406_Imagen1__59965_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$1,049.00]]></isc:price>
+	</entry>
+</feed>

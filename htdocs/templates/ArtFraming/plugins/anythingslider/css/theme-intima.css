@@ -1,0 +1,397 @@
+/************************************************************************
+*	Grupo Inter Mexico - Soluciones Avanzadas en Internet				*
+*	http://www.intermexico.net											*
+*	(C)2012 Intehost S.A. de C.V.										*
+*************************************************************************
+*	PROYECTO:															*
+*	Íntima - Sitio Web													*
+*	URL ARCHIVO:														*
+*	/tiendas/s211/default/plugins/anythingslider/css/					*
+*	ARCHIVO:															*
+*	theme-intima.css													*
+*	VERSION:															*
+*	1.0																	*
+*	BASADO EN:															*
+*	theme metallic														*
+*	DISENO:																*
+*	DCG. Pavne Osuna P. (pavne@intermexico.net)							*
+*	PROGRAMACION:														*
+*	DCG. Pavne Osuna P. (pavne@intermexico.net)							*
+*************************************************************************
+*	FECHA INICIO: 16/08/12												*
+*	FECHA FINALIZACION:	16/08/12										*
+*	ULTIMA REVISION: 16/08/12											*
+*************************************************************************
+*	Descripcion: Archivo de estilos para slider en home del sitio Web.	*
+************************************************************************/
+/*
+	AnythingSlider v1.8+
+	By Rob Garrison
+*/
+/*****************************
+  SET DEFAULT DIMENSIONS HERE
+ *****************************/
+/* change the ID & dimensions to match your slider */
+#slider {
+	width: 910px;
+	height: 360px;
+	list-style: none;
+	/* Prevent FOUC (see FAQ page) and keep things readable if javascript is disabled */
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+/* images with caption */ 
+#slider img {
+	width: 100%;
+	height: 100%;
+} 
+
+/**** CAPTIONS ****/
+.caption { display: none; }
+/* position the panels so the captions appear correctly */ 
+#slider .panel { position: relative; } 
+/* captions */ 
+#slider .caption-top, #slider .caption-right, 
+#slider .caption-bottom, #slider .caption-left { 
+	background: #414044; 
+	color: #fff; 
+	padding: 10px; 
+	margin: 0; 
+	position: relative; 
+	z-index: 0; 
+	opacity: .8; 
+	filter: alpha(opacity=80); 
+} 
+/* Top caption - padding is included in the width (480px here, 500px in the script), same for height */ 
+#slider .caption-top { 
+	left: 0; 
+	top: 0; 
+	width: 910px; 
+	height: 40px; 
+} 
+/* Right caption - padding is included in the width (130px here, 150px in the script), same for height */ 
+#slider .caption-right { 
+	right: 0; 
+	bottom: 0; 
+	width: 130px; 
+	height: 380px; 
+} 
+/* Bottom caption - padding is included in the width (480px here, 500px in the script), same for height */ 
+#slider .caption-bottom { 
+	left: 0; 
+	bottom: 0; 
+	width: 910px; 
+	height: 40px; 
+} 
+/* Left caption - padding is included in the width (130px here, 150px in the script), same for height */ 
+#slider .caption-left { 
+	left: 0; 
+	bottom: 0; 
+	width: 130px; 
+	height: 380px; 
+} 
+/* Caption close button */ 
+.caption-top .close, .caption-right .close, 
+.caption-bottom .close, .caption-left .close { 
+	font-size: 80%; 
+	cursor: pointer; 
+	float: right; 
+	display: inline-block; 
+}
+
+/******************
+  SET STYLING HERE
+ ******************
+ =================================
+ Default state (no keyboard focus)
+ ==================================*/
+/* Overall Wrapper */
+.anythingSlider-intima {
+	margin: 0 auto;
+	/* 23px right & left padding for the navigation arrows */
+	padding: 0 23px;
+}
+/* slider window - top & bottom borders, default state */
+.anythingSlider-intima .anythingWindow {
+	border-top:none;
+	border-bottom:none;
+}
+/* Navigation buttons + start/stop button, default state */
+.anythingSlider-intima .anythingControls a {
+	background: transparent url(../images/arrows-intima.png) -68px -20px repeat-x;
+	color: #000;
+	border: #000 1px solid;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+/* Navigation current button, default state */
+.anythingSlider-intima .anythingControls a.cur,
+.anythingSlider-intima .anythingControls a:hover {
+	background-position: -70px -137px;
+	background-color: #CFCFD0;
+	color: #CFCFD0;
+}
+
+/* start-stop button, stopped, default state */
+.anythingSlider-intima .anythingControls a.start-stop {
+	background: #261944;
+	color: #E9E8EC;
+	/* top shadow */
+	-moz-box-shadow: inset 1px 2px 5px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: inset 1px 2px 5px rgba(0, 0, 0, 0.5);
+	box-shadow: inset 1px 2px 5px rgba(0, 0, 0, 0.5);
+}
+/* start-stop button, playing, default state */
+.anythingSlider-intima .anythingControls a.start-stop.playing {
+	background-color: #DC2058;
+}
+
+/* start-stop button, default hovered text color (when visible) */
+/* hide nav/start-stop background image shadow on hover - makes the button appear to come forward */
+.anythingSlider-intima .anythingControls a.start-stop:hover,
+.anythingSlider-intima .anythingControls a.start-stop.hover,
+.anythingSlider-intima .anythingControls a.start-stop .anythingControls ul a:hover {
+	color: #fff;
+	/* clear top shadow */
+	-moz-box-shadow: inset 0 0 0 #414044;
+	-webkit-box-shadow: inset 0 0 0 #414044;
+	box-shadow: inset 0 0 0 #414044;
+}
+
+/*
+ =================================
+ Active State (has keyboard focus)
+ =================================
+*/
+/* slider window - top & bottom borders, active state */
+.anythingSlider-intima.activeSlider .anythingWindow {
+	border-color: #928CA1;
+}
+
+/* Navigation buttons, active state */
+.anythingSlider-intima.activeSlider .anythingControls a {
+	background-color: transparent;
+}
+/* Navigation current button, active state */
+.anythingSlider-intima.activeSlider .anythingControls a.cur,
+.anythingSlider-intima.activeSlider .anythingControls a:hover {
+	background-position: -76px -57px;
+	background-color: #CFCFD0;
+}
+
+/* start-stop button, stopped, active state */
+.anythingSlider-intima.activeSlider .anythingControls a.start-stop {
+	background: #5C5373;
+	color: #fff;
+}
+/* start-stop button, playing, active state */
+.anythingSlider-intima.activeSlider .anythingControls a.start-stop.playing {
+	color: #fff;
+	background: #DC2058;
+}
+/* start-stop button, active slider hovered text color (when visible) */
+.anythingSlider-intima.activeSlider .start-stop:hover,
+.anythingSlider-intima.activeSlider .start-stop.hover {
+	color: #fff;
+}
+
+/************************
+  NAVIGATION POSITIONING
+ ************************/
+/* Navigation Arrows */
+.anythingSlider-intima .arrow {
+	top: 50%;
+	position: absolute;
+	display: block;
+	z-index: 3;
+}
+
+.anythingSlider-intima .arrow a {
+	display: block;
+	width: 45px;
+	height: 95px;
+	margin: -45px 0 0 0; /* half height of image */
+	text-align: center;
+	outline: 0;
+	background: url(../images/arrows-intima.png) no-repeat;
+}
+
+/* back arrow */
+.anythingSlider-intima .back { left: 0; }
+.anythingSlider-intima .back a { background-position: left bottom; }
+.anythingSlider-intima .back a:hover,
+.anythingSlider-intima .back a.hover { background-position: left top; }
+/* forward arrow */
+.anythingSlider-intima .forward { right: 0; }
+.anythingSlider-intima .forward a { background-position: right bottom; }
+.anythingSlider-intima .forward a:hover,
+.anythingSlider-intima .forward a.hover { background-position: right top; }
+
+/* Navigation Links */
+.anythingSlider-intima .anythingControls {
+	height: 15px; /* limit height, needed for IE9 of all things */
+	outline: 0;
+	display: none;
+	float: right;
+	position: absolute;
+	bottom: 5px;
+	right: 20px;
+	margin: 0 45px;
+	z-index: 100;
+	opacity: 0.90;
+	filter: alpha(opacity=90);
+}
+
+.anythingSlider-intima .anythingControls ul {
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+.anythingSlider-intima .anythingControls ul li {
+	list-style: none;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+.anythingSlider-intima .anythingControls ul a {
+	display: inline-block;
+	width: 10px;
+	height: 10px;
+	margin: 3px;
+	padding: 0;
+	text-decoration: none;
+	text-align: center;
+	outline: 0;
+}
+
+.anythingSlider-intima .anythingControls span {
+	display: block;
+	visibility: hidden;
+}
+
+/* navigationSize window */
+.anythingSlider-intima .anythingControls .anythingNavWindow {
+	overflow: hidden;
+	float: left;
+}
+/* navigationSize nav arrow positioning */
+.anythingSlider-intima .anythingControls li.prev a span,
+.anythingSlider-intima .anythingControls li.next a span {
+	visibility: visible;
+	position: relative;
+	top: -6px; /* bring navigationSize text arrows into view */
+	color: #fff;
+}
+
+/* Autoplay Start/Stop button */
+.anythingSlider-intima .anythingControls .start-stop {
+	display: inline-block;
+	width: 10px;
+	height: 10px;
+	margin: 3px;
+	padding: 0;
+	text-align: center;
+	text-decoration: none;
+	z-index: 100;
+	outline: 0;
+}
+
+/***********************
+IE8 AND OLDER STYLING
+***********************/
+/* Navigation Arrows */
+.as-oldie .anythingSlider-intima .arrow {
+	top: 40%;
+}
+.as-oldie .anythingSlider-intima .arrow a {
+	margin: 0;
+}
+
+/***********************
+  COMMON SLIDER STYLING
+ ***********************/
+/* Overall Wrapper */
+.anythingSlider {
+	display: block;
+	overflow: visible !important;
+	position: relative;
+}
+/* anythingSlider viewport window */
+.anythingSlider .anythingWindow {
+	overflow: hidden;
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+/* anythingSlider base (original element) */
+.anythingSlider .anythingBase {
+	background: transparent;
+	list-style: none;
+	position: absolute;
+	overflow: visible !important;
+	top: 0;
+	left: 0;
+	margin: 0;
+	padding: 0;
+}
+
+/* Navigation arrow text; indent moved to span inside "a", for IE7;
+	apparently, a negative text-indent on an "a" link moves the link as well as the text */
+.anythingSlider .arrow span {
+	display: block;
+	visibility: hidden;
+}
+/* disabled arrows, hide or reduce opacity: opacity: .5; filter: alpha(opacity=50); */
+.anythingSlider .arrow.disabled {
+	display: none;
+}
+/* all panels inside the slider; horizontal mode */
+.anythingSlider .panel {
+	background: transparent;
+	display: block;
+	overflow: hidden;
+	float: left;
+	padding: 0;
+	margin: 0;
+}
+/* vertical mode */
+.anythingSlider .vertical .panel {
+	float: none;
+}
+
+/* fade mode */
+.anythingSlider .fade .panel {
+	float: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+}
+/* fade mode active page - visible & on top */
+.anythingSlider .fade .activePage {
+	z-index: 0;
+}
+
+/***********************
+  RTL STYLING
+ ***********************/
+/* slider autoplay right-to-left, reverse order of nav links to look better */
+.anythingSlider.rtl .anythingWindow {
+	direction: ltr;
+	unicode-bidi: bidi-override;
+}
+.anythingSlider.rtl .anythingControls ul { float: left; } /* move nav link group to left */
+.anythingSlider.rtl .anythingControls ul a { float: right; } /* reverse order of nav links */
+.anythingSlider.rtl .start-stop { /* float: right; */ } /* move start/stop button - in case you want to switch sides */
+
+/* probably not necessary, but added just in case */
+.anythingSlider .anythingWindow,
+.anythingSlider .anythingControls ul a,
+.anythingSlider .arrow a,
+.anythingSlider .start-stop {
+	transition-duration: 0;
+	-o-transition-duration: 0;
+	-moz-transition-duration: 0;
+	-webkit-transition-duration: 0;
+}

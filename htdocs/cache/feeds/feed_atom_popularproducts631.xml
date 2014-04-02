@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Productos Populares]]></title>
+	<subtitle type="html"><![CDATA[La lista de productos populares en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?action=popularproducts&amp;categoryid=631&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-03-13T17:21:59Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:44:13Z</published>
+		<updated>2014-01-21T13:44:13Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Mateletas-Realeza.html" />
+		<id>http://intima.com.mx/products/Juego-de-Mateletas-Realeza.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Mateletas Realeza]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Mateletas-Realeza.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Mateletas-Realeza.html"  ><img src="http://intima.com.mx/product_images/h/156/784_Imagen1__96210_thumb.jpg" alt="Juego de Mateletas Realeza" /></a></div>Bordado.<p><strong>Precio: $225.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Bordado.]]></isc:description>
+		<isc:productid><![CDATA[2601]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/h/156/784_Imagen1__96210_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/z/493/784_Imagen1__35008_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$225.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:44:49Z</published>
+		<updated>2014-01-21T13:44:49Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Manteletas-Individuales-Hawaii.html" />
+		<id>http://intima.com.mx/products/Juego-de-Manteletas-Individuales-Hawaii.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Manteletas Individuales Hawaii]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Manteletas-Individuales-Hawaii.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Manteletas-Individuales-Hawaii.html"  ><img src="http://intima.com.mx/product_images/p/502/781_Imagen1__07392_thumb.jpg" alt="Juego de Manteletas Individuales Hawaii" /></a></div>Composición: 100% bamboo, bordas 100% poliamida.<p><strong>Precio: $149.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición: 100% bamboo, bordas 100% poliamida.]]></isc:description>
+		<isc:productid><![CDATA[2618]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/p/502/781_Imagen1__07392_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/t/539/781_Imagen1__99166_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$149.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:45:33Z</published>
+		<updated>2014-01-21T13:45:33Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Manteletas-Individuales-Aloha.html" />
+		<id>http://intima.com.mx/products/Juego-de-Manteletas-Individuales-Aloha.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Manteletas Individuales Aloha]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Manteletas-Individuales-Aloha.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Manteletas-Individuales-Aloha.html"  ><img src="http://intima.com.mx/product_images/n/695/779_Imagen1__47178_thumb.jpg" alt="Juego de Manteletas Individuales Aloha" /></a></div>Composición: 100% bamboo, bordas 100% poliamida.<p><strong>Precio: $149.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición: 100% bamboo, bordas 100% poliamida.]]></isc:description>
+		<isc:productid><![CDATA[2646]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/n/695/779_Imagen1__47178_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/a/688/779_Imagen1__91206_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$149.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:45:33Z</published>
+		<updated>2014-01-21T13:45:33Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Manteletas-Individuales-Bombay.html" />
+		<id>http://intima.com.mx/products/Juego-de-Manteletas-Individuales-Bombay.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Manteletas Individuales Bombay]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Manteletas-Individuales-Bombay.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Manteletas-Individuales-Bombay.html"  ><img src="http://intima.com.mx/product_images/p/301/780_Imagen1__40975_thumb.jpg" alt="Juego de Manteletas Individuales Bombay" /></a></div>Composición: 100% bamboo, bordas 100% poliamida.<p><strong>Precio: $149.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición: 100% bamboo, bordas 100% poliamida.]]></isc:description>
+		<isc:productid><![CDATA[2647]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/p/301/780_Imagen1__40975_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/m/870/780_Imagen1__18067_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$149.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:46:15Z</published>
+		<updated>2014-01-21T13:46:15Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Manteletas-Individuales-Tailandia.html" />
+		<id>http://intima.com.mx/products/Juego-de-Manteletas-Individuales-Tailandia.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Manteletas Individuales Tailandia]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Manteletas-Individuales-Tailandia.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Manteletas-Individuales-Tailandia.html"  ><img src="http://intima.com.mx/product_images/j/048/782_Imagen1__84352_thumb.jpg" alt="Juego de Manteletas Individuales Tailandia" /></a></div>Composición: 100% bamboo, bordas 100% poliamida.<p><strong>Precio: $149.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición: 100% bamboo, bordas 100% poliamida.]]></isc:description>
+		<isc:productid><![CDATA[2667]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/j/048/782_Imagen1__84352_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/q/112/782_Imagen1__17716_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$149.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:46:15Z</published>
+		<updated>2014-01-21T13:46:15Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Manteletas-Mil%C3%A1n.html" />
+		<id>http://intima.com.mx/products/Juego-de-Manteletas-Mil%C3%A1n.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Manteletas Milán]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Manteletas-Mil%C3%A1n.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Manteletas-Mil%C3%A1n.html"  ><img src="http://intima.com.mx/product_images/y/089/783_Imagen1__77483_thumb.jpg" alt="Juego de Manteletas Milán" /></a></div><p><strong>Precio: $179.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2668]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/y/089/783_Imagen1__77483_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/x/820/783_Imagen1__56685_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$179.00]]></isc:price>
+	</entry>
+</feed>

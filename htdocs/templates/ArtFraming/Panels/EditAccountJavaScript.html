@@ -1,0 +1,190 @@
+<script type="text/javascript" src="%%GLOBAL_ShopPath%%/javascript/formfield.js?%%GLOBAL_JSCacheToken%%"></script>
+<script type="text/javascript">
+//<![CDATA[
+
+    $(document).ready(function () {
+    var formfieldDeliveryMethod = false;
+    var formfieldDeliveryMethodid = '';
+    formfieldDeliveryMethod = FormField.GetFieldByLabel(1, '%%LNG_DefaultShippingMethodLabel%%');
+    formfieldDeliveryMethodid = formfieldDeliveryMethod.attr('id');
+
+    if($('#'+formfieldDeliveryMethodid).val() == 'Entrega a Domicilio'){
+        var formfieldStoreOrigin = false;
+        var formfieldStoreOriginid = '';
+        formfieldStoreOrigin = FormField.GetFieldByLabel(1, '%%LNG_StoreOriginLabel%%');
+        formfieldStoreOriginid = formfieldStoreOrigin.attr('id');
+    
+    $('#'+formfieldStoreOriginid).find('option')
+        .remove()
+        .end()
+        .append('<option value="%%GLOBAL_StoreOriginNameDefault%%">%%GLOBAL_StoreOriginNameDefault%%</option>')
+        .val('%%GLOBAL_StoreOriginNameDefault%%');
+    }
+
+                var fromfieldChkEmail = false;
+                var fromfieldChkEMailid = '';
+                formfieldChkEmail = FormField.GetFieldByLabel(1, 'Conf. Correo Electrónico');
+                formfieldChkEmailid = formfieldChkEmail.attr('id');
+                formfieldChkEmailid = formfieldChkEmailid.replace('FormField_', '');
+    
+                var formfieldRFC = false;
+                var formfieldRFCid = '';
+                formfieldRFC = FormField.GetFieldByLabel(1, 'RFC');
+                formfieldRFCid = formfieldRFC.attr('id');
+                formfieldRFCid = formfieldRFCid.replace('FormField_', '');
+
+                var formfieldRS = false;
+                var formfieldRSid = '';
+                formfieldRS = FormField.GetFieldByLabel(1, 'Razon Social');
+                formfieldRSid = formfieldRS.attr('id');
+                formfieldRSid = formfieldRSid.replace('FormField_', ''); 
+                $('span:contains("Delegacion:")').html('Delegación/Municipio');
+    
+                $('#FormField_'+formfieldRFCid).attr('disabled','disabled');
+                $('#FormField_'+formfieldRSid ).attr('disabled','disabled');
+    
+    });
+
+    function RequiereFacturaToggle(checked){
+    var formfieldRFC = false;
+    var formfieldRFCid = '';
+    formfieldRFC = FormField.GetFieldByLabel(1, 'RFC');
+    formfieldRFCid = formfieldRFC.attr('id');
+    formfieldRFCid = formfieldRFCid.replace('FormField_', '');
+    
+    
+    var formfieldRS = false;
+    var formfieldRSid = '';
+    formfieldRS = FormField.GetFieldByLabel(1, 'Razon Social');
+    formfieldRSid = formfieldRS.attr('id');
+    formfieldRSid = formfieldRSid.replace('FormField_', '');    
+    
+    if(checked==true){
+    FormField.SetRequired(formfieldRFCid , true);
+    FormField.SetRequired(formfieldRSid , true);
+    
+    $('#FormField_'+formfieldRFCid).removeAttr('disabled');
+    $('#FormField_'+formfieldRSid ).removeAttr('disabled');
+    }
+    else{
+    FormField.SetRequired(formfieldRFCid , false);
+    FormField.SetRequired(formfieldRSid , false);
+    
+    $('#FormField_'+formfieldRFCid).attr('disabled','disabled');
+    $('#FormField_'+formfieldRSid ).attr('disabled','disabled');
+    }
+    }
+
+    function MetodoEnvioChange(object){
+        var formfieldStoreOrigin = false;
+        var formfieldStoreOriginid = '';
+        formfieldStoreOrigin = FormField.GetFieldByLabel(1, '%%LNG_StoreOriginLabel%%');
+        formfieldStoreOriginid = formfieldStoreOrigin.attr('id');
+        formfieldStoreOriginid = formfieldStoreOriginid.replace('FormField_', '');
+        
+        if(object.options[object.selectedIndex].text=='Recoge en Tienda'){
+        FormField.SetRequired(formfieldStoreOriginid , true);
+        $('#FormField_'+formfieldStoreOriginid).removeAttr('disabled');
+        
+        $.getJSON(
+            config.AppPath + '/remote.php?w=getstoreoriginoptions',
+            function(data) {
+                    $('#FormField_'+formfieldStoreOriginid).find('option')
+                    .remove()
+                    .end()
+                    .append(data.HTML)
+                    .val('');
+            }
+        );
+        }
+        else if(object.options[object.selectedIndex].text=='Entrega a Domicilio'){
+        FormField.SetRequired(formfieldStoreOriginid , false);
+
+        
+        $('#FormField_'+formfieldStoreOriginid).find('option')
+        .remove()
+        .end()
+        .append('<option value="%%GLOBAL_StoreOriginNameDefault%%">%%GLOBAL_StoreOriginNameDefault%%</option>')
+        .val('%%GLOBAL_StoreOriginNameDefault%%');
+        }
+        else {
+                this.val('');
+                $('#FormField_'+formfieldStoreOriginid).find('option')
+        .remove()
+        .end()
+        .append('<option value="">-- Favor de Elegir una opción --</option>')
+        .val('');
+        }
+    }
+
+    /* Make sure all new account details are filled in */
+    function check_edit_account_form() {
+
+        var account_firstname = g("account_firstname");
+        var account_lastname = g("account_lastname");
+        var account_phone = g("account_phone");
+
+        if(account_firstname.value == "") {
+            alert("%%LNG_AccountEnterFirstName%%");
+            account_firstname.focus();
+            return false;
+        }
+
+        if(account_lastname.value == "") {
+            alert("%%LNG_AccountEnterLastName%%");
+            account_lastname.focus();
+            return false;
+        }
+
+        if(account_phone.value == "") {
+            alert("%%LNG_AccountEnterPhoneNumber%%");
+            account_phone.focus();
+            return false;
+        }
+
+        /**
+         * Validate our form fields
+         */
+        var emailField, passwordField, confirmField, formfields = FormField.GetValues(%%GLOBAL_EditAccountAccountFormFieldID%%);
+
+        for (var i=0; i<formfields.length; i++) {
+            var rtn = FormField.Validate(formfields[i].field);
+
+            if (!rtn.status) {
+                alert(rtn.msg);
+                FormField.Focus(formfields[i].field);
+                return false;
+            }
+
+            if (formfields[i].privateId == 'EmailAddress') {
+                emailField = formfields[i];
+            } else if (formfields[i].privateId == 'Password') {
+                passwordField = formfields[i];
+            } else if (formfields[i].privateId == 'ConfirmPassword') {
+                confirmField = formfields[i];
+            }
+        }
+
+        if(emailField.value.indexOf("@") == -1 || emailField.value.indexOf(".") == -1) {
+            alert("%%LNG_AccountEnterValidEmail%%");
+            FormField.Focus(emailField.field);
+            return false;
+        }
+ if(emailField.value.indexOf("@") == -1 || emailField.value.indexOf(".") == -1) {
+            alert("%%LNG_AccountEnterValidEmail%%");
+            FormField.Focus(emailField.field);
+            return false;
+        }
+
+        if((passwordField.value != "" || confirmField.value != "") && (passwordField.value != confirmField.value)) {
+            alert("%%LNG_AccountPasswordsDontMatch%%");
+            FormField.Focus(confirmField.field);
+            return false;
+        }
+
+        return true;
+    }
+
+    %%GLOBAL_FormFieldRequiredJS%%
+//]]>
+</script>

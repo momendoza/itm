@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Productos Populares]]></title>
+	<subtitle type="html"><![CDATA[La lista de productos populares en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?action=popularproducts&amp;categoryid=608&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-02-20T18:07:15Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:36:15Z</published>
+		<updated>2014-01-21T13:36:15Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-%C3%81gatha.html" />
+		<id>http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-%C3%81gatha.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Accesorios para Baño Ágatha]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-%C3%81gatha.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-%C3%81gatha.html"  ><img src="http://intima.com.mx/product_images/x/406/527_Imagen1__99505_thumb.jpg" alt="Juego de Accesorios para Baño Ágatha" /></a></div>Incluye: Vaso Medidas: 7 x 7 x 11 cm, Jabonera Medidas: 12.5 x 8.5 x 2.5 cm, Recipiente de cepillo de dientes Medidas: 7 x 7 x 11 cm, Dispensador de jabón liquido Medidas: 2 x 7 x 18 cm. Composición: 100% cerámica.<p><strong>Precio: $269.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Vaso Medidas: 7 x 7 x 11 cm, Jabonera Medidas: 12.5 x 8.5 x 2.5 cm, Recipiente de cepillo de dientes Medidas: 7 x 7 x 11 cm, Dispensador de jabón liquido Medidas: 2 x 7 x 18 cm. Composición: 100% cerámica.]]></isc:description>
+		<isc:productid><![CDATA[2283]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/x/406/527_Imagen1__99505_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/h/343/527_Imagen1__71284_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$269.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:36:16Z</published>
+		<updated>2014-01-21T13:36:16Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Citr%C3%B3n.html" />
+		<id>http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Citr%C3%B3n.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Accesorios para Baño Citrón]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Citr%C3%B3n.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Citr%C3%B3n.html"  ><img src="http://intima.com.mx/product_images/o/418/531_Imagen1__97079_thumb.jpg" alt="Juego de Accesorios para Baño Citrón" /></a></div>Incluye: Vaso Medidas: 7 x 5,5 x 10 cm, Jabonera Medidas: 12,5 x 8,5 x 3,2 cm, Recipiente de cepillo de dientes Medidas: 7 x 5,5 x 10,8 cm, Dispensador de jabón líquido Medidas: 7 x 5,5 x 15,8 cm, Bote de basura Medidas: 19 x 15,5 x 24 cm. Composición: Po<p><strong>Precio: $225.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Vaso Medidas: 7 x 5,5 x 10 cm, Jabonera Medidas: 12,5 x 8,5 x 3,2 cm, Recipiente de cepillo de dientes Medidas: 7 x 5,5 x 10,8 cm, Dispensador de jabón líquido Medidas: 7 x 5,5 x 15,8 cm, Bote de basura Medidas: 19 x 15,5 x 24 cm. Composición: Po]]></isc:description>
+		<isc:productid><![CDATA[2284]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/o/418/531_Imagen1__97079_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/j/011/531_Imagen1__26411_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$225.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:36:16Z</published>
+		<updated>2014-01-21T13:36:16Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Lisboa.html" />
+		<id>http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Lisboa.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Accesorios para Baño Lisboa]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Lisboa.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Lisboa.html"  ><img src="http://intima.com.mx/product_images/v/612/535_Imagen1__61905_thumb.jpg" alt="Juego de Accesorios para Baño Lisboa" /></a></div>Incluye: Vaso Medidas: 7 x 5,5 x 10 cm, Jabonera Medidas: 12,5 x 8,5 x 3,2 cm, Recipiente de cepillo de dientes Medidas: 7 x 5,5 x 10,8 cm, Dispensador de jabón líquido Medidas: 7 x 5,5 x 15,8 cm, Bote de basura Medidas: 19 x 15,5 x 24 cm. Composición: Po<p><strong>Precio: $225.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Vaso Medidas: 7 x 5,5 x 10 cm, Jabonera Medidas: 12,5 x 8,5 x 3,2 cm, Recipiente de cepillo de dientes Medidas: 7 x 5,5 x 10,8 cm, Dispensador de jabón líquido Medidas: 7 x 5,5 x 15,8 cm, Bote de basura Medidas: 19 x 15,5 x 24 cm. Composición: Po]]></isc:description>
+		<isc:productid><![CDATA[2285]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/v/612/535_Imagen1__61905_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/j/671/535_Imagen1__85949_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$225.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:36:17Z</published>
+		<updated>2014-01-21T13:36:17Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Minerva.html" />
+		<id>http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Minerva.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Accesorios para Baño Minerva]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Minerva.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Minerva.html"  ><img src="http://intima.com.mx/product_images/m/057/536_Imagen1__77433_thumb.jpg" alt="Juego de Accesorios para Baño Minerva" /></a></div>Incluye: Vaso Medidas: 6.3 x 4 x 8.8 cm, Jabonera Medidas: 13.8 x 9.7 x 2.5 cm, Recipiente de cepillo de dientes Medidas: 6.3 x 4 x 10.5 cm, Dispensador de jabón liquido Medidas: 2 x 4 x 17.5 cm, Composición: Acero inoxidable.<p><strong>Precio: $629.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Vaso Medidas: 6.3 x 4 x 8.8 cm, Jabonera Medidas: 13.8 x 9.7 x 2.5 cm, Recipiente de cepillo de dientes Medidas: 6.3 x 4 x 10.5 cm, Dispensador de jabón liquido Medidas: 2 x 4 x 17.5 cm, Composición: Acero inoxidable.]]></isc:description>
+		<isc:productid><![CDATA[2286]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/m/057/536_Imagen1__77433_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/c/857/536_Imagen1__73096_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$629.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:36:18Z</published>
+		<updated>2014-01-21T13:36:18Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Xenia.html" />
+		<id>http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Xenia.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Accesorios para Baño Xenia]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Xenia.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Xenia.html"  ><img src="http://intima.com.mx/product_images/c/785/541_Imagen1__66124_thumb.jpg" alt="Juego de Accesorios para Baño Xenia" /></a></div>Incluye: Vaso Medidas: 7 x 7 x 11 cm, Jabonera Medidas: 12.5 x 8.5 x 2.5 cm, Recipiente de cepillo de dientes Medidas: 7 x 7 x 11 cm, Dispensador de jabón liquido Medidas: 2 x 7 x 18 cm. Composición: 100% cerámica.<p><strong>Precio: $269.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Vaso Medidas: 7 x 7 x 11 cm, Jabonera Medidas: 12.5 x 8.5 x 2.5 cm, Recipiente de cepillo de dientes Medidas: 7 x 7 x 11 cm, Dispensador de jabón liquido Medidas: 2 x 7 x 18 cm. Composición: 100% cerámica.]]></isc:description>
+		<isc:productid><![CDATA[2287]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/c/785/541_Imagen1__66124_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/w/807/541_Imagen1__76947_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$269.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:36:54Z</published>
+		<updated>2014-01-21T13:36:54Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Aura.html" />
+		<id>http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Aura.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Accesorios para Baño Aura]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Aura.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Aura.html"  ><img src="http://intima.com.mx/product_images/p/564/530_Imagen1__38112_thumb.jpg" alt="Juego de Accesorios para Baño Aura" /></a></div>Incluye: Vaso Medidas: 7 x 7 x 11 cm, Jabonera Medidas: 12.5 x 8.5 x 2.5 cm, Recipiente de cepillo de dientes Medidas: 7 x 7 x 11 cm, Dispensador de jabón liquido Medidas: 2 x 7 x 18 cm. Composición: 100% cerámica.<p><strong>Precio: $269.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Vaso Medidas: 7 x 7 x 11 cm, Jabonera Medidas: 12.5 x 8.5 x 2.5 cm, Recipiente de cepillo de dientes Medidas: 7 x 7 x 11 cm, Dispensador de jabón liquido Medidas: 2 x 7 x 18 cm. Composición: 100% cerámica.]]></isc:description>
+		<isc:productid><![CDATA[2315]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/p/564/530_Imagen1__38112_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/z/642/530_Imagen1__46966_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$269.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:36:54Z</published>
+		<updated>2014-01-21T13:36:54Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Odessa.html" />
+		<id>http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Odessa.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Accesorios para Baño Odessa]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Odessa.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Odessa.html"  ><img src="http://intima.com.mx/product_images/i/630/537_Imagen1__53335_thumb.jpg" alt="Juego de Accesorios para Baño Odessa" /></a></div>Incluye: Vaso Medidas: 7 x 7 x 11 cm, Jabonera Medidas: 12.5 x 8.5 x 2.5 cm, Recipiente de cepillo de dientes Medidas: 7 x 7 x 11 cm, Dispensador de jabón liquido Medidas: 2 x 7 x 18 cm. Composición: 100% cerámica.<p><strong>Precio: $269.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Vaso Medidas: 7 x 7 x 11 cm, Jabonera Medidas: 12.5 x 8.5 x 2.5 cm, Recipiente de cepillo de dientes Medidas: 7 x 7 x 11 cm, Dispensador de jabón liquido Medidas: 2 x 7 x 18 cm. Composición: 100% cerámica.]]></isc:description>
+		<isc:productid><![CDATA[2316]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/i/630/537_Imagen1__53335_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/h/691/537_Imagen1__60537_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$269.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:37:21Z</published>
+		<updated>2014-01-21T13:37:21Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Aqua.html" />
+		<id>http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Aqua.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Accesorios para Baño Aqua]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Aqua.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Aqua.html"  ><img src="http://intima.com.mx/product_images/l/402/529_Imagen1__19807_thumb.jpg" alt="Juego de Accesorios para Baño Aqua" /></a></div>Incluye: Vaso Medidas: 7 x 5,5 x 10 cm, Jabonera Medidas: 12,5 x 8,5 x 3,2 cm, Recipiente de cepillo de dientes Medidas: 7 x 5,5 x 10,8 cm, Dispensador de jabón líquido Medidas: 7 x 5,5 x 15,8 cm, Bote de basura Medidas: 19 x 15,5 x 24 cm. Composición: Po<p><strong>Precio: $225.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Vaso Medidas: 7 x 5,5 x 10 cm, Jabonera Medidas: 12,5 x 8,5 x 3,2 cm, Recipiente de cepillo de dientes Medidas: 7 x 5,5 x 10,8 cm, Dispensador de jabón líquido Medidas: 7 x 5,5 x 15,8 cm, Bote de basura Medidas: 19 x 15,5 x 24 cm. Composición: Po]]></isc:description>
+		<isc:productid><![CDATA[2321]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/l/402/529_Imagen1__19807_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/l/869/529_Imagen1__78411_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$225.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:38:26Z</published>
+		<updated>2014-01-21T13:38:26Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Alegr%C3%ADa.html" />
+		<id>http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Alegr%C3%ADa.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Accesorios para Baño Alegría]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Alegr%C3%ADa.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Alegr%C3%ADa.html"  ><img src="http://intima.com.mx/product_images/i/062/528_Imagen1__69757_thumb.jpg" alt="Juego de Accesorios para Baño Alegría" /></a></div>Incluye: Vaso Medidas: 7 x 5,5 x 10 cm, Jabonera Medidas: 12,5 x 8,5 x 3,2 cm, Recipiente de cepillo de dientes Medidas: 7 x 5,5 x 10,8 cm, Dispensador de jabón líquido Medidas: 7 x 5,5 x 15,8 cm, Bote de basura Medidas: 19 x 15,5 x 24 cm. Composición: Po<p><strong>Precio: $225.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Vaso Medidas: 7 x 5,5 x 10 cm, Jabonera Medidas: 12,5 x 8,5 x 3,2 cm, Recipiente de cepillo de dientes Medidas: 7 x 5,5 x 10,8 cm, Dispensador de jabón líquido Medidas: 7 x 5,5 x 15,8 cm, Bote de basura Medidas: 19 x 15,5 x 24 cm. Composición: Po]]></isc:description>
+		<isc:productid><![CDATA[2355]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/i/062/528_Imagen1__69757_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/m/734/528_Imagen1__87984_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$225.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:38:26Z</published>
+		<updated>2014-01-21T13:38:26Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Cl%C3%ADo.html" />
+		<id>http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Cl%C3%ADo.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Accesorios para Baño Clío]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Cl%C3%ADo.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Accesorios-para-Ba%C3%B1o-Cl%C3%ADo.html"  ><img src="http://intima.com.mx/product_images/g/753/532_Imagen1__22698_thumb.jpg" alt="Juego de Accesorios para Baño Clío" /></a></div>Incluye: Vaso Medidas: 6.4 x 6 x 12.4 cm, Jabonera Medidas: 11.8 x 2.5 cm, Recipiente de cepillo de dientes Medidas: 6.4 x 6 x 12.6 cm, Dispensador de jabón liquido Medidas: 2.2 x 6 x 18.7 cm. Composición: Acero inoxidable y plástico.<p><strong>Precio: $629.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: Vaso Medidas: 6.4 x 6 x 12.4 cm, Jabonera Medidas: 11.8 x 2.5 cm, Recipiente de cepillo de dientes Medidas: 6.4 x 6 x 12.6 cm, Dispensador de jabón liquido Medidas: 2.2 x 6 x 18.7 cm. Composición: Acero inoxidable y plástico.]]></isc:description>
+		<isc:productid><![CDATA[2356]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/g/753/532_Imagen1__22698_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/y/676/532_Imagen1__78569_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$629.00]]></isc:price>
+	</entry>
+</feed>

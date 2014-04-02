@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Productos Populares]]></title>
+	<subtitle type="html"><![CDATA[La lista de productos populares en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?action=popularproducts&amp;categoryid=672&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-02-15T15:16:21Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:32:17Z</published>
+		<updated>2014-01-21T13:32:17Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Coj%C3%ADn-Decorativo-Salamanca.html" />
+		<id>http://intima.com.mx/products/Coj%C3%ADn-Decorativo-Salamanca.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cojín Decorativo Salamanca]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Coj%C3%ADn-Decorativo-Salamanca.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Coj%C3%ADn-Decorativo-Salamanca.html"  ><img src="http://intima.com.mx/product_images/w/811/280_Imagen1__08706_thumb.jpg" alt="Cojín Decorativo Salamanca" /></a></div><p><strong>Precio: $242.44</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2104]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/w/811/280_Imagen1__08706_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/c/844/280_Imagen1__86118_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$242.44]]></isc:price>
+	</entry>
+</feed>

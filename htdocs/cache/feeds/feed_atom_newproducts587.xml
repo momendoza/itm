@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Nuevos Productos - Colchonetas]]></title>
+	<subtitle type="html"><![CDATA[La lista de nuevos productos en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://www.intima.com.mx/rss.php?categoryid=587&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-02-21T05:31:02Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:33:06Z</published>
+		<updated>2014-01-21T13:33:06Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Colchoneta-Lux.html" />
+		<id>http://intima.com.mx/products/Colchoneta-Lux.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Colchoneta Lux]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Colchoneta-Lux.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Colchoneta-Lux.html"  ><img src="http://intima.com.mx/product_images/m/504/313_Imagen1__53948_thumb.jpg" alt="Colchoneta Lux" /></a></div>Tela: 100% algodón.<p><strong>Precio: $479.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Tela: 100% algodón.]]></isc:description>
+		<isc:productid><![CDATA[2161]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/m/504/313_Imagen1__53948_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/u/338/313_Imagen1__35972_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$479.00]]></isc:price>
+	</entry>
+</feed>

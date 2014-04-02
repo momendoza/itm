@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Productos Populares]]></title>
+	<subtitle type="html"><![CDATA[La lista de productos populares en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?action=popularproducts&amp;categoryid=588&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-03-07T09:39:05Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:32:18Z</published>
+		<updated>2014-01-21T13:32:18Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Coj%C3%ADn-Marie-Ternura.html" />
+		<id>http://intima.com.mx/products/Coj%C3%ADn-Marie-Ternura.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cojín Marie Ternura]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Coj%C3%ADn-Marie-Ternura.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Coj%C3%ADn-Marie-Ternura.html"  ><img src="http://intima.com.mx/product_images/i/299/287_Imagen1__48279_thumb.jpg" alt="Cojín Marie Ternura" /></a></div>Tela: 50% algodón y 50% poliéster.<p><strong>Precio: $255.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Tela: 50% algodón y 50% poliéster.]]></isc:description>
+		<isc:productid><![CDATA[2106]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/i/299/287_Imagen1__48279_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/f/111/287_Imagen1__50851_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$255.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:32:19Z</published>
+		<updated>2014-01-21T13:32:19Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Coj%C3%ADn-Patricio.html" />
+		<id>http://intima.com.mx/products/Coj%C3%ADn-Patricio.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cojín Patricio]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Coj%C3%ADn-Patricio.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Coj%C3%ADn-Patricio.html"  ><img src="http://intima.com.mx/product_images/h/634/294_Imagen1__54549_thumb.jpg" alt="Cojín Patricio" /></a></div><p><strong>Precio: $299.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2109]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/h/634/294_Imagen1__54549_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/t/988/294_Imagen1__80645_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$299.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:32:19Z</published>
+		<updated>2014-01-21T13:32:19Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Coj%C3%ADn-Princesas-Glamour.html" />
+		<id>http://intima.com.mx/products/Coj%C3%ADn-Princesas-Glamour.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cojín Princesas Glamour]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Coj%C3%ADn-Princesas-Glamour.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Coj%C3%ADn-Princesas-Glamour.html"  ><img src="http://intima.com.mx/product_images/g/123/295_Imagen1__30936_thumb.jpg" alt="Cojín Princesas Glamour" /></a></div><p><strong>Precio: $255.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2110]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/g/123/295_Imagen1__30936_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/p/746/295_Imagen1__16217_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$255.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:32:19Z</published>
+		<updated>2014-01-21T13:32:19Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Coj%C3%ADn-Rayo-Audaz.html" />
+		<id>http://intima.com.mx/products/Coj%C3%ADn-Rayo-Audaz.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cojín Rayo Audaz]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Coj%C3%ADn-Rayo-Audaz.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Coj%C3%ADn-Rayo-Audaz.html"  ><img src="http://intima.com.mx/product_images/z/098/296_Imagen1__36081_thumb.jpg" alt="Cojín Rayo Audaz" /></a></div><p><strong>Precio: $285.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2111]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/z/098/296_Imagen1__36081_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/f/324/296_Imagen1__42571_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$285.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:32:19Z</published>
+		<updated>2014-01-21T13:32:19Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Coj%C3%ADn-Spider%252dMan-Peligro.html" />
+		<id>http://intima.com.mx/products/Coj%C3%ADn-Spider%252dMan-Peligro.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cojín Spider-Man Peligro]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Coj%C3%ADn-Spider%252dMan-Peligro.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Coj%C3%ADn-Spider%252dMan-Peligro.html"  ><img src="http://intima.com.mx/product_images/n/092/298_Imagen1__94657_thumb.jpg" alt="Cojín Spider-Man Peligro" /></a></div><p><strong>Precio: $285.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2112]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/n/092/298_Imagen1__94657_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/x/443/298_Imagen1__22844_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$285.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:33:01Z</published>
+		<updated>2014-01-21T13:33:01Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Coj%C3%ADn-Buzz-Fuego.html" />
+		<id>http://intima.com.mx/products/Coj%C3%ADn-Buzz-Fuego.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cojín Buzz Fuego]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Coj%C3%ADn-Buzz-Fuego.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Coj%C3%ADn-Buzz-Fuego.html"  ><img src="http://intima.com.mx/product_images/e/625/263_Imagen1__46292_thumb.jpg" alt="Cojín Buzz Fuego" /></a></div><p><strong>Precio: $285.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2147]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/e/625/263_Imagen1__46292_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/e/085/263_Imagen1__27393_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$285.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:33:01Z</published>
+		<updated>2014-01-21T13:33:01Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Coj%C3%ADn-Campanita-Floral.html" />
+		<id>http://intima.com.mx/products/Coj%C3%ADn-Campanita-Floral.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cojín Campanita Floral]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Coj%C3%ADn-Campanita-Floral.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Coj%C3%ADn-Campanita-Floral.html"  ><img src="http://intima.com.mx/product_images/p/688/264_Imagen1__91017_thumb.jpg" alt="Cojín Campanita Floral" /></a></div>Tela: 50% algodón y 50% poliéster.<p><strong>Precio: $255.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Tela: 50% algodón y 50% poliéster.]]></isc:description>
+		<isc:productid><![CDATA[2148]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/p/688/264_Imagen1__91017_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/y/692/264_Imagen1__14980_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$255.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:33:03Z</published>
+		<updated>2014-01-21T13:33:03Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Coj%C3%ADn-Dora-Amigos.html" />
+		<id>http://intima.com.mx/products/Coj%C3%ADn-Dora-Amigos.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cojín Dora Amigos]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Coj%C3%ADn-Dora-Amigos.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Coj%C3%ADn-Dora-Amigos.html"  ><img src="http://intima.com.mx/product_images/j/710/281_Imagen1__06952_thumb.jpg" alt="Cojín Dora Amigos" /></a></div><p><strong>Precio: $255.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2152]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/j/710/281_Imagen1__06952_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/x/522/281_Imagen1__29855_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$255.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:33:03Z</published>
+		<updated>2014-01-21T13:33:03Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Coj%C3%ADn-Kitty-Pastelito.html" />
+		<id>http://intima.com.mx/products/Coj%C3%ADn-Kitty-Pastelito.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cojín Kitty Pastelito]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Coj%C3%ADn-Kitty-Pastelito.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Coj%C3%ADn-Kitty-Pastelito.html"  ><img src="http://intima.com.mx/product_images/t/644/285_Imagen1__35288_thumb.jpg" alt="Cojín Kitty Pastelito" /></a></div><p><strong>Precio: $299.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2154]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/t/644/285_Imagen1__35288_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/j/805/285_Imagen1__46681_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$299.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:33:03Z</published>
+		<updated>2014-01-21T13:33:03Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Coj%C3%ADn-Mickey-Mouse.html" />
+		<id>http://intima.com.mx/products/Coj%C3%ADn-Mickey-Mouse.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cojín Mickey Mouse]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Coj%C3%ADn-Mickey-Mouse.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Coj%C3%ADn-Mickey-Mouse.html"  ><img src="http://intima.com.mx/product_images/v/615/288_Imagen1__51589_thumb.jpg" alt="Cojín Mickey Mouse" /></a></div><p><strong>Precio: $285.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2155]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/v/615/288_Imagen1__51589_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/v/192/288_Imagen1__31560_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$285.00]]></isc:price>
+	</entry>
+</feed>

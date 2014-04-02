@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Nuevos Productos - Bebé]]></title>
+	<subtitle type="html"><![CDATA[La lista de nuevos productos en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?categoryid=612&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-03-19T17:55:16Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:38:45Z</published>
+		<updated>2014-01-21T13:38:45Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Fantas%C3%ADa.html" />
+		<id>http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Fantas%C3%ADa.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Galería para Ventana Fantasía]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Fantas%C3%ADa.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Fantas%C3%ADa.html"  ><img src="http://intima.com.mx/product_images/d/107/520_Imagen1__96300_thumb.jpg" alt="Galería para Ventana Fantasía" /></a></div><p><strong>Precio: $149.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2376]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/d/107/520_Imagen1__96300_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/h/940/520_Imagen1__32510_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$149.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:38:25Z</published>
+		<updated>2014-01-21T13:38:25Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Dany.html" />
+		<id>http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Dany.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Galería para Ventana Dany]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Dany.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Dany.html"  ><img src="http://intima.com.mx/product_images/m/643/519_Imagen1__99131_thumb.jpg" alt="Galería para Ventana Dany" /></a></div><p><strong>Precio: $149.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2354]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/m/643/519_Imagen1__99131_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/y/529/519_Imagen1__73104_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$149.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:38:24Z</published>
+		<updated>2014-01-21T13:38:24Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Andy.html" />
+		<id>http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Andy.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Galería para Ventana Andy]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Andy.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Andy.html"  ><img src="http://intima.com.mx/product_images/i/886/517_Imagen1__93865_thumb.jpg" alt="Galería para Ventana Andy" /></a></div><p><strong>Precio: $149.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2353]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/i/886/517_Imagen1__93865_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/m/181/517_Imagen1__60967_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$149.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:37:21Z</published>
+		<updated>2014-01-21T13:37:21Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Natalia.html" />
+		<id>http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Natalia.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Galería para Ventana Natalia]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Natalia.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Natalia.html"  ><img src="http://intima.com.mx/product_images/g/384/523_Imagen1__75484_thumb.jpg" alt="Galería para Ventana Natalia" /></a></div><p><strong>Precio: $149.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2320]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/g/384/523_Imagen1__75484_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/p/677/523_Imagen1__96188_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$149.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:37:21Z</published>
+		<updated>2014-01-21T13:37:21Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Hello-Kitty-Caramelo.html" />
+		<id>http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Hello-Kitty-Caramelo.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Galería para Ventana Hello Kitty Caramelo]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Hello-Kitty-Caramelo.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Hello-Kitty-Caramelo.html"  ><img src="http://intima.com.mx/product_images/v/996/521_Imagen1__59115_thumb.jpg" alt="Galería para Ventana Hello Kitty Caramelo" /></a></div><p><strong>Precio: $165.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2319]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/v/996/521_Imagen1__59115_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/s/818/521_Imagen1__11832_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$165.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:36:52Z</published>
+		<updated>2014-01-21T13:36:52Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Paulina.html" />
+		<id>http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Paulina.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Galería para Ventana Paulina]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Paulina.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Paulina.html"  ><img src="http://intima.com.mx/product_images/y/092/524_Imagen1__99576_thumb.jpg" alt="Galería para Ventana Paulina" /></a></div><p><strong>Precio: $149.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2314]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/y/092/524_Imagen1__99576_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/b/558/524_Imagen1__84482_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$149.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:36:15Z</published>
+		<updated>2014-01-21T13:36:15Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Sam.html" />
+		<id>http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Sam.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Galería para Ventana Sam]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Sam.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Sam.html"  ><img src="http://intima.com.mx/product_images/v/968/525_Imagen1__08922_thumb.jpg" alt="Galería para Ventana Sam" /></a></div><p><strong>Precio: $149.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2281]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/v/968/525_Imagen1__08922_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/u/314/525_Imagen1__69770_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$149.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:36:15Z</published>
+		<updated>2014-01-21T13:36:15Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Isabella.html" />
+		<id>http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Isabella.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Galería para Ventana Isabella]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Isabella.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Isabella.html"  ><img src="http://intima.com.mx/product_images/i/806/522_Imagen1__29422_thumb.jpg" alt="Galería para Ventana Isabella" /></a></div><p><strong>Precio: $149.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2280]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/i/806/522_Imagen1__29422_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/a/236/522_Imagen1__01377_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$149.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:36:14Z</published>
+		<updated>2014-01-21T13:36:14Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Baby-Friends.html" />
+		<id>http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Baby-Friends.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Galería para Ventana Baby Friends]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Baby-Friends.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Galer%C3%ADa-para-Ventana-Baby-Friends.html"  ><img src="http://intima.com.mx/product_images/s/504/518_Imagen1__44253_thumb.jpg" alt="Galería para Ventana Baby Friends" /></a></div><p><strong>Precio: $165.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[]]></isc:description>
+		<isc:productid><![CDATA[2279]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/s/504/518_Imagen1__44253_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/f/291/518_Imagen1__67247_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$165.00]]></isc:price>
+	</entry>
+</feed>

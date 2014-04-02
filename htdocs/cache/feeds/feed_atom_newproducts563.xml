@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Nuevos Productos - Cobertores]]></title>
+	<subtitle type="html"><![CDATA[La lista de nuevos productos en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://www.intima.com.mx/rss.php?categoryid=563&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-03-11T08:55:43Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:38:44Z</published>
+		<updated>2014-01-21T13:38:44Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Edrecobertor-Kofi.html" />
+		<id>http://intima.com.mx/products/Edrecobertor-Kofi.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Edrecobertor Kofi]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Edrecobertor-Kofi.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Edrecobertor-Kofi.html"  ><img src="http://intima.com.mx/product_images/n/945/481_Imagen1__25714_thumb.jpg" alt="Edrecobertor Kofi" /></a></div>Medida: 1,80 x 2,20 m<p><strong>Precio: $675.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Medida: 1,80 x 2,20 m]]></isc:description>
+		<isc:productid><![CDATA[2369]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/n/945/481_Imagen1__25714_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/c/800/481_Imagen1__01421_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$675.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:38:43Z</published>
+		<updated>2014-01-21T13:38:43Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Edrecobertor-Acanto.html" />
+		<id>http://intima.com.mx/products/Edrecobertor-Acanto.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Edrecobertor Acanto]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Edrecobertor-Acanto.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Edrecobertor-Acanto.html"  ><img src="http://intima.com.mx/product_images/y/544/478_Imagen1__29922_thumb.jpg" alt="Edrecobertor Acanto" /></a></div>Medida: 1,80 x 2,20 m<p><strong>Precio: $675.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Medida: 1,80 x 2,20 m]]></isc:description>
+		<isc:productid><![CDATA[2368]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/y/544/478_Imagen1__29922_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/a/672/478_Imagen1__99251_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$675.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:38:16Z</published>
+		<updated>2014-01-21T13:38:16Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Edrecobertor-Venecia.html" />
+		<id>http://intima.com.mx/products/Edrecobertor-Venecia.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Edrecobertor Venecia]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Edrecobertor-Venecia.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Edrecobertor-Venecia.html"  ><img src="http://intima.com.mx/product_images/s/192/483_Imagen1__41999_thumb.jpg" alt="Edrecobertor Venecia" /></a></div>Medida: 1,80 x 2,20 m<p><strong>Precio: $675.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Medida: 1,80 x 2,20 m]]></isc:description>
+		<isc:productid><![CDATA[2337]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/s/192/483_Imagen1__41999_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/j/847/483_Imagen1__99544_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$675.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:38:16Z</published>
+		<updated>2014-01-21T13:38:16Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Edrecobertor-Sfera.html" />
+		<id>http://intima.com.mx/products/Edrecobertor-Sfera.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Edrecobertor Sfera]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Edrecobertor-Sfera.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Edrecobertor-Sfera.html"  ><img src="http://intima.com.mx/product_images/t/360/482_Imagen1__24686_thumb.jpg" alt="Edrecobertor Sfera" /></a></div>Medida: 1,80 x 2,20 m<p><strong>Precio: $675.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Medida: 1,80 x 2,20 m]]></isc:description>
+		<isc:productid><![CDATA[2336]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/t/360/482_Imagen1__24686_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/s/179/482_Imagen1__78185_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$675.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:38:16Z</published>
+		<updated>2014-01-21T13:38:16Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Edrecobertor-Berry.html" />
+		<id>http://intima.com.mx/products/Edrecobertor-Berry.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Edrecobertor Berry]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Edrecobertor-Berry.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Edrecobertor-Berry.html"  ><img src="http://intima.com.mx/product_images/c/080/479_Imagen1__11900_thumb.jpg" alt="Edrecobertor Berry" /></a></div>Medida: 1,80 x 2,20 m<p><strong>Precio: $675.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Medida: 1,80 x 2,20 m]]></isc:description>
+		<isc:productid><![CDATA[2335]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/c/080/479_Imagen1__11900_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/a/535/479_Imagen1__82628_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$675.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:36:50Z</published>
+		<updated>2014-01-21T13:36:50Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Edrecobertor-Camer%C3%BAn.html" />
+		<id>http://intima.com.mx/products/Edrecobertor-Camer%C3%BAn.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Edrecobertor Camerún]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Edrecobertor-Camer%C3%BAn.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Edrecobertor-Camer%C3%BAn.html"  ><img src="http://intima.com.mx/product_images/v/766/480_Imagen1__04977_thumb.jpg" alt="Edrecobertor Camerún" /></a></div>Medida: 1,80 x 2,20 m<p><strong>Precio: $675.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Medida: 1,80 x 2,20 m]]></isc:description>
+		<isc:productid><![CDATA[2308]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/v/766/480_Imagen1__04977_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/e/272/480_Imagen1__17018_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$675.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:33:37Z</published>
+		<updated>2014-01-21T13:33:37Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cobertor-Fleece-Spider%252dMan-Sense.html" />
+		<id>http://intima.com.mx/products/Cobertor-Fleece-Spider%252dMan-Sense.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cobertor Fleece Spider-Man Sense]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cobertor-Fleece-Spider%252dMan-Sense.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cobertor-Fleece-Spider%252dMan-Sense.html"  ><img src="http://intima.com.mx/product_images/l/103/258_Imagen1__52993_thumb.jpg" alt="Cobertor Fleece Spider-Man Sense" /></a></div>Medida: 1,46 x 2,20 m<p><strong>Precio: $359.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Medida: 1,46 x 2,20 m]]></isc:description>
+		<isc:productid><![CDATA[2174]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/l/103/258_Imagen1__52993_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/p/964/258_Imagen1__01825_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$359.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:33:00Z</published>
+		<updated>2014-01-21T13:33:00Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cobertor-Fleece-Rayo-McQueen.html" />
+		<id>http://intima.com.mx/products/Cobertor-Fleece-Rayo-McQueen.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cobertor Fleece Rayo McQueen]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cobertor-Fleece-Rayo-McQueen.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cobertor-Fleece-Rayo-McQueen.html"  ><img src="http://intima.com.mx/product_images/b/410/256_Imagen1__22120_thumb.jpg" alt="Cobertor Fleece Rayo McQueen" /></a></div>Medida: 1,46 x 2,20 m<p><strong>Precio: $359.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Medida: 1,46 x 2,20 m]]></isc:description>
+		<isc:productid><![CDATA[2143]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/b/410/256_Imagen1__22120_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/i/607/256_Imagen1__08549_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$359.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:32:59Z</published>
+		<updated>2014-01-21T13:32:59Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cobertor-Fleece-Princesas-Encanto.html" />
+		<id>http://intima.com.mx/products/Cobertor-Fleece-Princesas-Encanto.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cobertor Fleece Princesas Encanto]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cobertor-Fleece-Princesas-Encanto.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cobertor-Fleece-Princesas-Encanto.html"  ><img src="http://intima.com.mx/product_images/f/685/255_Imagen1__17561_thumb.jpg" alt="Cobertor Fleece Princesas Encanto" /></a></div>Medida: 1,46 x 2,20 m<p><strong>Precio: $359.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Medida: 1,46 x 2,20 m]]></isc:description>
+		<isc:productid><![CDATA[2142]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/f/685/255_Imagen1__17561_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/b/983/255_Imagen1__03060_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$359.00]]></isc:price>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:32:59Z</published>
+		<updated>2014-01-21T13:32:59Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Cobertor-Fleece-Pretty-Marie.html" />
+		<id>http://intima.com.mx/products/Cobertor-Fleece-Pretty-Marie.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Cobertor Fleece Pretty Marie]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Cobertor-Fleece-Pretty-Marie.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Cobertor-Fleece-Pretty-Marie.html"  ><img src="http://intima.com.mx/product_images/e/855/254_Imagen1__17040_thumb.jpg" alt="Cobertor Fleece Pretty Marie" /></a></div>Medida: 1,46 x 2,20 m<p><strong>Precio: $359.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Medida: 1,46 x 2,20 m]]></isc:description>
+		<isc:productid><![CDATA[2141]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/e/855/254_Imagen1__17040_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/j/259/254_Imagen1__28670_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$359.00]]></isc:price>
+	</entry>
+</feed>

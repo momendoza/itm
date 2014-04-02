@@ -1,0 +1,27 @@
+    %%GLOBAL_OptimizerLinkScript%%    
+        
+        <div id="TopMenu">
+            <ul style="display:%%GLOBAL_HidePurchasingOptions%%" class="sf-menu">
+                %%SNIPPET_TopMenuGiftCertificates%%
+                <li style="display:%%GLOBAL_HideAccountOptions%%">
+                    <div>
+                        <p>Bienvenido %%GLOBAL_CustomerLoggedInFirstName%%%%GLOBAL_CustomerLoggedInLastName%%! &nbsp;&nbsp;&nbsp; %%GLOBAL_LoginOrLogoutText%%</p>
+                    </div>
+                    <ul>
+                        <li style="display:%%GLOBAL_HideAccountOptions%%" class="YourAccount"><a href="%%GLOBAL_ShopPath%%/account.php" title="%%LNG_YourAccount%%">%%LNG_YourAccount%%</a></li>
+                        <li style="display:%%GLOBAL_HideWishlist%%"><a href="%%GLOBAL_ShopPath%%/wishlist.php" title="%%LNG_YourWishList%%">%%LNG_YourWishList%%</a></li>
+                        <li style="display:%%GLOBAL_HideAccountOptions%%"><a href="%%GLOBAL_ShopPath%%/orderstatus.php" title="%%LNG_OrderStatus%%">%%LNG_OrderStatus%%</a></li>
+                    </ul>
+                </li>
+                <li style="display:%%GLOBAL_HideCartOptions%%" class="CartLink">
+                    <div>
+                        <p><a href="%%GLOBAL_ShopPathNormal%%/cart.php" title="%%LNG_ViewCart%%">%%LNG_ViewCart%% <span>%%GLOBAL_CartItems%%</span></a></p>
+                    </div>
+                </li>
+                
+                <li style="%%GLOBAL_LiveChatCodeEnabled%%" class="HeaderLiveChat">
+                    %%GLOBAL_LiveChatCode%%
+                </li>
+            </ul>
+        </div>
+

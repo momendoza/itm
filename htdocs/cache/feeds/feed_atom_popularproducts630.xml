@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Productos Populares]]></title>
+	<subtitle type="html"><![CDATA[La lista de productos populares en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?action=popularproducts&amp;categoryid=630&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-03-13T17:21:55Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:45:32Z</published>
+		<updated>2014-01-21T13:45:32Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Juego-de-Fundas-Mil%C3%A1n.html" />
+		<id>http://intima.com.mx/products/Juego-de-Fundas-Mil%C3%A1n.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Juego de Fundas Milán]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Juego-de-Fundas-Mil%C3%A1n.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Juego-de-Fundas-Mil%C3%A1n.html"  ><img src="http://intima.com.mx/product_images/t/796/778_Imagen1__90000_thumb.jpg" alt="Juego de Fundas Milán" /></a></div>Incluye: B) Funda para garrafón, C) Funda para licuadora, D) Funda para microondas chico 56.5 ancho x 32.5 alto x 50 cm profundidad. 6 colores.<p><strong>Precio: $329.00</strong> </p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Incluye: B) Funda para garrafón, C) Funda para licuadora, D) Funda para microondas chico 56.5 ancho x 32.5 alto x 50 cm profundidad. 6 colores.]]></isc:description>
+		<isc:productid><![CDATA[2645]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/t/796/778_Imagen1__90000_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/b/370/778_Imagen1__31137_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$329.00]]></isc:price>
+	</entry>
+</feed>

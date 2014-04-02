@@ -1,0 +1,169 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/">
+%%Panel.HTMLHead%%
+<body>
+    <script type="text/javascript" src="%%GLOBAL_AppPath%%/javascript/product.functions.js?%%GLOBAL_JSCacheToken%%"></script>
+    <script type="text/javascript" src="%%GLOBAL_AppPath%%/javascript/product.js?%%GLOBAL_JSCacheToken%%"></script>
+    <script src="%%GLOBAL_ShopPath%%/templates/ArtFraming/plugins/jquery/js/jquery-ui-1.8.21.custom.min.js?%%GLOBAL_JSCacheToken%%"></script>
+    <script type="text/javascript">
+       // jQuery.Accordion
+       $(document).ready(function() {
+           $("#accordion").accordion({
+               header: "h3",
+               collapsible: true,
+               autoHeight: false
+           });
+       });
+    </script>
+
+    <div id="Container">
+    %%Panel.Header%%
+
+    <div id="Wrapper">
+        %%Panel.ProductBreadcrumb%%
+        %%Panel.WrapperBanner%%
+        <div class="inner-cols-wrapper">
+            <div class="inner-col-2cols-equal-product CategCobertores">
+                %%GLOBAL_FacebookLikeButtonAbove%%
+                %%Panel.ProductDetails%%
+                %%GLOBAL_FacebookLikeButtonBelow%%
+                %%Panel.ProductReviews%%
+                %%Panel.ProductByCategory%%
+                %%Panel.ProductVendorsOtherProducts%%
+            </div>
+            <div class="inner-col-2cols-equal-product">
+                <div class="ProductMain">
+                    <!--%%SNIPPET_ProductAddToCart%%-->
+                    %%Panel._InnerProductAddToWishList%%
+                    %%GLOBAL_AddThisLink%%
+                    <div class="ProductDetailsGrid full-rounded">
+                        <div class="DetailRow RetailPrice" style="display: %%GLOBAL_HideRRP%%">
+                            <div class="Label">%%LNG_RRP%%:</div>
+                            <div class="Value">
+                                %%GLOBAL_RetailPrice%%
+                            </div>
+                        </div>
+                        
+                        <div class="DetailRow" style="%%GLOBAL_HidePrice%%">
+                            <div class="Label">%%GLOBAL_PriceLabel%%:</div>
+                            <div class="Value">
+                                <em class="ProductPrice VariationProductPrice">%%GLOBAL_ProductPrice%%</em>
+                                %%GLOBAL_IncludingExcludingTax%% %%GLOBAL_YouSave%%
+                            </div>
+                        </div>
+                        
+                        <div class="DetailRow ProductSKU" style="display: %%GLOBAL_HideSKU%%">
+                            <div class="Label">%%LNG_SKU%%:</div>
+                            <div class="Value">
+                                <span class="VariationProductSKU">
+                                    %%GLOBAL_SKU%%
+                                </span>
+                            </div>
+                        </div>
+                        
+                        <div class="DetailRow" style="%%GLOBAL_HideVendorDetails%%">
+                            <div class="Label">%%LNG_Vendor%%:</div>
+                            <div class="Value">
+                                %%GLOBAL_VendorName%%
+                            </div>
+                        </div>
+                        
+                        <div class="DetailRow" style="display: %%GLOBAL_HideBrandLink%%">
+                            <div class="Label">%%LNG_Brand%%:</div>
+                            <div class="Value">
+                                <a href="%%GLOBAL_BrandLink%%">%%GLOBAL_BrandName%%</a>
+                            </div>
+                        </div>
+                        
+                        <div class="DetailRow" style="display: %%GLOBAL_HideCondition%%">
+                            <div class="Label">%%LNG_Condition%%:</div>
+                            <div class="Value">
+                                %%GLOBAL_ProductCondition%%
+                            </div>
+                        </div>
+                        
+                        <div class="DetailRow" style="display: %%GLOBAL_HideWeight%%">
+                            <div class="Label">%%LNG_Weight%%:</div>
+                            <div class="Value">
+                                <span class="VariationProductWeight">
+                                    %%GLOBAL_ProductWeight%%
+                                </span>
+                            </div>
+                        </div>
+                        
+                        <div class="DetailRow" style="display: %%GLOBAL_HideRating%%">
+                            <div class="Label">%%LNG_Rating%%:</div>
+                            <div class="Value">
+                                <img width="64" height="12" src="%%GLOBAL_IMG_PATH%%/IcoRating%%GLOBAL_Rating%%.gif" alt="" />
+                                <br />
+                                <span style="display:%%GLOBAL_HideReviewLink%%">(
+                                    <a href="#reviews" onclick="%%GLOBAL_ReviewLinkOnClick%%">
+                                        %%GLOBAL_ReviewLinkText%%
+                                    </a>
+                                    )</span>
+                            </div>
+                        </div>
+                        
+                        <div class="DetailRow" style="display: %%GLOBAL_HideAvailability%%">
+                            <div class="Label">%%LNG_Availability%%:</div>
+                            <div class="Value">
+                                %%GLOBAL_Availability%%
+                            </div>
+                        </div>
+                        
+                        <div class="DetailRow" style="display: %%GLOBAL_HideShipping%%">
+                            <div class="Label">%%LNG_Shipping%%:</div>
+                            <div class="Value">
+                                %%GLOBAL_ShippingPrice%%
+                            </div>
+                        </div>
+                        
+                        <div class="DetailRow" style="%%GLOBAL_HideMinQty%%">
+                            <div class="Label">%%LNG_ProductMinQty%%:</div>
+                            <div class="Value">
+                                %%GLOBAL_MinQty%% %%LNG_units%%
+                            </div>
+                        </div>
+                        
+                        <div class="DetailRow" style="%%GLOBAL_HideMaxQty%%">
+                            <div class="Label">%%LNG_ProductMaxQty%%:</div>
+                            <div class="Value">
+                                %%GLOBAL_MaxQty%% %%LNG_units%%
+                            </div>
+                        </div>
+                        
+                        <div class="DetailRow InventoryLevel" style="%%GLOBAL_HideCurrentStock%%">
+                            <div class="Label">%%GLOBAL_CurrentStockLabel%%:</div>
+                            <div class="Value">
+                                <span class="VariationProductInventory">
+                                    %%GLOBAL_InventoryList%%
+                                </span>
+                            </div>
+                        </div>
+                        
+                        <div class="DetailRow" style="%%GLOBAL_HideGiftWrapMessage%%">
+                            <div class="Label">%%LNG_GiftWrapping%%:</div>
+                            <div class="Value">
+                                %%GLOBAL_GiftWrappingAvailable%%
+                            </div>
+                        </div>
+                        %%SNIPPET_ProductExpectedReleaseDate%%
+                    </div>
+                </div>
+                %%Panel.ProductTabs%%
+                <div id="accordion">
+                    %%Panel.ProductDescription%%
+                    %%Panel.ProductWarranty%%
+                    %%Panel.ProductOtherDetails%%
+                    %%Panel.ProductVideos%%
+                </div>
+                %%Panel.SimilarProductsByTag%%
+                %%Panel.SimilarProductsByCustomerViews%%
+            </div>
+        </div>
+        <br class="Clear" />
+    </div>
+    %%Panel.Footer%%
+    </div>
+</body>
+</html>

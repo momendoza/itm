@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:isc="http://dtd.interspire.com/rss/isc-1.0.dtd">
+	<title type="html"><![CDATA[Intima Hogar: Productos Populares]]></title>
+	<subtitle type="html"><![CDATA[La lista de productos populares en Intima Hogar.]]></subtitle>
+	<link rel="self" href="http://intima.com.mx/rss.php?action=popularproducts&amp;categoryid=636&amp;type=atom" />
+	<id>http://intima.com.mx</id>
+	<updated>2014-02-07T16:47:00Z</updated>
+			<isc:store_title><![CDATA[Intima Hogar]]></isc:store_title>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:46:23Z</published>
+		<updated>2014-01-21T13:46:23Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Poncho-Campanita-Encantada.html" />
+		<id>http://intima.com.mx/products/Poncho-Campanita-Encantada.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Poncho Campanita Encantada]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Poncho-Campanita-Encantada.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Poncho-Campanita-Encantada.html"  ><img src="http://intima.com.mx/product_images/i/339/949_Imagen1__22805_thumb.jpg" alt="Poncho Campanita Encantada" /></a></div>Composición: 100% algodón.<p><strong>Precio: $345.00</strong> <img src="http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición: 100% algodón.]]></isc:description>
+		<isc:productid><![CDATA[2687]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/i/339/949_Imagen1__22805_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/q/571/949_Imagen1__45517_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$345.00]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:47:29Z</published>
+		<updated>2014-01-21T13:47:29Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Poncho-Buz-Space-Sheriff.html" />
+		<id>http://intima.com.mx/products/Poncho-Buz-Space-Sheriff.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Poncho Buz Space Sheriff]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Poncho-Buz-Space-Sheriff.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Poncho-Buz-Space-Sheriff.html"  ><img src="http://intima.com.mx/product_images/j/410/948_Imagen1__62560_thumb.jpg" alt="Poncho Buz Space Sheriff" /></a></div>Composición: 100% algodón.<p><strong>Precio: $345.00</strong> <img src="http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición: 100% algodón.]]></isc:description>
+		<isc:productid><![CDATA[2740]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/j/410/948_Imagen1__62560_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/q/111/948_Imagen1__22319_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$345.00]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:48:19Z</published>
+		<updated>2014-01-21T13:48:19Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Poncho-Hello-Kitty.html" />
+		<id>http://intima.com.mx/products/Poncho-Hello-Kitty.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Poncho Hello Kitty]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Poncho-Hello-Kitty.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Poncho-Hello-Kitty.html"  ><img src="http://intima.com.mx/product_images/y/230/951_Imagen1__39765_thumb.jpg" alt="Poncho Hello Kitty" /></a></div>Composición: 100% algodón terciopelo, estampado, con aplicación al frente.<p><strong>Precio: $345.00</strong> <img src="http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición: 100% algodón terciopelo, estampado, con aplicación al frente.]]></isc:description>
+		<isc:productid><![CDATA[2764]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/y/230/951_Imagen1__39765_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/m/009/951_Imagen1__07326_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$345.00]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:48:39Z</published>
+		<updated>2014-01-21T13:48:39Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Poncho-Cars-2.html" />
+		<id>http://intima.com.mx/products/Poncho-Cars-2.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Poncho Cars 2]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Poncho-Cars-2.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Poncho-Cars-2.html"  ><img src="http://intima.com.mx/product_images/h/820/950_Imagen1__63052_thumb.jpg" alt="Poncho Cars 2" /></a></div>Composición: 100% algodón terciopelo, estampado, con aplicación al frente.<p><strong>Precio: $345.00</strong> <img src="http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición: 100% algodón terciopelo, estampado, con aplicación al frente.]]></isc:description>
+		<isc:productid><![CDATA[2777]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/h/820/950_Imagen1__63052_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/r/869/950_Imagen1__92467_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$345.00]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:49:14Z</published>
+		<updated>2014-01-21T13:49:14Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Poncho-Princesas-M%C3%A1gicas.html" />
+		<id>http://intima.com.mx/products/Poncho-Princesas-M%C3%A1gicas.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Poncho Princesas Mágicas]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Poncho-Princesas-M%C3%A1gicas.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Poncho-Princesas-M%C3%A1gicas.html"  ><img src="http://intima.com.mx/product_images/p/524/952_Imagen1__96591_thumb.jpg" alt="Poncho Princesas Mágicas" /></a></div>Composición: 100% algodón.<p><strong>Precio: $345.00</strong> <img src="http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición: 100% algodón.]]></isc:description>
+		<isc:productid><![CDATA[2785]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/p/524/952_Imagen1__96591_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/f/753/952_Imagen1__28723_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$345.00]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+	<entry xmlns="http://www.w3.org/2005/Atom">
+		<published>2014-01-21T13:50:51Z</published>
+		<updated>2014-01-21T13:50:51Z</updated>
+		<link rel="alternate" type="text/html" href="http://intima.com.mx/products/Poncho-Spider%252dMan-Ultimate.html" />
+		<id>http://intima.com.mx/products/Poncho-Spider%252dMan-Ultimate.html</id>
+		<title type="html" xml:space="preserve"><![CDATA[Poncho Spider-Man Ultimate]]></title>
+		<content type="html" xml:space="preserve" xml:base="http://intima.com.mx/products/Poncho-Spider%252dMan-Ultimate.html"><![CDATA[<div style='float: right; padding: 10px;'><a href="http://intima.com.mx/products/Poncho-Spider%252dMan-Ultimate.html"  ><img src="http://intima.com.mx/product_images/o/550/953_Imagen1__71237_thumb.jpg" alt="Poncho Spider-Man Ultimate" /></a></div>Composición: 100% algodón terciopelo, estampado, con aplicación al frente.<p><strong>Precio: $345.00</strong> <img src="http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif" alt="" /></p>]]></content>
+		<draft xmlns="http://purl.org/atom-blog/ns#">false</draft>
+		<isc:description><![CDATA[Composición: 100% algodón terciopelo, estampado, con aplicación al frente.]]></isc:description>
+		<isc:productid><![CDATA[2867]]></isc:productid>
+		<isc:thumb><![CDATA[http://intima.com.mx/product_images/o/550/953_Imagen1__71237_thumb.jpg]]></isc:thumb>
+		<isc:image><![CDATA[http://intima.com.mx/product_images/h/012/953_Imagen1__53163_zoom.jpg]]></isc:image>
+		<isc:price><![CDATA[$345.00]]></isc:price>
+		<isc:rating><![CDATA[0]]></isc:rating>
+		<isc:rating_image><![CDATA[http://intima.com.mx/templates/ArtFraming/images/IcoRating0.gif]]></isc:rating_image>
+	</entry>
+</feed>

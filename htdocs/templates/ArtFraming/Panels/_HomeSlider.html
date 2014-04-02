@@ -1,0 +1,86 @@
+<script type="text/javascript" src="%%GLOBAL_ShopPath%%/templates/ArtFraming/plugins/anythingslider/js/jquery.anythingslider.js?%%GLOBAL_JSCacheToken%%"></script>
+<script type="text/javascript">
+        var updateCaption = function(slider){
+            var cap = slider.$currentPage.find('.caption').html();
+            $('#current-caption')
+                .html(cap)
+                .fadeIn(200);
+        };
+        
+        $(function () {
+            // jQuery.AnythingSlider
+            $('#slider').anythingSlider({
+                theme: 'intima',
+                autoPlay: true,
+                buildNavigation: false,
+                buildStartStop: false,
+                startPanel: 1,
+                infiniteSlides: true,
+                pauseOnHover: true,
+                delay: 5000,
+                easing: "swing",
+                hashTags: false,
+
+                // *********** Callbacks ***********
+                // Callback when the plugin finished initializing
+                onInitialized: function(e, slider) { updateCaption(slider); },
+                
+                // Callback before slide animates
+                onSlideBegin: function(e, slider) {
+                    $('#current-caption').fadeOut(200);
+                },
+                
+                // Callback when slide completes - no event variable!
+                onSlideComplete: function(slider) { updateCaption(slider); }
+
+            });
+            
+        });
+        
+
+        $(function(){
+            $('#slider')
+            .anythingSlider()
+            /* this "custom" code is the equivalent of the base caption functions */
+            .anythingSliderFx({
+                inFx: {
+                    '.caption-top'    : { top: 0, opacity: 0.8, duration: 400 },
+                    '.caption-right'  : { right: 0, opacity: 0.8, duration: 400 },
+                    '.caption-bottom' : { bottom: 0, opacity: 0.8, duration: 400 },
+                    '.caption-left'   : { left: 0, opacity: 0.8, duration: 400 }
+                },
+                outFx: {
+                    '.caption-top'    : { top: -50, opacity: 0, duration: 350 },
+                    '.caption-right'  : { right: -150, opacity: 0, duration: 350 },
+                    '.caption-bottom' : { bottom: -50, opacity: 0, duration: 350 },
+                    '.caption-left'   : { left: -150, opacity: 0, duration: 350 }
+                }
+            })
+            /* add a close button (x) to the caption */
+            .find('div[class*=caption]')
+            .css({ position: 'absolute' })
+            .prepend('<span class="close">x</span>')
+            .find('.close').click(function(){
+                var cap = $(this).parent(),
+                ani = { bottom : -50 }; // bottom
+                if (cap.is('.caption-top')) { ani = { top: -50 }; }
+                if (cap.is('.caption-left')) { ani = { left: -150 }; }
+                if (cap.is('.caption-right')) { ani = { right: -150 }; }
+                cap.animate(ani, 400, function(){ cap.hide(); } );
+            });
+        });
+
+        </script>
+
+<ul id="slider">
+    <li><a href="http://intima.com.mx/templates/ArtFraming/catalogos/catalogo2014ok/" target="_blank"><img src="%%GLOBAL_ShopPath%%/product_images/uploaded_images/web-1.jpg" alt="" border="0"></a></li>
+    <li><a href="#" target="_blank"><img src="http://www.intima.com.mx/product_images/uploaded_images/web-2.jpg" alt="" border="0"></a></li>
+    <li><a href="/pages/Comerciales-TV.html" target="_self"><img src="%%GLOBAL_ShopPath%%/product_images/uploaded_images/slider-videos.jpg" alt="" border="0"></a></li>
+    <li><img src="%%GLOBAL_ShopPath%%/product_images/uploaded_images/ima2.jpg" alt=""></li>
+    <li><img src="%%GLOBAL_ShopPath%%/product_images/uploaded_images/ima3.jpg" alt=""></li>
+    <li><img src="%%GLOBAL_ShopPath%%/product_images/uploaded_images/ima4.jpg" alt=""></li>
+    <li><img src="%%GLOBAL_ShopPath%%/product_images/uploaded_images/ima5.jpg" alt=""></li>
+    <li><img src="%%GLOBAL_ShopPath%%/product_images/uploaded_images/ima6.jpg" alt=""></li>
+
+    
+</ul>
