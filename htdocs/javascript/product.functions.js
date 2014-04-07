@@ -185,7 +185,19 @@ function ChangeLayerImage(parent, variation, id) {
 	else {
 		$('.ProductThumbImage img', parent).attr('src', baseProduct.thumb);
 		$(parent).attr('currentVariation', '');
-		$(parent).attr('currentVariationImage', '')
+		$(parent).attr('currentVariationImage', '');
+	}
+}
+
+function ChangeLayerImageRadio(variation){
+	if(variation.thumb != '') {
+		$('.ProductThumbImage img').attr('src', variation.std);
+		$('.ProductThumbImage img').css('width', '100%');
+		$('.ProductThumbImage img').css('height', '100%');
+		$('.ProductTinyImageList img').attr('src', variation.thumb);
+		$('.ProductThumbImage a').attr("href", variation.zoom);
+		$('.ProductPrice').html(variation.price);
+		$('.VariationProductSKU').html(variation.sku);
 	}
 }
 

@@ -190,17 +190,14 @@ $(document).ready(function() {
 		
 		// request values for this option
 		$.getJSON(
-			config.AppPath + '/remote.php?w=GetVariationOptions&productId=' + productId + '&options=' + optionId + '&selections=' + selections.toString()+ '&modifiers=' + modifiers.toString(),
+			config.AppPath + '/remote.php?w=GetVariationOptions&productId=' + productId + '&options=' + optionId + '&selections=' + selections.toString()+ '&modifiers=' + modifiers.toString()+ '&type=radio',
+			
 			function(data) {
-                                console.log("Esto tiene data");
-                                console.log(data);
-				if (data.comboFound) { // was a combination found instead?
-					console.log("Estas en el if");
-					// display price, image etc
-					updateSelectedVariation($('body'), data, data.combinationid);
-					ChangeLayerImage($('body'), data, data.combinationid);
-					// REQ10046 - Se manda el elemento stockDetail de data, que contiene los detalles de inventario por sucursal
-					updateProductDetailStock(data.stockDetail);
+                console.log(data);
+				if (data.hasOptions) { // was a combination found instead?
+
+					ChangeLayerImageRadio(data);
+					
 				}
 			}
 		);

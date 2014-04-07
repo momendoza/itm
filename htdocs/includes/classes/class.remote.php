@@ -113,7 +113,7 @@
 		private function GetStoreOriginOptions(){
 			$stores = getStoreOriginOptions();
 
-			$options = '<option value="">—Favor de elegir una opción --</option>'.PHP_EOL;
+			$options = '<option value="">���Favor de elegir una opci��n --</option>'.PHP_EOL;
 			if(trim($stores) != '') {
 				foreach(explode(',', $stores) as $store){
 					$options .= '<option value="'.$store.'">'.$store.'</option>'.PHP_EOL;
@@ -163,7 +163,7 @@
 		 */
 		public function ProductRefreshStock($productCode = false, $outputJSON = false) {
 
-			// Si se llama desde el boton, no tenemos SKU, así que lo consultamos con productID y Options
+			// Si se llama desde el boton, no tenemos SKU, as�� que lo consultamos con productID y Options
 			if(!$productCode) {
 				if(!isset($_REQUEST['productId']) || !isset($_REQUEST['options'])){
 					$out = array(
@@ -1372,11 +1372,9 @@
 		}
 
 		private function ProcessCombinationImage($productId, $selections_concat, $modifiers_concat) {
-			$query_layers = "SELECT layerid, option_name, filename FROM s32_product_image_layers WHERE productid = ".$productId;
+			$query_layers = "SELECT layerid, option_name, filename FROM [|PREFIX|]product_image_layers WHERE productid = ".$productId;
 			$result_layers = $GLOBALS['ISC_CLASS_DB']->Query($query_layers);
 		
-			error_log("::::::::Query layer:::::::");
-			error_log(print_r($query_layers, true));
 	
 			$layers = array();
 			while ($row_layers = $GLOBALS['ISC_CLASS_DB']->Fetch($result_layers)) {
@@ -1411,7 +1409,7 @@
 
 			if(!file_exists($combination_image)) {
 			
-				$imagefile = $GLOBALS['ISC_CLASS_DB']->FetchOne('SELECT imagefile FROM s32_product_images WHERE imageprodid = '.$productId, 'imagefile');
+				$imagefile = $GLOBALS['ISC_CLASS_DB']->FetchOne('SELECT imagefile FROM [|PREFIX|]product_images WHERE imageprodid = '.$productId, 'imagefile');
 				
 				copy(ISC_BASE_PATH.'/'.GetConfig('ImageDirectory').'/'.$imagefile, $combination_image);
 				chmod($combination_image, 0664);
@@ -1433,6 +1431,48 @@
 			$return['std'] = GetConfig('ShopPath').'/'.GetConfig('ImageDirectory').'/combination_images/'.$productId.'/std-'.$selectionIDs.'-'.$modifiers_concat.'.png';
 			$return['zoom'] = GetConfig('ShopPath').'/'.GetConfig('ImageDirectory').'/combination_images/'.$productId.'/'.$selectionIDs.'-'.$modifiers_concat.'.png'; 
 		
+			return $return;
+		}
+		
+		private function ProcessCombinationImageRadio($productId, $optionId){
+			//Es posible que esta consulta no sea necesaria, investigar cual es el motivo que de se dupliquen los registros
+			$query = "SELECT prodvariationid FROM [|PREFIX|]products WHERE productid = '$productId' ";
+			$result =$GLOBALS['ISC_CLASS_DB']->query($query);
+			$product = $GLOBALS['ISC_CLASS_DB']->fetch($result);
+			$prodvariationid = $product['prodvariationid'];
+			
+			
+			$query = "SELECT vcoptionids, vcimagestd, vcimagezoom, vcimagethumb, vcsku, vcprice ";
+			$query.= "FROM [|PREFIX|]product_variation_combinations ";
+			$query.= "WHERE vcproductid='$productId' AND vcvariationid='$prodvariationid' AND vcenabled = 1 AND vcimagestd <> '' ";
+			
+			$result =$GLOBALS['ISC_CLASS_DB']->query($query);
+			$return= array();
+			$return['hasOptions'] =false;
+			$return['options'] = '';
+			
+			while($option = $GLOBALS['ISC_CLASS_DB']->fetch($result)) {
+				 $idOption[0] = explode(",", $option['vcoptionids']);
+				
+				 
+				 if($idOption[0][0] == $optionId){
+		 		 	$return['std'] = GetConfig('ShopPath').'/'.GetConfig('ImageDirectory').'/'.$option['vcimagestd'];
+				 	$return['zoom'] = GetConfig('ShopPath').'/'.GetConfig('ImageDirectory').'/'.$option['vcimagezoom'];
+				 	$return['thumb'] = GetConfig('ShopPath').'/'.GetConfig('ImageDirectory').'/'.$option['vcimagethumb'];
+				 	$return['sku']=$option['vcsku'];
+				 	$return['price']= formatPrice($option['vcprice']);
+				 	$return['hasOptions'] =true;
+				 	
+				 	$query 	= "SELECT vovalue ";
+				 	$query.= "FROM [|PREFIX|]product_variation_options ";
+				 	$query.= "WHERE voptionid ='$optionId'";
+				 	$result = $GLOBALS['ISC_CLASS_DB']->query($query);
+				 	$pvo = $GLOBALS['ISC_CLASS_DB']->fetch($result);
+				 	
+				 	$return['options'] = $pvo['vovalue'];
+				 } 
+			}
+			
 			return $return;
 		}
 		
@@ -1475,40 +1515,33 @@
 			// according to the voname.
 
 			$query = "SELECT prodvariationid, vnumoptions ";
-			$query.= "FROM s32_products p ";
-			$query.= "JOIN s32_product_variations v ON (v.variationid=p.prodvariationid) ";
+			$query.= "FROM [|PREFIX|]products p ";
+			$query.= "JOIN [|PREFIX|]product_variations v ON (v.variationid=p.prodvariationid) ";
 			$query.= "WHERE p.productid='$productId'";
 
-			error_log(print_r($query, true));
-			
-			error_log(print_r($GLOBALS['ISC_CLASS_DB'], true));
-
 			$result =$GLOBALS['ISC_CLASS_DB']->query($query);
-			error_log("Esto tiene result:::");
-			error_log(print_r($result, true));
 
 			$product = $GLOBALS['ISC_CLASS_DB']->fetch($result);
 			
-			error_log("El producto no es valido::::");
-			error_log(print_r($product, true));
 			//  product variation, or product doesn't have a variation
 			if(empty($product)) {
 				exit;
 			}
 			
-			//if($_GET['selections'] != '' || $_GET['modifiers'] != '') {
+			if($_GET['selections'] != '' || $_GET['modifiers'] != '') {
 				$selections = $_GET['selections'];
 				$modifiers = $_GET['modifiers'];
 				
 				$LayerImage = $this->ProcessCombinationImage($productId, $selections, $modifiers);
-				error_log("Layer image:::::");
-				error_log(print_r($LayerImage , true));
-			//}			
+
+			}else if($_GET['type'] =='radio'){
+				$result = $this->ProcessCombinationImageRadio($productId, $optionIds);
+				echo isc_json_encode($result);
+				exit;
+			}		
 			
 			// If we received the number of options the variation has in, then the customer
 			// has selected an entire row. Find that row.
-			error_log("Esto tiene vnum options::::");
-			error_log(print_r($product['vnumoptions'], true));
 			if(count($optionIdsArray) == $product['vnumoptions']) {
 				$setMatches = array();
 				foreach($optionIdsArray as $optionId) {
@@ -1516,18 +1549,15 @@
 				}
 				$query = "
 					SELECT *
-					FROM s32_product_variation_combinations
+					FROM [|PREFIX|]product_variation_combinations
 					WHERE
 						vcproductid='".$productId."' AND
 						vcenabled=1 AND
 						".implode(' AND ', $setMatches)."
 					LIMIT 1
 				";
-				error_log("Esto tiene query variations combinations");
-				error_log(print_r($query, true));
+
 				$result = $GLOBALS['ISC_CLASS_DB']->query($query);
-				error_log(print_r($result, true));
-				
 
 				$combination = $GLOBALS['ISC_CLASS_DB']->fetch($result);
 
@@ -1593,16 +1623,14 @@
 			// which set of options is next.
 			$query = "
 				SELECT DISTINCT voname
-				FROM s32_product_variation_options
+				FROM [|PREFIX|]product_variation_options
 				WHERE
 					vovariationid='".$product['prodvariationid']."'
 				ORDER BY vooptionsort ASC
 				LIMIT ".count($optionIdsArray).", 1
 			";
-			error_log("Query 1");
-			error_log(print_r($query, true));
+
 			$optionName = $GLOBALS['ISC_CLASS_DB']->fetchOne($query);
-			 error_log(print_r($optionName, true));
 			
 			$hasOptions = false;
 			$valueHTML = '';
@@ -1614,23 +1642,19 @@
 
 			$query = "
 				SELECT *
-				FROM s32_product_variation_options
+				FROM [|PREFIX|]product_variation_options
 				WHERE
 					vovariationid='".$product['prodvariationid']."' AND
 					voname='".$GLOBALS['ISC_CLASS_DB']->quote($optionName)."'
 				ORDER BY vovaluesort ASC
 			";
 
-			error_log("Query 2");
-                        error_log(print_r($query, true));
-			
 			$result = $GLOBALS['ISC_CLASS_DB']->query($query);
-			error_log(print_r($result, true));
 
 			while($option = $GLOBALS['ISC_CLASS_DB']->fetch($result)) {
 				$query = "
 					SELECT combinationid
-					FROM s32_product_variation_combinations
+					FROM [|PREFIX|]product_variation_combinations
 					WHERE
 						vcproductid='".$productId."' AND
 						vcenabled=1 AND
@@ -1638,8 +1662,6 @@
 						".implode(' AND ', $setMatches)."
 					LIMIT 1
 				";
-				error_log("Query 3");
-	                        error_log(print_r($query, true));
 
 				// Ok, this variation option isn't in use for this product at the moment. Skip it
 				if(!$GLOBALS['ISC_CLASS_DB']->fetchOne($query)) {
