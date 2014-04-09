@@ -1450,6 +1450,7 @@
 			$return= array();
 			$return['hasOptions'] =false;
 			$return['options'] = '';
+			$return['type'] = $_GET['type'];
 			
 			while($option = $GLOBALS['ISC_CLASS_DB']->fetch($result)) {
 				 $idOption[0] = explode(",", $option['vcoptionids']);
@@ -1534,7 +1535,7 @@
 				
 				$LayerImage = $this->ProcessCombinationImage($productId, $selections, $modifiers);
 
-			}else if($_GET['type'] =='radio'){
+			}else if($_GET['type'] =='radio' || $_GET['type'] =='one_combo'){
 				$result = $this->ProcessCombinationImageRadio($productId, $optionIds);
 				echo isc_json_encode($result);
 				exit;

@@ -86,10 +86,14 @@ $(document).ready(function() {
 	$(".VariationSelect").change(function() {
 		// cache a map of currently selected values.
 		var mapIndex = 0;
+		var countVariationSelect = 0;
 		$('.VariationSelect').each(function() {
 			prodVarSelectionMap[mapIndex] = this.value;
 			mapIndex++;
+			countVariationSelect++;
 		});
+		
+
 
 		// get the index of this select
 		var index = $('.VariationSelect').index($(this));
@@ -132,23 +136,34 @@ $(document).ready(function() {
 			(LayerModifiers[i].checked) ? modifiers.push(LayerModifiers[i].value.substring(1) ) : modifiers;
 		}
 		
+		var path = "";
+		if(countVariationSelect == 1){
+			path = '/remote.php?w=GetVariationOptions&productId=' + productId + '&options=' + optionIds + '&selections=' + selections.toString()+ '&modifiers=' + modifiers.toString()+ '&type=one_combo';
+		}else{
+			path = '/remote.php?w=GetVariationOptions&productId=' + productId + '&options=' + optionIds + '&selections=' + selections.toString()+ '&modifiers=' + modifiers.toString();
+		}
 		// request values for this option
 		$.getJSON(
-			config.AppPath + '/remote.php?w=GetVariationOptions&productId=' + productId + '&options=' + optionIds + '&selections=' + selections.toString()+ '&modifiers=' + modifiers.toString(),
+			config.AppPath + path,
 			function(data) {
 				// were options returned?
 				if (data.hasOptions) {
-					// load options into the next select, disable and focus it
-					$('.VariationSelect:eq(' + (index + 1) + ') option:gt(0)').remove();
-					$('.VariationSelect:eq(' + (index + 1) + ')').append(data.options).attr('disabled', '').focus();
-
-					// auto select previously selected option, and cascade down, if possible
-					var preVal = prodVarSelectionMap[(index + 1)];
-					if (preVal != '') {
-						var preOption = $('.VariationSelect:eq(' + (index + 1) + ') option[value=' +preVal+']');
-						if (preOption) {
-							preOption.attr('selected', true);
-							$('.VariationSelect:eq(' + (index + 1) + ')').trigger('change');
+					
+					if(data.type == "one_combo"){
+						ChangeLayerImageRadio(data);
+					}else{
+						// load options into the next select, disable and focus it
+						$('.VariationSelect:eq(' + (index + 1) + ') option:gt(0)').remove();
+						$('.VariationSelect:eq(' + (index + 1) + ')').append(data.options).attr('disabled', '').focus();
+	
+						// auto select previously selected option, and cascade down, if possible
+						var preVal = prodVarSelectionMap[(index + 1)];
+						if (preVal != '') {
+							var preOption = $('.VariationSelect:eq(' + (index + 1) + ') option[value=' +preVal+']');
+							if (preOption) {
+								preOption.attr('selected', true);
+								$('.VariationSelect:eq(' + (index + 1) + ')').trigger('change');
+							}
 						}
 					}
 				}
@@ -193,7 +208,6 @@ $(document).ready(function() {
 			config.AppPath + '/remote.php?w=GetVariationOptions&productId=' + productId + '&options=' + optionId + '&selections=' + selections.toString()+ '&modifiers=' + modifiers.toString()+ '&type=radio',
 			
 			function(data) {
-                console.log(data);
 				if (data.hasOptions) { // was a combination found instead?
 
 					ChangeLayerImageRadio(data);
