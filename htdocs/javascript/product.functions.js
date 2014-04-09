@@ -192,8 +192,8 @@ function ChangeLayerImage(parent, variation, id) {
 function ChangeLayerImageRadio(variation){
 	if(variation.thumb != '') {
 		$('.ProductThumbImage img').attr('src', variation.std);
-		$('.ProductThumbImage img').css('width', '100%');
-		$('.ProductThumbImage img').css('height', '100%');
+		$('.ProductThumbImage img').css('width', '460px');
+		$('.ProductThumbImage img').css('height', '460px');
 		$('.ProductTinyImageList img').attr('src', variation.thumb);
 		$('.ProductThumbImage a').attr("href", variation.zoom);
 		$('.ProductPrice').html(variation.price);
