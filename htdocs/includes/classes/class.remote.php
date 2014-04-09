@@ -1473,7 +1473,8 @@
 				 	$return['options'] = $pvo['vovalue'];
 				 } 
 			}
-			
+		
+			error_log(print_r($return, true));	
 			return $return;
 		}
 		
@@ -1519,6 +1520,8 @@
 			$query.= "FROM [|PREFIX|]products p ";
 			$query.= "JOIN [|PREFIX|]product_variations v ON (v.variationid=p.prodvariationid) ";
 			$query.= "WHERE p.productid='$productId'";
+			
+			error_log(print_r($query, true));
 
 			$result =$GLOBALS['ISC_CLASS_DB']->query($query);
 
@@ -1529,6 +1532,8 @@
 				exit;
 			}
 			
+			error_log("Si debes de entrar::::::::::");			
+
 			if($_GET['selections'] != '' || $_GET['modifiers'] != '') {
 				$selections = $_GET['selections'];
 				$modifiers = $_GET['modifiers'];
