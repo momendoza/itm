@@ -194,7 +194,7 @@ function ChangeLayerImageRadio(variation){
 		$('.ProductThumbImage img').attr('src', variation.std);
 		$('.ProductThumbImage img').css('width', '460px');
 		$('.ProductThumbImage img').css('height', '460px');
-		$('.ProductTinyImageList img').attr('src', variation.thumb);
+		$('.ProductTinyImageList img').attr('src', variation.std);
 		$('.ProductThumbImage a').attr("href", variation.zoom);
 		$('.ProductPrice').html(variation.price);
 		$('.VariationProductSKU').html(variation.sku);
@@ -311,7 +311,7 @@ function showVideoPopup(videoId) {
 
 
 function showProductThumbImage(ThumbIndex) {
-	$('.ProductThumbImage img').attr('src', ThumbURLs[ThumbIndex]);
+	/*$('.ProductThumbImage img').attr('src', ThumbURLs[ThumbIndex]);
 	$('.ProductThumbImage img').attr('alt', ProductImageDescriptions[ThumbIndex]);
 
 
@@ -321,7 +321,7 @@ function showProductThumbImage(ThumbIndex) {
 	if(ShowImageZoomer) {
 		$('.ProductThumbImage a').attr("href", ZoomImageURLs[ThumbIndex]);
 		$('.ProductThumbImage a').css({'cursor':'pointer'});
-	}
+	}*/
 }
 
 function highlightProductTinyImage(ThumbIndex) {
