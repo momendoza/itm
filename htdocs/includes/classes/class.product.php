@@ -1310,7 +1310,8 @@
 							LEFT JOIN [|PREFIX|]product_images pi ON (p.productid = pi.imageprodid AND pi.imageisthumb = 1) ";
 
 			// Sorting or filtering by price. Need to join the tax pricing table
-			if(!empty($searchQuery['price']) || !empty($searchQuery['price_from']) || !empty($searchQuery['price_to']) || $sortBy == 'priceasc' || $sortBy == 'pricedesc') {
+			//if(!empty($searchQuery['price']) || !empty($searchQuery['price_from']) || !empty($searchQuery['price_to']) || $sortBy == 'priceasc' || $sortBy == 'pricedesc') {
+			if(!empty($searchQuery['price']) || !empty($searchQuery['price_from']) || !empty($searchQuery['price_to'])){
 				$priceColumn = 'tp.calculated_price';
 
 				// Showing prices ex tax, so the tax zone ID = 0
@@ -1488,11 +1489,13 @@
 					break;
 
 				case "priceasc":
-					$orderBy = $priceColumn.' ASC';
+					//$orderBy = $priceColumn.' ASC';
+					$orderBy = "p.prodcalculatedprice ASC";
 					break;
 
 				case "pricedesc":
-					$orderBy = $priceColumn.' DESC';
+					//$orderBy = $priceColumn.' DESC';
+					$orderBy =  "p.prodcalculatedprice DESC";
 					break;
 			}
 
@@ -1509,7 +1512,7 @@
 					$query .= " LIMIT " . (int)$limit;
 				}
 			}
-
+			
 			$result = $GLOBALS["ISC_CLASS_DB"]->Query($query);
 			$row = $GLOBALS["ISC_CLASS_DB"]->Fetch($result);
 
